@@ -1,0 +1,100 @@
+{
+  "bookId": "book_11",
+  "title": "The Lord of the Rings",
+  "author": "J.R.R. Tolkien",
+  "moods": ["Fiction", "Lord of the Rings"],
+  
+  
+  "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+  "cover": "https://github.com/asprathi/ldrfull_volume/blob/main/lordoftherings.jpg?raw=true",
+
+  "chapters": [
+    {
+      "name": "Chapter 1: The boy who lived",
+      "url": "The Fellowship of the Ring/01-chapter.m4a"
+    },
+    {
+      "name": "Chapter 2: Vanishing Glass",
+      "url": "The Fellowship of the Ring/02-chapter.ogg"
+    }
+  ],
+ "chapters_en": [
+    { "section": "Prologue & Introduction", "name": "0.01. Opening Credits", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part1/0.01.%20Opening%20Credits.mp3" },
+    { "section": "Prologue & Introduction", "name": "0.02. Epigraph", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part1/0.02.%20Epigraph.mp3" },
+    { "section": "Prologue & Introduction", "name": "0.03. Foreword", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part1/0.03.%20Foreword.mp3" },
+    { "section": "Prologue & Introduction", "name": "0.04. Prologue", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part1/0.04.%20Prologue.mp3" },
+
+    
+    { "section": "The Fellowship of the Ring", "name": "1.01. A Long-Expected Party", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part1/1.01.%20A%20Long-Expected%20Party.mp3" },
+    { "section": "The Fellowship of the Ring", "name": "1.02. The Shadow Of The Past", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part1/1.02.%20The%20Shadow%20Of%20The%20Past.mp3" },
+    { "section": "The Fellowship of the Ring", "name": "1.03. Three Is Company", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part1/1.03.%20Three%20Is%20Company.mp3" },
+    { "section": "The Fellowship of the Ring", "name": "1.04. A Short Cut To Mushrooms", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part1/1.04.%20A%20Short%20Cut%20To%20Mushrooms.mp3" },
+    { "section": "The Fellowship of the Ring", "name": "1.05. A Conspiracy Unmasked", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part1/1.05.%20A%20Conspiracy%20Unmasked.mp3" },
+    { "section": "The Fellowship of the Ring", "name": "1.06. The Old Forest", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part1/1.06.%20The%20Old%20Forest.mp3" },
+    { "section": "The Fellowship of the Ring", "name": "1.07. In The House Of Tom Bombadil", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part1/1.07.%20In%20The%20House%20Of%20Tom%20Bombadil.mp3" },
+    { "section": "The Fellowship of the Ring", "name": "1.08. Fog On The Barrow-Downs", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part1/1.08.%20Fog%20On%20The%20Barrow-Downs.mp3" },
+    { "section": "The Fellowship of the Ring", "name": "1.09. At The Sign Of The Prancing Pony", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part1/1.09.%20At%20The%20Sign%20Of%20The%20Prancing%20Pony.mp3" },
+    { "section": "The Fellowship of the Ring", "name": "1.10. Strider", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part1/1.10.%20Strider.mp3" },
+    { "section": "The Fellowship of the Ring", "name": "1.11. A Knife In The Dark", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part1/1.11.%20A%20Knife%20In%20The%20Dark.mp3" },
+    { "section": "The Fellowship of the Ring", "name": "1.12. Flight to the Ford", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part1/1.12.%20Flight%20to%20the%20Ford.mp3" },
+    { "section": "The Fellowship of the Ring", "name": "1.13. Many Meetings", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part1/1.13.%20Many%20Meetings.mp3" },
+    { "section": "The Fellowship of the Ring", "name": "1.14. The Council Of Elrond", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part1/1.14.%20The%20Council%20Of%20Elrond.mp3" },
+    { "section": "The Fellowship of the Ring", "name": "1.15. The Ring Goes South", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part1/1.15.%20The%20Ring%20Goes%20South.mp3" },
+    { "section": "The Fellowship of the Ring", "name": "1.16. A Journey In The Dark", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part1/1.16.%20A%20Journey%20In%20The%20Dark.mp3" },  
+    { "section": "The Fellowship of the Ring", "name": "1.17. The Bridge Of Khazad-Dum", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part1/1.17.%20The%20Bridge%20Of%20Khazad-Dum.mp3" },
+    { "section": "The Fellowship of the Ring", "name": "1.18. Lothlorien", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part1/1.18.%20Lothlorien.mp3" },
+    { "section": "The Fellowship of the Ring", "name": "1.19. The Mirror Of Galadriel", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part1/1.19.%20The%20Mirror%20Of%20Galadriel.mp3" },
+    { "section": "The Fellowship of the Ring", "name": "1.20. Farewell To Lorien", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part1/1.20.%20Farewell%20To%20Lorien.mp3" },
+    { "section": "The Fellowship of the Ring", "name": "1.21. The Great River", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part1/1.21.%20The%20Great%20River.mp3" },
+    { "section": "The Fellowship of the Ring", "name": "1.22. The Breaking Of The Fellowship", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part1/1.22.%20The%20Breaking%20Of%20The%20Fellowship.mp3" },
+
+    
+    { "section": "The Two Towers", "name": "2.01. The Departure Of Boromir", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part2/2.01.%20The%20Departure%20Of%20Boromir.mp3" },
+    { "section": "The Two Towers", "name": "2.02. The Riders Of Rohan", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part2/2.02.%20The%20Riders%20Of%20Rohan.mp3" },
+    { "section": "The Two Towers", "name": "2.03. The Uruk-Hai", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part2/2.03.%20The%20Uruk-Hai.mp3" },
+    { "section": "The Two Towers", "name": "2.04. Treebeard", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part2/2.04.%20Treebeard.mp3" },
+    { "section": "The Two Towers", "name": "2.05. The White Rider", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part2/2.05.%20The%20White%20Rider.mp3" },
+    { "section": "The Two Towers", "name": "2.06. The King Of The Golden Hall", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part2/2.06.%20The%20King%20Of%20The%20Golden%20Hall.mp3" },
+    { "section": "The Two Towers", "name": "2.07. Helm's Deep", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part2/2.07.%20Helm's%20Deep.mp3" },
+    { "section": "The Two Towers", "name": "2.08. The Road To Isengard", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part2/2.08.%20The%20Road%20To%20Isengard.mp3" },
+    { "section": "The Two Towers", "name": "2.09. Flotsam And Jetsam", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part2/2.09.%20Flotsam%20And%20Jetsam.mp3" },
+    { "section": "The Two Towers", "name": "2.10. The Voice Of Saruman", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part2/2.10.%20The%20Voice%20Of%20Saruman.mp3" },
+    { "section": "The Two Towers", "name": "2.11. The Palantir", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part2/2.11.%20The%20Palantir.mp3" },
+    { "section": "The Two Towers", "name": "2.12. The Taming Of Smeagol", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part2/2.12.%20The%20Taming%20Of%20Smeagol.mp3" },
+    { "section": "The Two Towers", "name": "2.13. The Passage Of The Marshes", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part2/2.13.%20The%20Passage%20Of%20The%20Marshes.mp3" },
+    { "section": "The Two Towers", "name": "2.14. The Black Gate Is Closed", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part2/2.14.%20The%20Black%20Gate%20Is%20Closed.mp3" },
+    { "section": "The Two Towers", "name": "2.15. Of Herbs And Stewed Rabbit", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part2/2.15.%20Of%20Herbs%20And%20Stewed%20Rabbit.mp3" },
+    { "section": "The Two Towers", "name": "2.16. The Window On The West", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part2/2.16.%20The%20Window%20On%20The%20West.mp3" },
+    { "section": "The Two Towers", "name": "2.17. The Forbidden Pool", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part2/2.17.%20The%20Forbidden%20Pool.mp3" },
+    { "section": "The Two Towers", "name": "2.18. Journey To The Cross-Roads", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part2/2.18.%20Journey%20To%20The%20Cross-Roads.mp3" },
+    { "section": "The Two Towers", "name": "2.19. The Stairs Of Cirith Ungol", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part2/2.19.%20The%20Stairs%20Of%20Cirith%20Ungol.mp3" },
+    { "section": "The Two Towers", "name": "2.20. Shelob's Lair", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part2/2.20.%20Shelob's%20Lair.mp3" },
+    { "section": "The Two Towers", "name": "2.21. The Choices Of Master Samwise", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part2/2.21.%20The%20Choices%20Of%20Master%20Samwise.mp3" },
+
+    
+    { "section": "The Return of the King", "name": "3.01. Minas Tirith", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part3/3.01.%20Minas%20Tirith.mp3" },
+    { "section": "The Return of the King", "name": "3.02. The Passing Of The Grey Company", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part3/3.02.%20The%20Passing%20Of%20The%20Grey%20Company.mp3" },
+    { "section": "The Return of the King", "name": "3.03. The Muster Of Rohan", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part3/3.03.%20The%20Muster%20Of%20Rohan.mp3" },
+    { "section": "The Return of the King", "name": "3.04. The Siege Of Gondor", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part3/3.04.%20The%20Siege%20Of%20Gondor.mp3" },
+    { "section": "The Return of the King", "name": "3.05. The Ride Of The Rohirrim", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part3/3.05.%20The%20Ride%20Of%20The%20Rohirrim.mp3" },
+    { "section": "The Return of the King", "name": "3.06. The Battle Of The Pelennor Fields", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part3/3.06.%20The%20Battle%20Of%20The%20Pelennor%20Fields.mp3" },
+    { "section": "The Return of the King", "name": "3.07. The Pyre Of Denethor", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part3/3.07.%20The%20Pyre%20Of%20Denethor.mp3" },
+    { "section": "The Return of the King", "name": "3.08. The Houses Of Healing", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part3/3.08.%20The%20Houses%20Of%20Healing.mp3" },
+    { "section": "The Return of the King", "name": "3.09. The Last Debate", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part3/3.09.%20The%20Last%20Debate.mp3" },
+    { "section": "The Return of the King", "name": "3.10. The Black Gate Opens", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part3/3.10.%20The%20Black%20Gate%20Opens.mp3" },
+    { "section": "The Return of the King", "name": "3.11. The Tower Of Cirith Ungol", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part3/3.11.%20The%20Tower%20Of%20Cirith%20Ungol.mp3" },
+    { "section": "The Return of the King", "name": "3.12. The Land Of Shadow", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part3/3.12.%20The%20Land%20Of%20Shadow.mp3" },
+    { "section": "The Return of the King", "name": "3.13. Mount Doom", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part3/3.13.%20Mount%20Doom.mp3" },
+    { "section": "The Return of the King", "name": "3.14. The Field Of Cormallen", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part3/3.14.%20The%20Field%20Of%20Cormallen.mp3" },
+    { "section": "The Return of the King", "name": "3.15. The Steward And The King", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part3/3.15.%20The%20Steward%20And%20The%20King.mp3" },
+    { "section": "The Return of the King", "name": "3.16. Many Partings", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part3/3.16.%20Many%20Partings.mp3" },
+    { "section": "The Return of the King", "name": "3.17. Homeward Bound", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part3/3.17.%20Homeward%20Bound.mp3" },
+    { "section": "The Return of the King", "name": "3.18. The Scouring Of The Shire", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part3/3.18.%20The%20Scouring%20Of%20The%20Shire.mp3" },
+    { "section": "The Return of the King", "name": "3.19. The Grey Havens", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part3/3.19.%20The%20Grey%20Havens.mp3" },
+
+    
+    { "section": "Appendices", "name": "4.01. Appendix A", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part3/4.01.%20Appendix%20A.mp3" },
+    { "section": "Appendices", "name": "4.02. Appendix B", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part4/4.02.%20Appendix%20B.mp3" },
+    { "section": "Appendices", "name": "4.03. End Credits", "url": "https://raw.githack.com/asprathi/ldrfull_volume/main/part4/4.03.%20End%20Credits.mp3" }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "bookId": "book_20",
+  "title": "New Moon",
+  "author": "Stephenie Meyer",
+  "moods": [
+    "Fiction",
+    "Romance"
+  ],
+  "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+  "cover": "https://m.media-amazon.com/images/I/81KvBJj7cEL._SL1500_.jpg",
+  "chapters_en": [
+    {
+      "name": "Chapter 1: Party",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw3/Chapter_01.m4a"
+    },
+    {
+      "name": "Chapter 2: Stitches",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw3/Chapter_02.m4a"
+    },
+    {
+      "name": "Chapter 3: The End",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw3/Chapter_03.m4a"
+    },
+    {
+      "name": "Chapter 4: Waking Up",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw3/Chapter_04.m4a"
+    },
+    {
+      "name": "Chapter 5: Cheater",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw3/Chapter_05.m4a"
+    },
+    {
+      "name": "Chapter 6: Friends",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw3/Chapter_06.m4a"
+    },
+    {
+      "name": "Chapter 7: Repetition",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw3/Chapter_07.m4a"
+    },
+    {
+      "name": "Chapter 8: Adrenaline",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw3/Chapter_08.m4a"
+    },
+    {
+      "name": "Chapter 9: Third Wheel",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw3/Chapter_09.m4a"
+    },
+    {
+      "name": "Chapter 10: The Meadow",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw3/Chapter_10.m4a"
+    },
+    {
+      "name": "Chapter 11: Cult",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw3/Chapter_11.m4a"
+    },
+    {
+      "name": "Chapter 12: Intruder",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw3/Chapter_12.m4a"
+    },
+    {
+      "name": "Chapter 13: Killer",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw3/Chapter_13.m4a"
+    },
+    {
+      "name": "Chapter 14: Family",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw3/Chapter_14.m4a"
+    },
+    {
+      "name": "Chapter 15: Pressure",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw3/Chapter_15.m4a"
+    },
+    {
+      "name": "Chapter 16: Paris",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw3/Chapter_16.m4a"
+    },
+    {
+      "name": "Chapter 17: Visitor",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw3/Chapter_17.m4a"
+    },
+    {
+      "name": "Chapter 18: The Funeral",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw3/Chapter_18.m4a"
+    },
+    {
+      "name": "Chapter 19: Race",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw3/Chapter_19.m4a"
+    },
+    {
+      "name": "Chapter 20: Volterra",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw3/Chapter_20.m4a"
+    },
+    {
+      "name": "Chapter 21: Verdict",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw3/Chapter_21.m4a"
+    },
+    {
+      "name": "Chapter 22: Flight",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw3/Chapter_22.m4a"
+    },
+    {
+      "name": "Chapter 23: The Truth",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw3/Chapter_23.m4a"
+    },
+    {
+      "name": "Chapter 24: Vote",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw3/Chapter_24.m4a"
+    },
+    {
+      "name": "Epilogue: Treaty",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw3/Chapter_25.m4a"
+    }
+  ]
+}

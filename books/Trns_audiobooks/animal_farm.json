@@ -1,0 +1,60 @@
+{
+  "bookId": "book_26",
+  "title": "Animal Farm",
+  "author": "George Orwell",
+  "moods": [
+    "Fiction"
+  ],
+  "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+  "cover": "https://m.media-amazon.com/images/I/91lR0uRSICL._SL1500_.jpg",
+  "chapters": [
+    {
+      "name": "Opening Credits",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/anf_hin/Opening%20Credits.m4a"
+    },
+    {
+      "name": "अध्याय  1",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/anf_hin/Chapter_1.m4a"
+    },
+    {
+      "name": "अध्याय  2",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/anf_hin/Chapter_2.m4a"
+    },
+    {
+      "name": "अध्याय  3",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/anf_hin/Chapter_3.m4a"
+    },
+    {
+      "name": "अध्याय  4",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/anf_hin/Chapter_4.m4a"
+    },
+    {
+      "name": "अध्याय  5",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/anf_hin/Chapter_5.m4a"
+    },
+    {
+      "name": "अध्याय  6",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/anf_hin/Chapter_6.m4a"
+    },
+    {
+      "name": "अध्याय  7",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/anf_hin/Chapter_7.m4a"
+    },
+    {
+      "name": "अध्याय  8",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/anf_hin/Chapter_8.m4a"
+    },
+    {
+      "name": "अध्याय  9",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/anf_hin/Chapter_9.m4a"
+    },
+    {
+      "name": "अध्याय  10",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/anf_hin/Chapter_10.m4a"
+    },
+    {
+      "name": "End Credits",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/anf_hin/End%20Credits.m4a"
+    }
+  ]
+}

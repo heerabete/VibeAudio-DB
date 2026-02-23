@@ -1,0 +1,311 @@
+{
+  "bookId": "book_4",
+  "title": "Harry Potter and the Goblet of Fire",
+  "author": "J.K. Rowling",
+  "moods": [
+    "Fiction",
+    "Harry Potter"
+  ],
+  "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+  "cover": "https://m.media-amazon.com/images/I/81zeKRGCPpL._SL1500_.jpg",
+  "chapters": [
+    {
+      "name": "Chapter 1: रिडल भवन",
+      "url": "Harry Potter and the Goblet of Fire/01-chapter.m4a"
+    },
+    {
+      "name": "Chapter 2: शाप का निशान",
+      "url": "Harry Potter and the Goblet of Fire/02-chapter.m4a"
+    },
+    {
+      "name": "Chapter 3: आमंत्रण",
+      "url": "Harry Potter and the Goblet of Fire/03-chapter.m4a"
+    },
+    {
+      "name": "Chapter 4: दोबारा रॉन के घर",
+      "url": "Harry Potter and the Goblet of Fire/04-chapter.m4a"
+    },
+    {
+      "name": "Chapter 5: विजली बंधुओं की जादूगरी की दुकान",
+      "url": "Harry Potter and the Goblet of Fire/05-chapter.m4a"
+    },
+    {
+      "name": "Chapter 6: आवागमन - कुंजी",
+      "url": "Harry Potter and the Goblet of Fire/06-chapter.m4a"
+    },
+    {
+      "name": "Chapter 7: बैगमैन और क्राउच",
+      "url": "Harry Potter and the Goblet of Fire/07-chapter.m4a"
+    },
+    {
+      "name": "Chapter 8: क्विडिच वर्ल्ड कप",
+      "url": "Harry Potter and the Goblet of Fire/08-chapter.m4a"
+    },
+    {
+      "name": "Chapter 9: मौत का निशान",
+      "url": "Harry Potter and the Goblet of Fire/09-chapter.m4a"
+    },
+    {
+      "name": "Chapter 10: मंत्रालय में हंगामा",
+      "url": "Harry Potter and the Goblet of Fire/10-chapter.m4a"
+    },
+    {
+      "name": "Chapter 11: हॉगवर्ट्स एक्सप्रेस में",
+      "url": "Harry Potter and the Goblet of Fire/11-chapter.m4a"
+    },
+    {
+      "name": "Chapter 12: जादूगरी का त्रिकोणीय टूर्नामेंट",
+      "url": "Harry Potter and the Goblet of Fire/12-chapter.m4a"
+    },
+    {
+      "name": "Chapter 13: बावरे-नैन मूडी",
+      "url": "Harry Potter and the Goblet of Fire/13-chapter.m4a"
+    },
+    {
+      "name": "Chapter 14: अक्षम्य शाप",
+      "url": "Harry Potter and the Goblet of Fire/14-chapter.m4a"
+    },
+    {
+      "name": "Chapter 15: बाबैटन्स और डर्मस्टैंग",
+      "url": "Harry Potter and the Goblet of Fire/15-chapter.m4a"
+    },
+    {
+      "name": "Chapter 16: आग का प्याला",
+      "url": "Harry Potter and the Goblet of Fire/16-chapter.m4a"
+    },
+    {
+      "name": "Chapter 17: चार चैंपियन",
+      "url": "Harry Potter and the Goblet of Fire/17-chapter.m4a"
+    },
+    {
+      "name": "Chapter 18: छड़ियों की जाँच",
+      "url": "Harry Potter and the Goblet of Fire/18-chapter.m4a"
+    },
+    {
+      "name": "Chapter 19: हंगेरियन ड्रैगन हॉर्नटेल",
+      "url": "Harry Potter and the Goblet of Fire/19-chapter.m4a"
+    },
+    {
+      "name": "Chapter 20: पहला काम",
+      "url": "Harry Potter and the Goblet of Fire/20-chapter.m4a"
+    },
+    {
+      "name": "Chapter 21: घरेलू जिन्न मुक्ति मोर्चा",
+      "url": "Harry Potter and the Goblet of Fire/21-chapter.m4a"
+    },
+    {
+      "name": "Chapter 22: अप्रत्याशित काम",
+      "url": "Harry Potter and the Goblet of Fire/22-chapter.m4a"
+    },
+    {
+      "name": "Chapter 23: यूल डांस",
+      "url": "Harry Potter and the Goblet of Fire/23-chapter.m4a"
+    },
+    {
+      "name": "Chapter 24: रीटा स्कीटर की धमाकेदार खबर",
+      "url": "Harry Potter and the Goblet of Fire/24-chapter.m4a"
+    },
+    {
+      "name": "Chapter 25: अंडा और आंख",
+      "url": "Harry Potter and the Goblet of Fire/25-chapter.m4a"
+    },
+    {
+      "name": "Chapter 26: दूसरा काम",
+      "url": "Harry Potter and the Goblet of Fire/26-chapter.m4a"
+    },
+    {
+      "name": "Chapter 27: सीरियस की वापसी",
+      "url": "Harry Potter and the Goblet of Fire/27-chapter.m4a"
+    },
+    {
+      "name": "Chapter 28: मिस्टर क्राउच का पागलपन",
+      "url": "Harry Potter and the Goblet of Fire/28-chapter.m4a"
+    },
+    {
+      "name": "Chapter 29: सपना",
+      "url": "Harry Potter and the Goblet of Fire/29-chapter.m4a"
+    },
+    {
+      "name": "Chapter 30: स्मृति पात्र",
+      "url": "Harry Potter and the Goblet of Fire/30-chapter.m4a"
+    },
+    {
+      "name": "Chapter 31: तीसरा काम",
+      "url": "Harry Potter and the Goblet of Fire/31-chapter.m4a"
+    },
+    {
+      "name": "Chapter 32: मांस रक्त और हड्डी",
+      "url": "Harry Potter and the Goblet of Fire/32-chapter.m4a"
+    },
+    {
+      "name": "Chapter 33: प्राणभक्षी",
+      "url": "Harry Potter and the Goblet of Fire/33-chapter.m4a"
+    },
+    {
+      "name": "Chapter 34: पूर्वमंत्र",
+      "url": "Harry Potter and the Goblet of Fire/34-chapter.m4a"
+    },
+    {
+      "name": "Chapter 35: सत्यद्रव",
+      "url": "Harry Potter and the Goblet of Fire/35-chapter.m4a"
+    },
+    {
+      "name": "Chapter 36: अलग अलग रास्ते",
+      "url": "Harry Potter and the Goblet of Fire/36-chapter.m4a"
+    },
+    {
+      "name": "Chapter 37: शुरुआत",
+      "url": "Harry Potter and the Goblet of Fire/37-chapter.m4a"
+    }
+  ],
+   "chapters_en": [
+    {
+      "name": "Chapter 1: The Riddle House",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull4/Chapter_01.m4a"
+    },
+    {
+      "name": "Chapter 2: The Scar",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull4/Chapter_02.m4a"
+    },
+    {
+      "name": "Chapter 3: The Invitation",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull4/Chapter_03.m4a"
+    },
+    {
+      "name": "Chapter 4: Back to the Burrow",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull4/Chapter_04.m4a"
+    },
+    {
+      "name": "Chapter 5: Weasleys' Wizard Wheezes",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull4/Chapter_05.m4a"
+    },
+    {
+      "name": "Chapter 6: The Portkey",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull4/Chapter_06.m4a"
+    },
+    {
+      "name": "Chapter 7: Bagman and Crouch",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull4/Chapter_07.m4a" 
+    },
+    {
+      "name": "Chapter 8: The Quidditch World Cup",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull4/Chapter_08.m4a"
+    },
+    {
+      "name": "Chapter 9: The Dark Mark",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull4/Chapter_09.m4a" 
+    },
+    {
+      "name": "Chapter 10: Mayhem at the Ministry",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull4/Chapter_10.m4a"
+    },
+    {
+      "name": "Chapter 11: Aboard the Hogwarts Express",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull4/Chapter_11.m4a"
+    },
+    {
+      "name": "Chapter 12: The Triwizard Tournament",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull4/Chapter_12.m4a"
+    },
+    {
+      "name": "Chapter 13: Mad-Eye Moody",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull4/Chapter_13.m4a"
+    },
+    {
+      "name": "Chapter 14: The Unforgivable Curses",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull4/Chapter_14.m4a"
+    },
+    {
+      "name": "Chapter 15: Beauxbatons and Durmstrang",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull4/Chapter_15.m4a"
+    },
+    {
+      "name": "Chapter 16: The Goblet of Fire",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull4/Chapter_16.m4a"
+    },
+    {
+      "name": "Chapter 17: The Four Champions",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull4/Chapter_17.m4a"
+    },
+    {
+      "name": "Chapter 18: The Weighing of the Wands",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull4/Chapter_18.m4a"
+    },
+    {
+      "name": "Chapter 19: The Hungarian Horntail",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull4/Chapter_19.m4a"
+    },
+    {
+      "name": "Chapter 20: The First Task",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull4/Chapter_20.m4a"
+    },
+    {
+      "name": "Chapter 21: The House-Elf Liberation Front",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull4/Chapter_21.m4a"
+    },
+    {
+      "name": "Chapter 22: The Unexpected Task",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull4/Chapter_22.m4a"
+    },
+    {
+      "name": "Chapter 23: The Yule Ball",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull4/Chapter_23.m4a"
+    },
+    {
+      "name": "Chapter 24: Rita Skeeter's Scoop",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull4/Chapter_24.m4a"
+    },
+    {
+      "name": "Chapter 25: The Egg and the Eye",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull4/Chapter_25.m4a"
+    },
+    {
+      "name": "Chapter 26: The Second Task",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull4/Chapter_26.m4a"
+    },
+    {
+      "name": "Chapter 27: Padfoot Returns",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull4/Chapter_27.m4a"
+    },
+    {
+      "name": "Chapter 28: The Madness of Mr. Crouch",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull4/Chapter_28.m4a"
+    },
+    {
+      "name": "Chapter 29: The Dream",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull4/Chapter_29.m4a"
+    },
+    {
+      "name": "Chapter 30: The Pensieve",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull4/Chapter_30.m4a"
+    },
+    {
+      "name": "Chapter 31: The Third Task",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull4/Chapter_31.m4a"
+    },
+    {
+      "name": "Chapter 32: Flesh, Blood, and Bone",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull4/Chapter_32.m4a"
+    },
+    {
+      "name": "Chapter 33: The Death Eaters",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull4/Chapter_33.m4a"
+    },
+    {
+      "name": "Chapter 34: Priori Incantatem",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull4/Chapter_34.m4a"
+    },
+    {
+      "name": "Chapter 35: Veritaserum",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull4/Chapter_35.m4a"
+    },
+    {
+      "name": "Chapter 36: The Parting of the Ways",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull4/Chapter_36.m4a"
+    },
+    {
+      "name": "Chapter 37: The Beginning",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull4/Chapter_37.m4a"
+    }
+  ]
+}

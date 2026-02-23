@@ -1,0 +1,319 @@
+{
+  "bookId": "book_5",
+  "title": "Harry Potter and the Order of the Phoenix",
+  "author": "J.K. Rowling",
+  "moods": [
+    "Fiction",
+    "Harry Potter"
+  ],
+  "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+  "cover": "https://m.media-amazon.com/images/I/81Budsu1XBL._SL1500_.jpg",
+  "chapters": [
+    {
+      "name": "Chapter 1: डडली पर हमला",
+      "url": "Harry Potter and the Order of the Phoenix/01-chapter.m4a"
+    },
+    {
+      "name": "Chapter 2: बहुत सारे उल्लू",
+      "url": "Harry Potter and the Order of the Phoenix/02-chapter.m4a"
+    },
+    {
+      "name": "Chapter 3: पहरेदार",
+      "url": "Harry Potter and the Order of the Phoenix/03-chapter.m4a"
+    },
+    {
+      "name": "Chapter 4: बारह नंबर ग्रिमाल्ड चौक",
+      "url": "Harry Potter and the Order of the Phoenix/04-chapter.m4a"
+    },
+    {
+      "name": "Chapter 5: मायापंछी का समूह",
+      "url": "Harry Potter and the Order of the Phoenix/05-chapter.m4a"
+    },
+    {
+      "name": "Chapter 6: ब्लैक खानदान का पुश्तैनी मकान",
+      "url": "Harry Potter and the Order of the Phoenix/06-chapter.m4a"
+    },
+    {
+      "name": "Chapter 7: जादू मंत्रालय",
+      "url": "Harry Potter and the Order of the Phoenix/07-chapter.m4a"
+    },
+    {
+      "name": "Chapter 8: सुनवाई",
+      "url": "Harry Potter and the Order of the Phoenix/08-chapter.m4a"
+    },
+    {
+      "name": "Chapter 9: मिसेज विजली की चिंताएं",
+      "url": "Harry Potter and the Order of the Phoenix/09-chapter.m4a"
+    },
+    {
+      "name": "Chapter 10: लूना लवगुड",
+      "url": "Harry Potter and the Order of the Phoenix/10-chapter.ogg"
+    },
+    {
+      "name": "Chapter 11: बोलती टोपी का नया गीत",
+      "url": "Harry Potter and the Order of the Phoenix/11-chapter.m4a"
+    },
+    {
+      "name": "Chapter 12: प्रोफेसर अंबरीज",
+      "url": "Harry Potter and the Order of the Phoenix/12-chapter.m4a"
+    },
+    {
+      "name": "Chapter 13: डोलोरेस के साथ सज़ा",
+      "url": "Harry Potter and the Order of the Phoenix/13-chapter.m4a"
+    },
+    {
+      "name": "Chapter 14: पर्सी और सिरियस",
+      "url": "Harry Potter and the Order of the Phoenix/14-chapter.m4a"
+    },
+    {
+      "name": "Chapter 15: हॉगवर्ट्स की सर्वोच्च प्रशासक",
+      "url": "Harry Potter and the Order of the Phoenix/15-chapter.m4a"
+    },
+    {
+      "name": "Chapter 16: हॉग्स हेड में",
+      "url": "Harry Potter and the Order of the Phoenix/16-chapter.m4a"
+    },
+    {
+      "name": "Chapter 17: शैक्षणिक क़ानून क्रमांक चौबीस",
+      "url": "Harry Potter and the Order of the Phoenix/17-chapter.m4a"
+    },
+    {
+      "name": "Chapter 18: डंबलडोर की सेना",
+      "url": "Harry Potter and the Order of the Phoenix/18-chapter.m4a"
+    },
+    {
+      "name": "Chapter 19: शेर और सांप",
+      "url": "Harry Potter and the Order of the Phoenix/19-chapter.m4a"
+    },
+    {
+      "name": "Chapter 20: हैग्रिड की कहानी",
+      "url": "Harry Potter and the Order of the Phoenix/20-chapter.m4a"
+    },
+    {
+      "name": "Chapter 21: सांप की आंख",
+      "url": "Harry Potter and the Order of the Phoenix/21-chapter.m4a"
+    },
+    {
+      "name": "Chapter 22: सेंट मंगोज़ जादुई रोग एवं दुर्घटना अस्पताल",
+      "url": "Harry Potter and the Order of the Phoenix/22-chapter.m4a"
+    },
+    {
+      "name": "Chapter 23: बंद वार्ड में क्रिसमस",
+      "url": "Harry Potter and the Order of the Phoenix/23-chapter.m4a"
+    },
+    {
+      "name": "Chapter 24: गुप्तविद्या",
+      "url": "Harry Potter and the Order of the Phoenix/24-chapter.m4a"
+    },
+    {
+      "name": "Chapter 25: रीटा स्कीटर",
+      "url": "Harry Potter and the Order of the Phoenix/25-chapter.m4a"
+    },
+    {
+      "name": "Chapter 26: देखा और अनदेखा",
+      "url": "Harry Potter and the Order of the Phoenix/26-chapter.m4a"
+    },
+    {
+      "name": "Chapter 27: सेनटॉर और मुखबिर",
+      "url": "Harry Potter and the Order of the Phoenix/27-chapter.m4a"
+    },
+    {
+      "name": "Chapter 28: स्नेप की सबसे बुरी याद",
+      "url": "Harry Potter and the Order of the Phoenix/28-chapter.m4a"
+    },
+    {
+      "name": "Chapter 29: कैरियर संबंधी सलाह",
+      "url": "Harry Potter and the Order of the Phoenix/29-chapter.m4a"
+    },
+    {
+      "name": "Chapter 30: ग्रॉप",
+      "url": "Harry Potter and the Order of the Phoenix/30-chapter.m4a"
+    },
+    {
+      "name": "Chapter 31: परिक्षा",
+      "url": "Harry Potter and the Order of the Phoenix/31-chapter.m4a"
+    },
+    {
+      "name": "Chapter 32: अंगीठी में",
+      "url": "Harry Potter and the Order of the Phoenix/32-chapter.m4a"
+    },
+    {
+      "name": "Chapter 33: लड़ाई और उड़ान",
+      "url": "Harry Potter and the Order of the Phoenix/33-chapter.m4a"
+    },
+    {
+      "name": "Chapter 34: रहस्य विभाग",
+      "url": "Harry Potter and the Order of the Phoenix/34-chapter.m4a"
+    },
+    {
+      "name": "Chapter 35: पर्दे पार",
+      "url": "Harry Potter and the Order of the Phoenix/35-chapter.m4a"
+    },
+    {
+      "name": "Chapter 36: वही हुआ जिसका डर था",
+      "url": "Harry Potter and the Order of the Phoenix/36-chapter.m4a"
+    },
+    {
+      "name": "Chapter 37: खोई हुई भविष्यवाणी",
+      "url": "Harry Potter and the Order of the Phoenix/37-chapter.m4a"
+    },
+    {
+      "name": "Chapter 38: दूसरा युद्ध शुरू होता है",
+      "url": "Harry Potter and the Order of the Phoenix/38-chapter.ogg"
+    }
+  ],
+  "chapters_en": [
+    {
+      "name": "Chapter 1: Dudley Demented",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng4_5/main/hen_5/HP5%20-%20CH01.mp3"
+    },
+    {
+      "name": "Chapter 2: A Peck of Owls",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng4_5/main/hen_5/HP5%20-%20CH02.mp3"
+    },
+    {
+      "name": "Chapter 3: The Advance Guard",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng4_5/main/hen_5/HP5%20-%20CH03.mp3"
+    },
+    {
+      "name": "Chapter 4: Number Twelve, Grimmauld Place",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng4_5/main/hen_5/HP5%20-%20CH04.mp3"
+    },
+    {
+      "name": "Chapter 5: The Order of the Phoenix",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng4_5/main/hen_5/HP5%20-%20CH05.mp3"
+    },
+    {
+      "name": "Chapter 6: The Noble and Most Ancient House of Black",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng4_5/main/hen_5/HP5%20-%20CH06.mp3"
+    },
+    {
+      "name": "Chapter 7: The Ministry of Magic",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng4_5/main/hen_5/HP5%20-%20CH07.mp3"
+    },
+    {
+      "name": "Chapter 8: The Hearing",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng4_5/main/hen_5/HP5%20-%20CH08.mp3"
+    },
+    {
+      "name": "Chapter 9: The Woes of Mrs. Weasley",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng4_5/main/hen_5/HP5%20-%20CH09.mp3"
+    },
+    {
+      "name": "Chapter 10: Luna Lovegood",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng4_5/main/hen_5/HP5%20-%20CH10.mp3"
+    },
+    {
+      "name": "Chapter 11: The Sorting Hat's New Song",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng4_5/main/hen_5/HP5%20-%20CH11.mp3"
+    },
+    {
+      "name": "Chapter 12: Professor Umbridge",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng4_5/main/hen_5/HP5%20-%20CH12.mp3"
+    },
+    {
+      "name": "Chapter 13: Detention with Dolores",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng4_5/main/hen_5/HP5%20-%20CH13.mp3"
+    },
+    {
+      "name": "Chapter 14: Percy and Padfoot",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng4_5/main/hen_5/HP5%20-%20CH14.mp3"
+    },
+    {
+      "name": "Chapter 15: The High Inquisitor of Hogwarts",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng4_5/main/hen_5/HP5%20-%20CH15.mp3"
+    },
+    {
+      "name": "Chapter 16: In the Hog's Head",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng4_5/main/hen_5/HP5%20-%20CH16.mp3"
+    },
+    {
+      "name": "Chapter 17: Educational Decree Number Twenty-four",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng4_5/main/hen_5/HP5%20-%20CH17.mp3"
+    },
+    {
+      "name": "Chapter 18: Dumbledore's Army",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng4_5/main/hen_5/HP5%20-%20CH18.mp3"
+    },
+    {
+      "name": "Chapter 19: The Lion and the Serpent",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng4_5/main/hen_5/HP5%20-%20CH19.mp3"
+    },
+    {
+      "name": "Chapter 20: Hagrid's Tale",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng4_5/main/hen_5/HP5%20-%20CH20.mp3"
+    },
+    {
+      "name": "Chapter 21: The Eye of the Snake",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng4_5/main/hen_5/HP5%20-%20CH21.mp3"
+    },
+    {
+      "name": "Chapter 22: St. Mungo's Hospital for Magical Maladies and Injuries",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng4_5/main/hen_5/HP5%20-%20CH22.mp3"
+    },
+    {
+      "name": "Chapter 23: Christmas on the Closed Ward",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng4_5/main/hen_5/HP5%20-%20CH23.mp3"
+    },
+    {
+      "name": "Chapter 24: Occlumency",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng4_5/main/hen_5/HP5%20-%20CH24.mp3"
+    },
+    {
+      "name": "Chapter 25: The Beetle at Bay",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng4_5/main/hen_5/HP5%20-%20CH25.mp3"
+    },
+    {
+      "name": "Chapter 26: Seen and Unforeseen",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng4_5/main/hen_5/HP5%20-%20CH26.mp3"
+    },
+    {
+      "name": "Chapter 27: The Centaur and the Sneak",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng4_5/main/hen_5/HP5%20-%20CH27.mp3"
+    },
+    {
+      "name": "Chapter 28: Snape's Worst Memory",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng4_5/main/hen_5/HP5%20-%20CH28.mp3"
+    },
+    {
+      "name": "Chapter 29: Career Advice",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng4_5/main/hen_5/HP5%20-%20CH29.mp3"
+    },
+    {
+      "name": "Chapter 30: Grawp",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng4_5/main/hen_5/HP5%20-%20CH30.mp3"
+    },
+    {
+      "name": "Chapter 31: O.W.L.s",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng4_5/main/hen_5/HP5%20-%20CH31.mp3"
+    },
+    {
+      "name": "Chapter 32: Out of the Fire",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng4_5/main/hen_5/HP5%20-%20CH32.mp3"
+    },
+    {
+      "name": "Chapter 33: Fight and Flight",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng4_5/main/hen_5/HP5%20-%20CH33.mp3"
+    },
+    {
+      "name": "Chapter 34: The Department of Mysteries",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng4_5/main/hen_5/HP5%20-%20CH34.mp3"
+    },
+    {
+      "name": "Chapter 35: Beyond the Veil",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng4_5/main/hen_5/HP5%20-%20CH35.mp3"
+    },
+    {
+      "name": "Chapter 36: The Only One He Ever Feared",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng4_5/main/hen_5/HP5%20-%20CH36.mp3"
+    },
+    {
+      "name": "Chapter 37: The Lost Prophecy",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng4_5/main/hen_5/HP5%20-%20CH37.mp3"
+    },
+    {
+      "name": "Chapter 38: The Second War Begins",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng4_5/main/hen_5/HP5%20-%20CH38.mp3"
+    }
+  ]
+}

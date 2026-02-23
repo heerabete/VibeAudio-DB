@@ -1,0 +1,193 @@
+{
+  "bookId": "book_12",
+  "title": "Sapiens - A Brief History of Humankind",
+  "author": "Yuval Noah Harari",
+  "moods": [
+    "History",
+    "Non-Fiction"
+  ],
+  "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+  "cover": "https://m.media-amazon.com/images/I/71IH1wu2xaL._SL1500_.jpg",
+  "chapters": [
+    {
+      "name": "Opening Credits",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/sp_hin/Opening%20Credits.m4a"
+    },
+    {
+      "name": "Chapter 1: An Animal of No Significance",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/sp_hin/Chapter_1.m4a"
+    },
+    {
+      "name": "Chapter 2: The Tree of Knowledge",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/sp_hin/Chapter_2.m4a"
+    },
+    {
+      "name": "Chapter 3: A Day in the Life of Adam and Eve",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/sp_hin/Chapter_3.m4a"
+    },
+    {
+      "name": "Chapter 4: The Flood",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/sp_hin/Chapter_4.m4a"
+    },
+    {
+      "name": "Chapter 5: History's Biggest Fraud",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/sp_hin/Chapter_5.m4a"
+    },
+    {
+      "name": "Chapter 6: Building Pyramids",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/sp_hin/Chapter_6.m4a"
+    },
+    {
+      "name": "Chapter 7: Memory Overload",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/sp_hin/Chapter_7.m4a"
+    },
+    {
+      "name": "Chapter 8: There is No Justice in History",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/sp_hin/Chapter_8.m4a"
+    },
+    {
+      "name": "Chapter 9: The Arrow of History",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/sp_hin/Chapter_9.m4a"
+    },
+    {
+      "name": "Chapter 10: The Scent of Money",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/sp_hin/Chapter_10.m4a"
+    },
+    {
+      "name": "Chapter 11: Imperial Visions",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/sp_hin/Chapter_11.m4a"
+    },
+    {
+      "name": "Chapter 12: The Law of Religion",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/sp_hin/Chapter_12.m4a"
+    },
+    {
+      "name": "Chapter 13: The Secret of Success",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/sp_hin/Chapter_13.m4a"
+    },
+    {
+      "name": "Chapter 14: The Discovery of Ignorance",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/sp_hin/Chapter_14.m4a"
+    },
+    {
+      "name": "Chapter 15: The Marriage of Science and Empire",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/sp_hin/Chapter_15.m4a"
+    },
+    {
+      "name": "Chapter 16: The Capitalist Creed",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/sp_hin/Chapter_16.m4a"
+    },
+    {
+      "name": "Chapter 17: The Wheels of Industry",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/sp_hin/Chapter_17.m4a"
+    },
+    {
+      "name": "Chapter 18: A Permanent Revolution",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/sp_hin/Chapter_18.m4a"
+    },
+    {
+      "name": "Chapter 19: And They Lived Happily Ever After",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/sp_hin/Chapter_19.m4a"
+    },
+    {
+      "name": "Chapter 20: The Animal That Became a God",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/sp_hin/Chapter_20.m4a"
+    }
+    ,
+    {
+      "name": "End Credits",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/sp_hin/End%20Credits.m4a"
+    }
+  ],
+  "chapters_en": [
+    {
+      "name": "Opening Credits",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/sp_hin/Opening%20Credits.m4a"
+    },
+    {
+      "name": "Chapter 1: An Animal of No Significance",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/sp_hin/Chapter_1.m4a"
+    },
+    {
+      "name": "Chapter 2: The Tree of Knowledge",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/sp_hin/Chapter_2.m4a"
+    },
+    {
+      "name": "Chapter 3: A Day in the Life of Adam and Eve",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/sp_hin/Chapter_3.m4a"
+    },
+    {
+      "name": "Chapter 4: The Flood",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/sp_hin/Chapter_4.m4a"
+    },
+    {
+      "name": "Chapter 5: History's Biggest Fraud",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/sp_hin/Chapter_5.m4a"
+    },
+    {
+      "name": "Chapter 6: Building Pyramids",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/sp_hin/Chapter_6.m4a"
+    },
+    {
+      "name": "Chapter 7: Memory Overload",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/sp_hin/Chapter_7.m4a"
+    },
+    {
+      "name": "Chapter 8: There is No Justice in History",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/sp_hin/Chapter_8.m4a"
+    },
+    {
+      "name": "Chapter 9: The Arrow of History",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/sp_hin/Chapter_9.m4a"
+    },
+    {
+      "name": "Chapter 10: The Scent of Money",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/sp_hin/Chapter_10.m4a"
+    },
+    {
+      "name": "Chapter 11: Imperial Visions",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/sp_hin/Chapter_11.m4a"
+    },
+    {
+      "name": "Chapter 12: The Law of Religion",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/sp_hin/Chapter_12.m4a"
+    },
+    {
+      "name": "Chapter 13: The Secret of Success",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/sp_hin/Chapter_13.m4a"
+    },
+    {
+      "name": "Chapter 14: The Discovery of Ignorance",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/sp_hin/Chapter_14.m4a"
+    },
+    {
+      "name": "Chapter 15: The Marriage of Science and Empire",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/sp_hin/Chapter_15.m4a"
+    },
+    {
+      "name": "Chapter 16: The Capitalist Creed",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/sp_hin/Chapter_16.m4a"
+    },
+    {
+      "name": "Chapter 17: The Wheels of Industry",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/sp_hin/Chapter_17.m4a"
+    },
+    {
+      "name": "Chapter 18: A Permanent Revolution",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/sp_hin/Chapter_18.m4a"
+    },
+    {
+      "name": "Chapter 19: And They Lived Happily Ever After",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/sp_hin/Chapter_19.m4a"
+    },
+    {
+      "name": "Chapter 20: The Animal That Became a God",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/sp_hin/Chapter_20.m4a"
+    }
+    ,
+    {
+      "name": "End Credits",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/sp_hin/End%20Credits.m4a"
+    }
+  ]
+}
