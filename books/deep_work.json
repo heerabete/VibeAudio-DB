@@ -2,121 +2,47 @@
   "bookId": "book_30",
   "title": "Deep Work",
   "author": "Cal Newport",
-  "moods": ["Non-Fiction"],
+  "moods": [
+    "Non-Fiction"
+  ],
   "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
   "cover": "https://m.media-amazon.com/images/I/61-mJf7WOiL._SL1500_.jpg",
   "chapters_en": [
     {
-      "name": "Chapter 1: Ultimatum",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_01.m4a"
+      "name": "Introduction",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha5/Chapter_01_Introduction.m4a"
     },
     {
-      "name": "Chapter 2: Evasion",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_02.m4a"
+      "name": "Part I: The Idea - Chapter 1: Deep Work is Valuable",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha5/Chapter_02_Part%20I%20The%20Idea%20Chapter%201%20Deep%20Work%20is%20valuable.m4a"
     },
     {
-      "name": "Chapter 3: Motives",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_03.m4a"
+      "name": "Chapter 2: Deep Work is Rare",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha5/Chapter_03_Chapter%202%20Deep%20Work%20is%20rare.m4a"
     },
     {
-      "name": "Chapter 4: Nature",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_04.m4a"
+      "name": "Chapter 3: Deep Work is Meaningful",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha5/Chapter_04_Chapter%203%20Deep%20Work%20is%20meaningful.m4a"
     },
     {
-      "name": "Chapter 5: Imprint",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_05.m4a"
+      "name": "Part II: The Rules - Rule #1: Work Deeply",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha5/Chapter_05_Part%20II%20The%20Rules%20Rule%20%231%20Work%20deeply.m4a"
     },
     {
-      "name": "Chapter 6: Switzerland",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_06.m4a"
+      "name": "Rule #2: Embrace the Boredom",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha5/Chapter_06_Rule%20%232%20Embrace%20the%20boredom.m4a"
     },
     {
-      "name": "Chapter 7: Unhappy Ending",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_07.m4a"
+      "name": "Rule #3: Quit Social Media",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha5/Chapter_07_Rule%20%233%20Quit%20social%20media.m4a"
     },
     {
-      "name": "Chapter 8: Temper",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_08.m4a"
+      "name": "Rule #4: Drain the Shallows",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha5/Chapter_08_Rule%20%234%20Drain%20the%20shallows.m4a"
     },
     {
-      "name": "Chapter 9: Target",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_09.m4a"
-    },
-    {
-      "name": "Chapter 10: Scent",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_10.m4a"
-    },
-    {
-      "name": "Chapter 11: Legends",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_11.m4a"
-    },
-    {
-      "name": "Chapter 12: Time",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_12.m4a"
-    },
-    {
-      "name": "Chapter 13: Newborn",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_13.m4a"
-    },
-    {
-      "name": "Chapter 14: Declaration",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_14.m4a"
-    },
-    {
-      "name": "Chapter 15: Wager",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_15.m4a"
-    },
-    {
-      "name": "Chapter 16: Epoch",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_16.m4a"
-    },
-    {
-      "name": "Chapter 17: Alliance",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_17.m4a"
-    },
-    {
-      "name": "Chapter 18: Instruction",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_18.m4a"
-    },
-    {
-      "name": "Chapter 19: Selfish",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_19.m4a"
-    },
-    {
-      "name": "Chapter 20: Compromise",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_20.m4a"
-    },
-    {
-      "name": "Chapter 21: Trails",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_21.m4a"
-    },
-    {
-      "name": "Chapter 22: Fire and Ice",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_22.m4a"
-    },
-    {
-      "name": "Chapter 23: Monster",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_23.m4a"
-    },
-    {
-      "name": "Chapter 24: Snap Decision",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_24.m4a"
-    },
-    {
-      "name": "Chapter 25: Mirror",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_25.m4a"
-    },
-    {
-      "name": "Chapter 26: Ethics",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_26.m4a"
-    },
-    {
-      "name": "Chapter 27: Needs",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_27.m4a"
-    },
-    {
-      "name": "Epilogue: Choice",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_28.m4a"
+      "name": "Conclusion",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha5/Chapter_09_Conclusion.m4a"
     }
   ]
 }

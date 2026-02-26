@@ -2,121 +2,127 @@
   "bookId": "book_29",
   "title": "Atomic Habits",
   "author": "James Clear",
-  "moods": ["Non-Fiction"],
+  "moods": [
+    "Non-Fiction"
+  ],
   "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
   "cover": "https://m.media-amazon.com/images/I/81g2dRe+ifL._SL1500_.jpg",
   "chapters_en": [
     {
-      "name": "Chapter 1: Ultimatum",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_01.m4a"
+      "name": "Opening Credits",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha4/Chapter_01.m4a"
     },
     {
-      "name": "Chapter 2: Evasion",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_02.m4a"
+      "name": "Introduction: My Story",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha4/Chapter_02.m4a"
     },
     {
-      "name": "Chapter 3: Motives",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_03.m4a"
+      "name": "Chapter 1: The Surprising Power of Atomic Habits",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha4/Chapter_03.m4a"
     },
     {
-      "name": "Chapter 4: Nature",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_04.m4a"
+      "name": "Chapter 2: How Your Habits Shape Your Identity (and Vice Versa)",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha4/Chapter_04.m4a"
     },
     {
-      "name": "Chapter 5: Imprint",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_05.m4a"
+      "name": "Chapter 3: How to Build Better Habits in 4 Simple Steps",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha4/Chapter_05.m4a"
     },
     {
-      "name": "Chapter 6: Switzerland",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_06.m4a"
+      "name": "Chapter 4: The Man Who Didn't Look Right",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha4/Chapter_06.m4a"
     },
     {
-      "name": "Chapter 7: Unhappy Ending",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_07.m4a"
+      "name": "Chapter 5: The Best Way to Start a New Habit",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha4/Chapter_07.m4a"
     },
     {
-      "name": "Chapter 8: Temper",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_08.m4a"
+      "name": "Chapter 6: Motivation is Overrated; Environment Often Matters More",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha4/Chapter_08.m4a"
     },
     {
-      "name": "Chapter 9: Target",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_09.m4a"
+      "name": "Chapter 7: The Secret to Self-Control",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha4/Chapter_09.m4a"
     },
     {
-      "name": "Chapter 10: Scent",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_10.m4a"
+      "name": "Chapter 8: How to Make a Habit Irresistible",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha4/Chapter_10.m4a"
     },
     {
-      "name": "Chapter 11: Legends",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_11.m4a"
+      "name": "Chapter 9: The Role of Family and Friends in Shaping Your Habits",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha4/Chapter_11.m4a"
     },
     {
-      "name": "Chapter 12: Time",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_12.m4a"
+      "name": "Chapter 10: How to Find and Fix the Causes of Your Bad Habits",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha4/Chapter_12.m4a"
     },
     {
-      "name": "Chapter 13: Newborn",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_13.m4a"
+      "name": "Chapter 11: Walk Slowly, but Never Backward",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha4/Chapter_13.m4a"
     },
     {
-      "name": "Chapter 14: Declaration",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_14.m4a"
+      "name": "Chapter 12: The Law of Least Effort",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha4/Chapter_14.m4a"
     },
     {
-      "name": "Chapter 15: Wager",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_15.m4a"
+      "name": "Chapter 13: How to Stop Procrastinating by Using the Two-Minute Rule",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha4/Chapter_15.m4a"
     },
     {
-      "name": "Chapter 16: Epoch",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_16.m4a"
+      "name": "Chapter 14: How to Make Good Habits Inevitable and Bad Habits Impossible",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha4/Chapter_16.m4a"
     },
     {
-      "name": "Chapter 17: Alliance",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_17.m4a"
+      "name": "Chapter 15: The Cardinal Rule of Behavior Change",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha4/Chapter_17.m4a"
     },
     {
-      "name": "Chapter 18: Instruction",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_18.m4a"
+      "name": "Chapter 16: How to Stick with Good Habits Every Day",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha4/Chapter_18.m4a"
     },
     {
-      "name": "Chapter 19: Selfish",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_19.m4a"
+      "name": "Chapter 17: How an Accountability Partner Can Change Everything",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha4/Chapter_19.m4a"
     },
     {
-      "name": "Chapter 20: Compromise",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_20.m4a"
+      "name": "Chapter 18: The Truth About Talent (When Genes Matter and When They Don't)",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha4/Chapter_20.m4a"
     },
     {
-      "name": "Chapter 21: Trails",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_21.m4a"
+      "name": "Chapter 19: The Goldilocks Rule: How to Stay Motivated in Life and Work",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha4/Chapter_21.m4a"
     },
     {
-      "name": "Chapter 22: Fire and Ice",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_22.m4a"
+      "name": "Chapter 20: The Downside of Creating Good Habits",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha4/Chapter_22.m4a"
     },
     {
-      "name": "Chapter 23: Monster",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_23.m4a"
+      "name": "Conclusion: The Secret to Results That Last",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha4/Chapter_23.m4a"
     },
     {
-      "name": "Chapter 24: Snap Decision",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_24.m4a"
+      "name": "Appendix: Little Lessons from the Four Laws",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha4/Chapter_24.m4a"
     },
     {
-      "name": "Chapter 25: Mirror",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_25.m4a"
+      "name": "Appendix: How to Apply These Ideas to Business",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha4/Chapter_25.m4a"
     },
     {
-      "name": "Chapter 26: Ethics",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_26.m4a"
+      "name": "Appendix: How to Apply These Ideas to Parenting",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha4/Chapter_26.m4a"
     },
     {
-      "name": "Chapter 27: Needs",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_27.m4a"
+      "name": "Acknowledgments",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha4/Chapter_27.m4a"
     },
     {
-      "name": "Epilogue: Choice",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_28.m4a"
+      "name": "Notes / About the Author",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha4/Chapter_28.m4a"
+    },
+    {
+      "name": "Closing Credits",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha4/Chapter_29.m4a"
     }
   ]
 }
