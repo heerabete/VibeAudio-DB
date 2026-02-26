@@ -1,0 +1,60 @@
+{
+    "bookId": "book_38",
+    "title": "Siddharth",
+    "author": "Hermann Hesse",
+    "moods": [
+        "Non-Fiction"
+    ],
+    "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+    "cover": "https://m.media-amazon.com/images/I/71+ur5bhRQL._SL1500_.jpg",
+    "chapters": [
+        {
+            "name": "Chapter 1: The Brahmin's Son (ब्राह्मण पुत्र)",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha14/Chapter_01.m4a"
+        },
+        {
+            "name": "Chapter 2: With the Samanas (श्रमणों के साथ)",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha14/Chapter_02.m4a"
+        },
+        {
+            "name": "Chapter 3: Gotama (गौतम)",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha14/Chapter_03.m4a"
+        },
+        {
+            "name": "Chapter 4: Awakening (जागरण)",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha14/Chapter_04.m4a"
+        },
+        {
+            "name": "Chapter 5: Kamala (कमला)",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha14/Chapter_05.m4a"
+        },
+        {
+            "name": "Chapter 6: Amongst the People (लोगों के बीच)",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha14/Chapter_06.m4a"
+        },
+        {
+            "name": "Chapter 7: Samsara (संसार)",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha14/Chapter_07.m4a"
+        },
+        {
+            "name": "Chapter 8: By the River (नदी के किनारे)",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha14/Chapter_08.m4a"
+        },
+        {
+            "name": "Chapter 9: The Ferryman (नाविक)",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha14/Chapter_09.m4a"
+        },
+        {
+            "name": "Chapter 10: The Son (पुत्र)",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha14/Chapter_10.m4a"
+        },
+        {
+            "name": "Chapter 11: Om (ओम)",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha14/Chapter_11.m4a"
+        },
+        {
+            "name": "Chapter 12: Govinda (गोविंद)",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha14/Chapter_12.m4a"
+        }
+    ]
+}
