@@ -2,121 +2,119 @@
   "bookId": "book_36",
   "title": "The Silk Roads",
   "author": "Peter Frankopan",
-  "moods": ["Non-Fiction"],
+  "moods": [
+    "Non-Fiction"
+  ],
   "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
   "cover": "https://m.media-amazon.com/images/I/A15++jTYXJL._SL1500_.jpg",
   "chapters_en": [
     {
-      "name": "Chapter 1: Ultimatum",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_01.m4a"
+      "name": "Part 1",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha13/The%20Silk%20Roads%20A%20New%20History%20of%20the%20World%20-%2001.mp3"
     },
     {
-      "name": "Chapter 2: Evasion",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_02.m4a"
+      "name": "Part 2",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha13/The%20Silk%20Roads%20A%20New%20History%20of%20the%20World%20-%2002.mp3"
     },
     {
-      "name": "Chapter 3: Motives",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_03.m4a"
+      "name": "Part 3",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha13/The%20Silk%20Roads%20A%20New%20History%20of%20the%20World%20-%2003.mp3"
     },
     {
-      "name": "Chapter 4: Nature",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_04.m4a"
+      "name": "Part 4",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha13/The%20Silk%20Roads%20A%20New%20History%20of%20the%20World%20-%2004.mp3"
     },
     {
-      "name": "Chapter 5: Imprint",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_05.m4a"
+      "name": "Part 5",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha13/The%20Silk%20Roads%20A%20New%20History%20of%20the%20World%20-%2005.mp3"
     },
     {
-      "name": "Chapter 6: Switzerland",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_06.m4a"
+      "name": "Part 6",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha13/The%20Silk%20Roads%20A%20New%20History%20of%20the%20World%20-%2006.mp3"
     },
     {
-      "name": "Chapter 7: Unhappy Ending",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_07.m4a"
+      "name": "Part 7",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha13/The%20Silk%20Roads%20A%20New%20History%20of%20the%20World%20-%2007.mp3"
     },
     {
-      "name": "Chapter 8: Temper",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_08.m4a"
+      "name": "Part 8",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha13/The%20Silk%20Roads%20A%20New%20History%20of%20the%20World%20-%2008.mp3"
     },
     {
-      "name": "Chapter 9: Target",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_09.m4a"
+      "name": "Part 9",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha13/The%20Silk%20Roads%20A%20New%20History%20of%20the%20World%20-%2009.mp3"
     },
     {
-      "name": "Chapter 10: Scent",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_10.m4a"
+      "name": "Part 10",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha13/The%20Silk%20Roads%20A%20New%20History%20of%20the%20World%20-%2010.mp3"
     },
     {
-      "name": "Chapter 11: Legends",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_11.m4a"
+      "name": "Part 11",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha13/The%20Silk%20Roads%20A%20New%20History%20of%20the%20World%20-%2011.mp3"
     },
     {
-      "name": "Chapter 12: Time",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_12.m4a"
+      "name": "Part 12",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha13/The%20Silk%20Roads%20A%20New%20History%20of%20the%20World%20-%2012.mp3"
     },
     {
-      "name": "Chapter 13: Newborn",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_13.m4a"
+      "name": "Part 13",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha13/The%20Silk%20Roads%20A%20New%20History%20of%20the%20World%20-%2013.mp3"
     },
     {
-      "name": "Chapter 14: Declaration",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_14.m4a"
+      "name": "Part 14",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha13/The%20Silk%20Roads%20A%20New%20History%20of%20the%20World%20-%2014.mp3"
     },
     {
-      "name": "Chapter 15: Wager",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_15.m4a"
+      "name": "Part 15",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha13/The%20Silk%20Roads%20A%20New%20History%20of%20the%20World%20-%2015.mp3"
     },
     {
-      "name": "Chapter 16: Epoch",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_16.m4a"
+      "name": "Part 16",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha13/The%20Silk%20Roads%20A%20New%20History%20of%20the%20World%20-%2016.mp3"
     },
     {
-      "name": "Chapter 17: Alliance",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_17.m4a"
+      "name": "Part 17",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha13/The%20Silk%20Roads%20A%20New%20History%20of%20the%20World%20-%2017.mp3"
     },
     {
-      "name": "Chapter 18: Instruction",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_18.m4a"
+      "name": "Part 18",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha13/The%20Silk%20Roads%20A%20New%20History%20of%20the%20World%20-%2018.mp3"
     },
     {
-      "name": "Chapter 19: Selfish",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_19.m4a"
+      "name": "Part 19",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha13/The%20Silk%20Roads%20A%20New%20History%20of%20the%20World%20-%2019.mp3"
     },
     {
-      "name": "Chapter 20: Compromise",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_20.m4a"
+      "name": "Part 20",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha13/The%20Silk%20Roads%20A%20New%20History%20of%20the%20World%20-%2020.mp3"
     },
     {
-      "name": "Chapter 21: Trails",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_21.m4a"
+      "name": "Part 21",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha13/The%20Silk%20Roads%20A%20New%20History%20of%20the%20World%20-%2021.mp3"
     },
     {
-      "name": "Chapter 22: Fire and Ice",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_22.m4a"
+      "name": "Part 22",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha13/The%20Silk%20Roads%20A%20New%20History%20of%20the%20World%20-%2022.mp3"
     },
     {
-      "name": "Chapter 23: Monster",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_23.m4a"
+      "name": "Part 23",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha13/The%20Silk%20Roads%20A%20New%20History%20of%20the%20World%20-%2023.mp3"
     },
     {
-      "name": "Chapter 24: Snap Decision",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_24.m4a"
+      "name": "Part 24",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha13/The%20Silk%20Roads%20A%20New%20History%20of%20the%20World%20-%2024.mp3"
     },
     {
-      "name": "Chapter 25: Mirror",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_25.m4a"
+      "name": "Part 25",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha13/The%20Silk%20Roads%20A%20New%20History%20of%20the%20World%20-%2025.mp3"
     },
     {
-      "name": "Chapter 26: Ethics",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_26.m4a"
+      "name": "Part 26",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha13/The%20Silk%20Roads%20A%20New%20History%20of%20the%20World%20-%2026.mp3"
     },
     {
-      "name": "Chapter 27: Needs",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_27.m4a"
-    },
-    {
-      "name": "Epilogue: Choice",
-      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/tw2/Chapter_28.m4a"
+      "name": "Part 27",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha13/The%20Silk%20Roads%20A%20New%20History%20of%20the%20World%20-%2027.mp3"
     }
   ]
 }
