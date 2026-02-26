@@ -1,0 +1,212 @@
+{
+    "bookId": "book_42",
+    "title": "Glucose Revolution",
+    "author": " Jessie Inchauspé",
+    "moods": [
+        "Non-Fiction"
+    ],
+    "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+    "cover": "https://m.media-amazon.com/images/I/714teWwgLbL._SL1500_.jpg",
+    "chapters_en": [
+        {
+            "section": "Introduction",
+            "name": "Opening Credits",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha7/Chapter_01_Opening%20Credits.m4a"
+        },
+        {
+            "section": "Introduction",
+            "name": "Disclaimer",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha7/Chapter_02_Disclaimer.m4a"
+        },
+        {
+            "section": "Introduction",
+            "name": "Dedication",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha7/Chapter_03_Dedication.m4a"
+        },
+        {
+            "section": "Introduction",
+            "name": "Dear Listener",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha7/Chapter_04_Dear%20Listener.m4a"
+        },
+        {
+            "section": "Introduction",
+            "name": "How I Got Here",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha7/Chapter_05_How%20I%20Got%20Here.m4a"
+        },
+        {
+            "section": "Part 1: What Is Glucose",
+            "name": "Chapter 1: Enter the Cockpit - Why Glucose Is So Important",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha7/Chapter_06_Part%201%20What%20Is%20Glucose%20Chapter%201%20Enter%20the%20Cockpit%20Why%20Glucose%20Is%20So%20Important.m4a"
+        },
+        {
+            "section": "Part 1: What Is Glucose",
+            "name": "Chapter 1: Yes, this Book Is for You",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha7/Chapter_07_Part%201%20What%20Is%20Glucose%20Chapter%201%20Enter%20the%20Cockpit%20Why%20Glucose%20Is%20So%20Important%20Yes,%20this%20Book%20Is%20for%20You.m4a"
+        },
+        {
+            "section": "Part 1: What Is Glucose",
+            "name": "Chapter 1: What this Book Says—and What It Doesn’t",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha7/Chapter_08_Part%201%20What%20Is%20Glucose%20Chapter%201%20Enter%20the%20Cockpit%20Why%20Glucose%20Is%20So%20Important%20What%20this%20Book%20Says%E2%80%94and%20What%20It%20Doesn%E2%80%99t.m4a"
+        },
+        {
+            "section": "Part 1: What Is Glucose",
+            "name": "Chapter 2: Meet Jerry - How Plants Create Glucose",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha7/Chapter_09_Part%201%20What%20Is%20Glucose%20Chapter%202%20Meet%20Jerry%20How%20Plants%20Create%20Glucose.m4a"
+        },
+        {
+            "section": "Part 1: What Is Glucose",
+            "name": "Chapter 2: Strong Starch",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha7/Chapter_10_Part%201%20What%20Is%20Glucose%20Chapter%202%20Meet%20Jerry%20How%20Plants%20Create%20Glucose%20Strong%20Starch.m4a"
+        },
+        {
+            "section": "Part 1: What Is Glucose",
+            "name": "Chapter 2: Fierce Fiber",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha7/Chapter_11_Part%201%20What%20Is%20Glucose%20Chapter%202%20Meet%20Jerry%20How%20Plants%20Create%20Glucose%20Fierce%20Fiber.m4a"
+        },
+        {
+            "section": "Part 1: What Is Glucose",
+            "name": "Chapter 2: Flirty Fruit",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha7/Chapter_12_Part%201%20What%20Is%20Glucose%20Chapter%202%20Meet%20Jerry%20How%20Plants%20Create%20Glucose%20Flirty%20Fruit.m4a"
+        },
+        {
+            "section": "Part 1: What Is Glucose",
+            "name": "Chapter 3: A Family Affair - How Glucose Gets into the Bloodstream",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha7/Chapter_13_Part%201%20What%20Is%20Glucose%20Chapter%203%20A%20Family%20Affair%20How%20Glucose%20Gets%20into%20the%20Bloodstream.m4a"
+        },
+        {
+            "section": "Part 1: What Is Glucose",
+            "name": "Chapter 3: One Parent, Four Siblings",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha7/Chapter_14_Part%201%20What%20Is%20Glucose%20Chapter%203%20A%20Family%20Affair%20How%20Glucose%20Gets%20into%20the%20Bloodstream%20One%20Parent,%20Four%20Siblings.m4a"
+        },
+        {
+            "section": "Part 1: What Is Glucose",
+            "name": "Chapter 3: What If There Was No Glucose in Our Diet",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha7/Chapter_15_Part%201%20What%20Is%20Glucose%20Chapter%203%20A%20Family%20Affair%20How%20Glucose%20Gets%20into%20the%20Bloodstream%20What%20If%20There%20Was%20No%20Glucose%20in%20Our%20Diet.m4a"
+        },
+        {
+            "section": "Part 1: What Is Glucose",
+            "name": "Chapter 4: Seeking Pleasure - Why We Eat More Glucose Than Before",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha7/Chapter_16_Part%201%20What%20Is%20Glucose%20Chapter%204%20Seeking%20Pleasure%20Why%20We%20Eat%20More%20Glucose%20Than%20Before.m4a"
+        },
+        {
+            "section": "Part 1: What Is Glucose",
+            "name": "Chapter 5: Underneath Our Skin - Discovering Glucose Spikes",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha7/Chapter_17_Part%201%20What%20Is%20Glucose%20Chapter%205%20Underneath%20Our%20Skin%20Discovering%20Glucose%20Spikes.m4a"
+        },
+        {
+            "section": "Part 1: What Is Glucose",
+            "name": "Chapter 5: Some Spikes Are Worse Than Others",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha7/Chapter_18_Part%201%20What%20Is%20Glucose%20Chapter%205%20Underneath%20Our%20Skin%20Discovering%20Glucose%20Spikes%20Some%20Spikes%20Are%20Worse%20Than%20Others.m4a"
+        },
+        {
+            "section": "Part 2: Why Are Glucose Spikes Harmful",
+            "name": "Chapter 6: Trains, Toast, and Tetris",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha7/Chapter_19_Part%202%20Why%20Are%20Glucose%20Spikes%20Harmful%20Chapter%206%20Trains,%20Toast,%20and%20Tetris%20The%20Three%20Things%20That%20Happen%20in%20Our%20Body%20When%20We%20Spike.m4a"
+        },
+        {
+            "section": "Part 2: Why Are Glucose Spikes Harmful",
+            "name": "Chapter 6: Why the Train Stops - Free Radicals and Oxidative Stress",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha7/Chapter_20_Part%202%20Why%20Are%20Glucose%20Spikes%20Harmful%20Chapter%206%20Trains,%20Toast,%20and%20Tetris%20The%20Three%20Things%20That%20Happen%20in%20Our%20Body%20When%20We%20Spike%20Why%20the%20Train%20Stops%20Free%20Radicals%20and%20Oxidative%20Stress.m4a"
+        },
+        {
+            "section": "Part 2: Why Are Glucose Spikes Harmful",
+            "name": "Chapter 6: Why You Are Toasting - Glycation and Inflammation",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha7/Chapter_21_Part%202%20Why%20Are%20Glucose%20Spikes%20Harmful%20Chapter%206%20Trains,%20Toast,%20and%20Tetris%20The%20Three%20Things%20That%20Happen%20in%20Our%20Body%20When%20We%20Spike%20Why%20You%20Are%20Toasting%20Glycation%20and%20Inflammation.m4a"
+        },
+        {
+            "section": "Part 2: Why Are Glucose Spikes Harmful",
+            "name": "Chapter 6: Playing Tetris to Survive - Insulin and Fat Gain",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha7/Chapter_22_Part%202%20Why%20Are%20Glucose%20Spikes%20Harmful%20Chapter%206%20Trains,%20Toast,%20and%20Tetris%20The%20Three%20Things%20That%20Happen%20in%20Our%20Body%20When%20We%20Spike%20Playing%20Tetris%20to%20Survive%20Insulin%20and%20Fat%20Gain.m4a"
+        },
+        {
+            "section": "Part 2: Why Are Glucose Spikes Harmful",
+            "name": "Chapter 7: From Head to Toe - How Spikes Make Us Sick",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha7/Chapter_23_Part%202%20Why%20Are%20Glucose%20Spikes%20Harmful%20Chapter%207%20From%20Head%20to%20Toe%20How%20Spikes%20Make%20Us%20Sick.m4a"
+        },
+        {
+            "section": "Part 2: Why Are Glucose Spikes Harmful",
+            "name": "Chapter 7: Short-Term Effects",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha7/Chapter_24_Part%202%20Why%20Are%20Glucose%20Spikes%20Harmful%20Chapter%207%20From%20Head%20to%20Toe%20How%20Spikes%20Make%20Us%20Sick%20Short-Term%20Effects.m4a"
+        },
+        {
+            "section": "Part 2: Why Are Glucose Spikes Harmful",
+            "name": "Chapter 7: Long-Term Effects",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha7/Chapter_25_Part%202%20Why%20Are%20Glucose%20Spikes%20Harmful%20Chapter%207%20From%20Head%20to%20Toe%20How%20Spikes%20Make%20Us%20Sick%20Long-Term%20Effects.m4a"
+        },
+        {
+            "section": "Part 3: How Can I Flatten My Glucose Curves",
+            "name": "Hack 1: Eat Foods in the Right Order",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha7/Chapter_26_Part%203%20How%20Can%20I%20Flatten%20My%20Glucose%20Curves%20Hack%201%20Eat%20Foods%20in%20the%20Right%20Order.m4a"
+        },
+        {
+            "section": "Part 3: How Can I Flatten My Glucose Curves",
+            "name": "Hack 2: Add a Green Starter to All Your Meals",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha7/Chapter_27_Part%203%20How%20Can%20I%20Flatten%20My%20Glucose%20Curves%20Hack%202%20Add%20a%20Green%20Starter%20to%20All%20Your%20Meals.m4a"
+        },
+        {
+            "section": "Part 3: How Can I Flatten My Glucose Curves",
+            "name": "Hack 3: Stop Counting Calories",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha7/Chapter_28_Part%203%20How%20Can%20I%20Flatten%20My%20Glucose%20Curves%20Hack%203%20Stop%20Counting%20Calories.m4a"
+        },
+        {
+            "section": "Part 3: How Can I Flatten My Glucose Curves",
+            "name": "Hack 4: Flatten Your Breakfast Curve",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha7/Chapter_29_Part%203%20How%20Can%20I%20Flatten%20My%20Glucose%20Curves%20Hack%204%20Flatten%20Your%20Breakfast%20Curve.m4a"
+        },
+        {
+            "section": "Part 3: How Can I Flatten My Glucose Curves",
+            "name": "Hack 5: Have Any Type of Sugar You Like—They’re All the Same",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha7/Chapter_30_Part%203%20How%20Can%20I%20Flatten%20My%20Glucose%20Curves%20Hack%205%20Have%20Any%20Type%20of%20Sugar%20You%20Like%E2%80%94They%E2%80%99re%20All%20the%20Same.m4a"
+        },
+        {
+            "section": "Part 3: How Can I Flatten My Glucose Curves",
+            "name": "Hack 6: Pick Dessert over a Sweet Snack",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha7/Chapter_31_Part%203%20How%20Can%20I%20Flatten%20My%20Glucose%20Curves%20Hack%206%20Pick%20Dessert%20over%20a%20Sweet%20Snack.m4a"
+        },
+        {
+            "section": "Part 3: How Can I Flatten My Glucose Curves",
+            "name": "Hack 7: Reach for Vinegar Before You Eat",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha7/Chapter_32_Part%203%20How%20Can%20I%20Flatten%20My%20Glucose%20Curves%20Hack%207%20Reach%20for%20Vinegar%20Before%20You%20Eat.m4a"
+        },
+        {
+            "section": "Part 3: How Can I Flatten My Glucose Curves",
+            "name": "Hack 8: After You Eat, Move",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha7/Chapter_33_Part%203%20How%20Can%20I%20Flatten%20My%20Glucose%20Curves%20Hack%208%20After%20You%20Eat,%20Move.m4a"
+        },
+        {
+            "section": "Part 3: How Can I Flatten My Glucose Curves",
+            "name": "Hack 9: If You Have to Snack, Go Savory",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha7/Chapter_34_Part%203%20How%20Can%20I%20Flatten%20My%20Glucose%20Curves%20Hack%209%20If%20You%20Have%20to%20Snack,%20Go%20Savory.m4a"
+        },
+        {
+            "section": "Part 3: How Can I Flatten My Glucose Curves",
+            "name": "Hack 10: Put Some Clothes on Your Carbs",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha7/Chapter_35_Part%203%20How%20Can%20I%20Flatten%20My%20Glucose%20Curves%20Hack%2010%20Put%20Some%20Clothes%20on%20Your%20Carbs.m4a"
+        },
+        {
+            "section": "Part 3: How Can I Flatten My Glucose Curves",
+            "name": "Cheat Sheets: How to Be a Glucose Goddess When Things Get Hard",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha7/Chapter_36_Part%203%20How%20Can%20I%20Flatten%20My%20Glucose%20Curves%20Cheat%20Sheets%20How%20to%20Be%20a%20Glucose%20Goddess%20When%20Things%20Get%20Hard.m4a"
+        },
+        {
+            "section": "Conclusion",
+            "name": "A Day in the Life of a Glucose Goddess",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha7/Chapter_37_A%20Day%20in%20the%20Life%20of%20a%20Glucose%20Goddess.m4a"
+        },
+        {
+            "section": "Conclusion",
+            "name": "You Are Special",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha7/Chapter_38_You%20Are%20Special.m4a"
+        },
+        {
+            "section": "Conclusion",
+            "name": "The End",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha7/Chapter_39_The%20End.m4a"
+        },
+        {
+            "section": "Conclusion",
+            "name": "End Credits",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha7/Chapter_40_End%20Credits.m4a"
+        }
+    ]
+}

@@ -1,0 +1,432 @@
+{
+    "bookId": "book_44",
+    "title": "Being and Time",
+    "author": " Martin Heidegger",
+    "moods": [
+        "Non-Fiction"
+    ],
+    "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+    "cover": "https://m.media-amazon.com/images/I/91VWC7ydAbL._SL1500_.jpg",
+    "chapters_en": [
+        {
+            "section": "Introduction",
+            "name": "Introduction by Taylor Carman",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/00.%20Introduction%20by%20Taylor%20Carman.mp3"
+        },
+        {
+            "section": "Introduction",
+            "name": "01. The necessity for explicitly restating the question of Being",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/01.%20The%20necessity%20for%20explicitly%20restating%20the%20question%20of%20Being.mp3"
+        },
+        {
+            "section": "Introduction",
+            "name": "02. The formal structure of the question of Being",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/02.%20The%20formal%20structure%20of%20the%20question%20of%20Being.mp3"
+        },
+        {
+            "section": "Introduction",
+            "name": "03. The ontological priority of the question of Being",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/03.%20The%20ontological%20priority%20of%20the%20question%20of%20Being.mp3"
+        },
+        {
+            "section": "Introduction",
+            "name": "04. The ontical priority of the question of Being",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/04.%20The%20ontical%20priority%20of%20the%20question%20of%20Being.mp3"
+        },
+        {
+            "section": "Introduction",
+            "name": "05. The ontological analytic of Dasein as laying bare the horizon",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/05.%20The%20ontological%20analytic%20of%20Dasein%20as%20laying%20bare%20the%20horizon.mp3"
+        },
+        {
+            "section": "Introduction",
+            "name": "06. The task of Destroying the history of ontology",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/06.%20The%20task%20of%20Destroying%20the%20history%20of%20ontology.mp3"
+        },
+        {
+            "section": "Introduction",
+            "name": "07. The phenomenological method of investigation",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/07.%20The%20phenomenological%20method%20of%20investigation.mp3"
+        },
+        {
+            "section": "Introduction",
+            "name": "08. Design of the treatise",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/08.%20Design%20of%20the%20treatise.mp3"
+        },
+        {
+            "section": "Division 1: Preparatory Fundamental Analysis of Dasein",
+            "name": "09. The theme of the analytic of Dasein",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/09.%20The%20theme%20of%20the%20analytic%20of%20Dasein.mp3"
+        },
+        {
+            "section": "Division 1: Preparatory Fundamental Analysis of Dasein",
+            "name": "10. How the analytic of Dasein is to be distinguished from anthropology",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/10.%20How%20the%20analytic%20of%20Dasein%20is%20to%20be%20distinguished%20from%20anthropology.mp3"
+        },
+        {
+            "section": "Division 1: Preparatory Fundamental Analysis of Dasein",
+            "name": "11. The existential analytic and the Interpretation of primitive Dasein",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/11.%20The%20existential%20analytic%20and%20the%20Interpretation%20of%20primitive%20Dasein.mp3"
+        },
+        {
+            "section": "Division 1: Preparatory Fundamental Analysis of Dasein",
+            "name": "12. A preliminary sketch of Being-in-the-world, in terms of an orientation",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/12.%20A%20preliminary%20sketch%20of%20Being-in-the-world,%20in%20terms%20of%20an%20orientation.mp3"
+        },
+        {
+            "section": "Division 1: Preparatory Fundamental Analysis of Dasein",
+            "name": "13. A founded mode in which Being-in is exemplified. Knowing the world",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/13.%20A%20founded%20mode%20in%20which%20Being-in%20is%20exemplified.%20Knowing%20the%20world.mp3"
+        },
+        {
+            "section": "Division 1: Preparatory Fundamental Analysis of Dasein",
+            "name": "14. The idea of the worldhood of the world in general",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/14.%20The%20idea%20of%20the%20worldhood%20of%20the%20world%20in%20general.mp3"
+        },
+        {
+            "section": "Division 1: Preparatory Fundamental Analysis of Dasein",
+            "name": "15. The Being of the entities encountered in the environment",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/15.%20The%20Being%20of%20the%20entities%20encountered%20in%20the%20environment.mp3"
+        },
+        {
+            "section": "Division 1: Preparatory Fundamental Analysis of Dasein",
+            "name": "16. How the worldly character of the environment announces itself in entities",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/16.%20How%20the%20worldly%20character%20of%20the%20environment%20announces%20itself%20in%20entities.mp3"
+        },
+        {
+            "section": "Division 1: Preparatory Fundamental Analysis of Dasein",
+            "name": "17. Reference and signs",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/17.%20Reference%20and%20signs.mp3"
+        },
+        {
+            "section": "Division 1: Preparatory Fundamental Analysis of Dasein",
+            "name": "18. Involvement and significance the worldhood of the world",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/18.%20Involvement%20and%20significance%20the%20worldhood%20of%20the%20world.mp3"
+        },
+        {
+            "section": "Division 1: Preparatory Fundamental Analysis of Dasein",
+            "name": "19. The definition of the 'world' as res extensa",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/19.%20The%20definition%20of%20the%20'world'%20as%20res%20extensa.mp3"
+        },
+        {
+            "section": "Division 1: Preparatory Fundamental Analysis of Dasein",
+            "name": "20. Foundations of the ontological definition of the 'world'",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/20.%20Foundations%20of%20the%20ontological%20definition%20of%20the%20'world'.mp3"
+        },
+        {
+            "section": "Division 1: Preparatory Fundamental Analysis of Dasein",
+            "name": "21. Hermeneutical discussion of the Cartesian ontology of the 'world'",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/21.%20Hermeneutical%20discussion%20of%20the%20Cartesian%20ontology%20of%20the%20'world'.mp3"
+        },
+        {
+            "section": "Division 1: Preparatory Fundamental Analysis of Dasein",
+            "name": "22. The spatiality of the ready-to-hand within-the-world",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/22.%20The%20spatiality%20of%20the%20ready-to-hand%20within-the-world.mp3"
+        },
+        {
+            "section": "Division 1: Preparatory Fundamental Analysis of Dasein",
+            "name": "23. The spatiality of Being-in-the-world",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/23.%20The%20spatiality%20of%20Being-in-the-world.mp3"
+        },
+        {
+            "section": "Division 1: Preparatory Fundamental Analysis of Dasein",
+            "name": "24. Space, and Dasein's spatiality",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/24.%20Space,%20and%20Dasein's%20spatiality.mp3"
+        },
+        {
+            "section": "Division 1: Preparatory Fundamental Analysis of Dasein",
+            "name": "25. An approach to the existential question of the who of Dasein",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/25.%20An%20approach%20to%20the%20existential%20question%20of%20the%20who%20of%20Dasein.mp3"
+        },
+        {
+            "section": "Division 1: Preparatory Fundamental Analysis of Dasein",
+            "name": "26. The Dasein-with of Others, and everyday Being-with",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/26.%20The%20Dasein-with%20of%20Others,%20and%20everyday%20Being-with.mp3"
+        },
+        {
+            "section": "Division 1: Preparatory Fundamental Analysis of Dasein",
+            "name": "27. Everyday Being-one's-Self and the they",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/27.%20Everyday%20Being-one's-Self%20and%20the%20they.mp3"
+        },
+        {
+            "section": "Division 1: Preparatory Fundamental Analysis of Dasein",
+            "name": "28. The task of a thematic analysis of Being-in",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/28.%20The%20task%20of%20a%20thematic%20analysis%20of%20Being-in.mp3"
+        },
+        {
+            "section": "Division 1: Preparatory Fundamental Analysis of Dasein",
+            "name": "29. Being-there as state-of-mind",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/29.%20Being-there%20as%20state-of-mind.mp3"
+        },
+        {
+            "section": "Division 1: Preparatory Fundamental Analysis of Dasein",
+            "name": "30. Fear as a mode of state-of-mind",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/30.%20Fear%20as%20a%20mode%20of%20state-of-mind.mp3"
+        },
+        {
+            "section": "Division 1: Preparatory Fundamental Analysis of Dasein",
+            "name": "31. Being-there as understanding",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/31.%20Being-there%20as%20understanding.mp3"
+        },
+        {
+            "section": "Division 1: Preparatory Fundamental Analysis of Dasein",
+            "name": "32. Understanding and interpretation",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/32.%20Understanding%20and%20interpretation.mp3"
+        },
+        {
+            "section": "Division 1: Preparatory Fundamental Analysis of Dasein",
+            "name": "33. Assertion as a derivative mode of interpretation",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/33.%20Assertion%20as%20a%20derivative%20mode%20of%20interpretation.mp3"
+        },
+        {
+            "section": "Division 1: Preparatory Fundamental Analysis of Dasein",
+            "name": "34. Being-there and discourse. Language",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/34.%20Being-there%20and%20discourse.%20Language.mp3"
+        },
+        {
+            "section": "Division 1: Preparatory Fundamental Analysis of Dasein",
+            "name": "35. Idle talk",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/35.%20Idle%20talk.mp3"
+        },
+        {
+            "section": "Division 1: Preparatory Fundamental Analysis of Dasein",
+            "name": "36. Curiosity",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/36.%20Curiosity.mp3"
+        },
+        {
+            "section": "Division 1: Preparatory Fundamental Analysis of Dasein",
+            "name": "37. Ambiguity",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/37%C2%B7%20Ambiguity.mp3"
+        },
+        {
+            "section": "Division 1: Preparatory Fundamental Analysis of Dasein",
+            "name": "38. Falling and thrownness",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/38.%20Falling%20and%20thrownness.mp3"
+        },
+        {
+            "section": "Division 1: Preparatory Fundamental Analysis of Dasein",
+            "name": "39. The question of the primordial totality of Dasein's structural whole",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/39.%20The%20question%20of%20the%20primordial%20totality%20of%20Dasein's%20structural%20whole.mp3"
+        },
+        {
+            "section": "Division 1: Preparatory Fundamental Analysis of Dasein",
+            "name": "40. The basic state-of-mind of anxiety as a distinctive way in which Dasein",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/40.%20The%20basic%20state-of-mind%20of%20anxiety%20as%20a%20distinctive%20way%20in%20which%20Dasein.mp3"
+        },
+        {
+            "section": "Division 1: Preparatory Fundamental Analysis of Dasein",
+            "name": "41. Dasein's Being as care",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/41.%20Dasein's%20Being%20as%20care.mp3"
+        },
+        {
+            "section": "Division 1: Preparatory Fundamental Analysis of Dasein",
+            "name": "42. Confirmation of the existential Interpretation of Dasein as care in terms",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/42.%20Confirmation%20of%20the%20existential%20Interpretation%20of%20Dasein%20as%20care%20in%20terms.mp3"
+        },
+        {
+            "section": "Division 1: Preparatory Fundamental Analysis of Dasein",
+            "name": "43. Dasein, worldhood, and Reality",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/43.%20Dasein,%20worldhood,%20and%20Reality.mp3"
+        },
+        {
+            "section": "Division 1: Preparatory Fundamental Analysis of Dasein",
+            "name": "44. Dasein, disclosedness, and truth",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/44.%20Dasein,%20disclosedness,%20and%20truth.mp3"
+        },
+        {
+            "section": "Division 2: Dasein and Temporality",
+            "name": "45. The outcome of the preparatory fundamental analysis of Dasein, and the task",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/45.%20The%20outcome%20of%20the%20preparatory%20fundamental%20analysis%20of%20Dasein,%20and%20the%20task.mp3"
+        },
+        {
+            "section": "Division 2: Dasein and Temporality",
+            "name": "46. The seeming impossibility of getting Dasein's Being-a-whole into our grasp",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/46.%20The%20seeming%20impossibility%20of%20getting%20Dasein's%20Being-a-whole%20into%20our%20grasp.mp3"
+        },
+        {
+            "section": "Division 2: Dasein and Temporality",
+            "name": "47. The possibility of experiencing the death of Others, and the possibility of getting",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/47%C2%B7%20The%20possibility%20of%20experiencing%20the%20death%20of%20Others,%20and%20the%20possibility%20of%20getting.mp3"
+        },
+        {
+            "section": "Division 2: Dasein and Temporality",
+            "name": "48. That which is still outstanding; the end; totality",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/48.%20That%20which%20is%20still%20outstanding;%20the%20end;%20totality.mp3"
+        },
+        {
+            "section": "Division 2: Dasein and Temporality",
+            "name": "49. How the existential analysis of death is distinguished from other possible",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/49.%20How%20the%20existential%20analysis%20of%20death%20is%20distinguished%20from%20other%20possible.mp3"
+        },
+        {
+            "section": "Division 2: Dasein and Temporality",
+            "name": "50. Preliminary sketch of the existential-ontological structure of death",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/50.%20Preliminary%20sketch%20of%20the%20existential-ontological%20structure%20of%20death.mp3"
+        },
+        {
+            "section": "Division 2: Dasein and Temporality",
+            "name": "51. Being-towards-death and the everydayness of Dasein",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/51.%20Being-towards-death%20and%20the%20everydayness%20of%20Dasein.mp3"
+        },
+        {
+            "section": "Division 2: Dasein and Temporality",
+            "name": "52. Everyday Being-towards-the-end, and the full existential conception of death",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/52.%20Everyday%20Being-towards-the-end,%20and%20the%20full%20existential%20conception%20of%20death.mp3"
+        },
+        {
+            "section": "Division 2: Dasein and Temporality",
+            "name": "53. Existential projection of an authentic Being-towards-death wards-death",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/53%C2%B7%20Existential%20projection%20of%20an%20authentic%20Being-towards-death%20wards-death.mp3"
+        },
+        {
+            "section": "Division 2: Dasein and Temporality",
+            "name": "54. The problem of how an authentic existentiell possibility is attested",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/54.%20The%20problem%20of%20how%20an%20authentic%20existentiell%20possibility%20is%20attested.mp3"
+        },
+        {
+            "section": "Division 2: Dasein and Temporality",
+            "name": "55. The existential-ontological foundations of conscience",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/55.%20The%20existential-ontological%20foundations%20of%20conscience.mp3"
+        },
+        {
+            "section": "Division 2: Dasein and Temporality",
+            "name": "56. The character of conscience as a call",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/56.%20The%20character%20of%20conscience%20as%20a%20call.mp3"
+        },
+        {
+            "section": "Division 2: Dasein and Temporality",
+            "name": "57. Conscience as the call of care",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/57.%20Conscience%20as%20the%20call%20of%20care.mp3"
+        },
+        {
+            "section": "Division 2: Dasein and Temporality",
+            "name": "58. Understanding the appeal, and guilt",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/58.%20Understanding%20the%20appeal,%20and%20guilt.mp3"
+        },
+        {
+            "section": "Division 2: Dasein and Temporality",
+            "name": "59. The existential Interpretation of the conscience, and the way conscience is ordinarily",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/59.%20The%20existential%20Interpretation%20of%20the%20conscience,%20and%20the%20way%20conscience%20is%20ordinarily.mp3"
+        },
+        {
+            "section": "Division 2: Dasein and Temporality",
+            "name": "60. The existential structure of the authentic potentiality-for-Being which is attested",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/60.%20The%20existential%20structure%20of%20the%20authentic%20potentiality-for-Being%20which%20is%20attested.mp3"
+        },
+        {
+            "section": "Division 2: Dasein and Temporality",
+            "name": "61. A preliminary sketch of the methodological step from the definition of Dasein’s",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/61.%20A%20preliminary%20sketch%20of%20the%20methodological%20step%20from%20the%20definition%20of%20Dasein%E2%80%99s.mp3"
+        },
+        {
+            "section": "Division 2: Dasein and Temporality",
+            "name": "62. Anticipatory resoluteness as the way in which Dasein’s potentiality-for-Being-a-whole",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/62.%20Anticipatory%20resoluteness%20as%20the%20way%20in%20which%20Dasein%E2%80%99s%20potentiality-for-Being-a-whole.mp3"
+        },
+        {
+            "section": "Division 2: Dasein and Temporality",
+            "name": "63. The hermeneutical situation at which we have arrived for Interpreting the meaning",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/63.%20The%20hermeneutical%20situation%20at%20which%20we%20have%20arrived%20for%20Interpreting%20the%20meaning.mp3"
+        },
+        {
+            "section": "Division 2: Dasein and Temporality",
+            "name": "64. Care and selfhood",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/64.%20Care%20and%20selfhood.mp3"
+        },
+        {
+            "section": "Division 2: Dasein and Temporality",
+            "name": "65. Temporality as the ontological meaning of care",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/65.%20Temporality%20as%20the%20ontological%20meaning%20of%20care.mp3"
+        },
+        {
+            "section": "Division 2: Dasein and Temporality",
+            "name": "66. Dasein’s temporality and the tasks arising therefrom of repeating the existential analysis",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/66.%20Dasein%E2%80%99s%20temporality%20and%20the%20tasks%20arising%20therefrom%20of%20repeating%20the%20existential%20analysis.mp3"
+        },
+        {
+            "section": "Division 2: Dasein and Temporality",
+            "name": "67. The basic content of Dasein’s existential constitution, and a preliminary sketch of the.",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/67.%20The%20basic%20content%20of%20Dasein%E2%80%99s%20existential%20constitution,%20and%20a%20preliminary%20sketch%20of%20the..mp3"
+        },
+        {
+            "section": "Division 2: Dasein and Temporality",
+            "name": "68. The temporality of disclosedness in general",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/68.%20The%20temporality%20of%20disclosedness%20in%20general.mp3"
+        },
+        {
+            "section": "Division 2: Dasein and Temporality",
+            "name": "69. The of Being-in-the-world and the problem of the transcendence of the world",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/69.%20The%20of%20Being-in-the-world%20and%20the%20problem%20of%20the%20transcendence%20of%20the%20world.mp3"
+        },
+        {
+            "section": "Division 2: Dasein and Temporality",
+            "name": "70. The temporality of the spatiality that is characteristic of Dasein",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/70.%20The%20temporality%20of%20the%20spatiality%20that%20is%20characteristic%20of%20Dasein.mp3"
+        },
+        {
+            "section": "Division 2: Dasein and Temporality",
+            "name": "71. The temporal meaning of Dasein’s everydayness",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/71.%20The%20temporal%20meaning%20of%20Dasein%E2%80%99s%20everydayness.mp3"
+        },
+        {
+            "section": "Division 2: Dasein and Temporality",
+            "name": "72. Existential-ontological exposition of the problem of history",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/72.%20Existential-ontological%20exposition%20of%20the%20problem%20of%20history.mp3"
+        },
+        {
+            "section": "Division 2: Dasein and Temporality",
+            "name": "73. The ordinary understanding of history, and Dasein’s historizing",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/73.%20The%20ordinary%20understanding%20of%20history,%20and%20Dasein%E2%80%99s%20historizing.mp3"
+        },
+        {
+            "section": "Division 2: Dasein and Temporality",
+            "name": "74. The basic constitution of historicality",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/74.%20The%20basic%20constitution%20of%20historicality.mp3"
+        },
+        {
+            "section": "Division 2: Dasein and Temporality",
+            "name": "75. Dasein’s historicality, and world-history",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/75.%20Dasein%E2%80%99s%20historicality,%20and%20world-history.mp3"
+        },
+        {
+            "section": "Division 2: Dasein and Temporality",
+            "name": "76. The existential source of historiology in Dasein’s historicality",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/76.%20The%20existential%20source%20of%20historiology%20in%20Dasein%E2%80%99s%20historicality.mp3"
+        },
+        {
+            "section": "Division 2: Dasein and Temporality",
+            "name": "77. The connection of the foregoing exposition of the problem of historicality with the",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/77.%20The%20connection%20of%20the%20foregoing%20exposition%20of%20the%20problem%20of%20historicality%20with%20the.mp3"
+        },
+        {
+            "section": "Division 2: Dasein and Temporality",
+            "name": "78. The incompleteness of the foregoing temporal analysis of Dasein",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/78.%20The%20incompleteness%20of%20the%20foregoing%20temporal%20analysis%20of%20Dasein.mp3"
+        },
+        {
+            "section": "Division 2: Dasein and Temporality",
+            "name": "79. Dasein’s temporality, and our concern with time",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/79.%20Dasein%E2%80%99s%20temporality,%20and%20our%20concern%20with%20time.mp3"
+        },
+        {
+            "section": "Division 2: Dasein and Temporality",
+            "name": "80. The time with which we concern ourselves, and within-time-ness",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/80.%20The%20time%20with%20which%20we%20concern%20ourselves,%20and%20within-time-ness.mp3"
+        },
+        {
+            "section": "Division 2: Dasein and Temporality",
+            "name": "81. Within-time-ness and the genesis of the ordinary conception of time",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/81.%20Within-time-ness%20and%20the%20genesis%20of%20the%20ordinary%20conception%20of%20time.mp3"
+        },
+        {
+            "section": "Division 2: Dasein and Temporality",
+            "name": "82. A comparison of the existential-ontological connection of temporality, Dasein",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/82.%20A%20comparison%20of%20the%20existential-ontological%20connection%20of%20temporality,%20Dasein.mp3"
+        },
+        {
+            "section": "Division 2: Dasein and Temporality",
+            "name": "83. The existential-temporal analytic of Dasein, and the question of fundamental ontology",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha13/83.%20The%20existential-temporal%20analytic%20of%20Dasein,%20and%20the%20question%20of%20fundamental%20ontology.mp3"
+        }
+    ]
+}
