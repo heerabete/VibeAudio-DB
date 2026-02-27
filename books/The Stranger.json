@@ -1,0 +1,47 @@
+{
+    "bookId": "book_47",
+    "title": "The Stranger",
+    "author": "Albert Camus",
+    "moods": [
+        "Non-Fiction"
+    ],
+    "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+    "cover": "https://m.media-amazon.com/images/I/41uS2GLorBL.jpg",
+    "chapters_en": [
+        {
+            "section": "Stand-alone Books",
+            "name": "The Stranger",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha15/Albert%20Camus%20-%20The%20Stranger.mp3"
+        },
+        {
+            "section": "Stand-alone Books",
+            "name": "A Happy Death",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha15/Albert%20Camus%20-%20A%20Happy%20Death.mp3"
+        },
+        {
+            "section": "Stand-alone Books",
+            "name": "Exile and the Kingdom",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha15/Albert%20Camus%20-%20Exile%20and%20the%20Kingdom.mp3"
+        },
+        {
+            "section": "Committed Writings",
+            "name": "Part 1",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha15/part_00.mp3"
+        },
+        {
+            "section": "Committed Writings",
+            "name": "Part 2",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha15/part_01.mp3"
+        },
+        {
+            "section": "Committed Writings",
+            "name": "Part 3",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha15/part_02.mp3"
+        },
+        {
+            "section": "Committed Writings",
+            "name": "Part 4",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump/main/cha15/part_03.mp3"
+        }
+    ]
+}
