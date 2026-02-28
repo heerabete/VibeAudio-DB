@@ -1,0 +1,88 @@
+{
+    "bookId": "book_64",
+    "title": "A Short History of Modern Philosophy",
+    "author": "Roger Scruton",
+    "moods": [
+        "Non-Fiction"
+    ],
+    "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+    "cover": "https://m.media-amazon.com/images/I/51pPiU98a1L._SL1020_.jpg",
+    "chapters_en": [
+        {
+            "name": "Chapter 1: History of Philosophy and History of Ideas",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump3/main/cha_X/01.%20History%20of%20Philosophy%20and%20History%20of%20Ideas.mp3"
+        },
+        {
+            "name": "Chapter 2: The Rise of Modern Philosophy",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump3/main/cha_X/02.%20The%20Rise%20of%20Modern%20Philosophy.mp3"
+        },
+        {
+            "name": "Chapter 3: Descartes",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump3/main/cha_X/03.%20Descartes.mp3"
+        },
+        {
+            "name": "Chapter 4: The Cartesian Revolution",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump3/main/cha_X/04.%20The%20Cartesian%20Revolution.mp3"
+        },
+        {
+            "name": "Chapter 5: Spinoza",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump3/main/cha_X/05.%20Spinoza.mp3"
+        },
+        {
+            "name": "Chapter 6: Leibniz",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump3/main/cha_X/06.%20Leibniz.mp3"
+        },
+        {
+            "name": "Chapter 7: Locke and Berkeley",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump3/main/cha_X/07.%20Locke%20and%20Berkeley.mp3"
+        },
+        {
+            "name": "Chapter 8: The Idea of a Moral Science",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump3/main/cha_X/08.%20The%20Idea%20of%20a%20Moral%20Science.mp3"
+        },
+        {
+            "name": "Chapter 9: Hume",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump3/main/cha_X/09.%20Hume.mp3"
+        },
+        {
+            "name": "Chapter 10: Kant I - The Critique of Pure Reason",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump3/main/cha_X/10.%20Kant%20I%20-%20The%20Critique%20of%20Pure%20Reason.mp3"
+        },
+        {
+            "name": "Chapter 11: Kant II - Ethics and Aesthetics",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump3/main/cha_X/11.%20Kant%20II%20-%20Ethics%20and%20Aesthetics.mp3"
+        },
+        {
+            "name": "Chapter 12: Hegel",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump3/main/cha_X/12.%20Hegel.mp3"
+        },
+        {
+            "name": "Chapter 13: Reactions - Schopenhauer, Kierkegaard and Nietzsche",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump3/main/cha_X/13.%20Reactions%20-%20Schopenhauer%2C%20Kierkegaard%20and%20Nietzsche.mp3"
+        },
+        {
+            "name": "Chapter 14: Political Philosophy from Hobbes to Hegel",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump3/main/cha_X/14.%20Political%20Philosophy%20from%20Hobbes%20to%20Hegel.mp3"
+        },
+        {
+            "name": "Chapter 15: Marx",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump3/main/cha_X/15.%20Marx.mp3"
+        },
+        {
+            "name": "Chapter 16: Utilitarianism and After",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump3/main/cha_X/16.%20Utilitarianism%20and%20After.mp3"
+        },
+        {
+            "name": "Chapter 17: Frege",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump3/main/cha_X/17.%20Frege.mp3"
+        },
+        {
+            "name": "Chapter 18: Phenomenology and Existentialism",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump3/main/cha_X/18.%20Phenomenology%20and%20Existentialism.mp3"
+        },
+        {
+            "name": "Chapter 19: Wittgenstein",
+            "url": "https://raw.githack.com/cheemtad/non_f_dump3/main/cha_X/19.%20Wittgenstein.mp3"
+        }
+    ]
+}
