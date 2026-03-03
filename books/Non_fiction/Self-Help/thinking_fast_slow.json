@@ -1,0 +1,177 @@
+{
+  "bookId": "book_31",
+  "title": "Thinking, Fast and Slow",
+  "author": "Daniel Kahneman",
+  "moods": [
+    "Non-Fiction",
+    "Self-Help"
+  ],
+  "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+  "cover": "https://m.media-amazon.com/images/I/71f6DceqZAL._SL1500_.jpg",
+  "chapters_en": [
+    {
+      "name": "Introduction",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha7/Chapter_01.m4a"
+    },
+    {
+      "name": "Chapter 1: The Characters of the Story",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha7/Chapter_02.m4a"
+    },
+    {
+      "name": "Chapter 2: Attention and Effort",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha7/Chapter_03.m4a"
+    },
+    {
+      "name": "Chapter 3: The Lazy Controller",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha7/Chapter_04.m4a"
+    },
+    {
+      "name": "Chapter 4: The Associative Machine",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha7/Chapter_05.m4a"
+    },
+    {
+      "name": "Chapter 5: Cognitive Ease",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha7/Chapter_06.m4a"
+    },
+    {
+      "name": "Chapter 6: Norms, Surprises, and Causes",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha7/Chapter_07.m4a"
+    },
+    {
+      "name": "Chapter 7: A Machine for Jumping to Conclusions",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha7/Chapter_08.m4a"
+    },
+    {
+      "name": "Chapter 8: How Judgments Happen",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha7/Chapter_09.m4a"
+    },
+    {
+      "name": "Chapter 9: Answering an Easier Question",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha7/Chapter_10.m4a"
+    },
+    {
+      "name": "Chapter 10: The Law of Small Numbers",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha7/Chapter_11.m4a"
+    },
+    {
+      "name": "Chapter 11: Anchors",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha7/Chapter_12.m4a"
+    },
+    {
+      "name": "Chapter 12: The Science of Availability",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha7/Chapter_13.m4a"
+    },
+    {
+      "name": "Chapter 13: Availability, Emotion, and Risk",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha7/Chapter_14.m4a"
+    },
+    {
+      "name": "Chapter 14: Tom W's Specialty",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha7/Chapter_15.m4a"
+    },
+    {
+      "name": "Chapter 15: Linda: Less is More",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha7/Chapter_16.m4a"
+    },
+    {
+      "name": "Chapter 16: Causes Trump Statistics",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha7/Chapter_17.m4a"
+    },
+    {
+      "name": "Chapter 17: Regression to the Mean",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha7/Chapter_18.m4a"
+    },
+    {
+      "name": "Chapter 18: Taming Intuitive Predictions",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha7/Chapter_19.m4a"
+    },
+    {
+      "name": "Chapter 19: The Illusion of Understanding",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha7/Chapter_20.m4a"
+    },
+    {
+      "name": "Chapter 20: The Illusion of Validity",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha7/Chapter_21.m4a"
+    },
+    {
+      "name": "Chapter 21: Intuitions Vs. Formulas",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha7/Chapter_22.m4a"
+    },
+    {
+      "name": "Chapter 22: Expert Intuition: When Can We Trust It?",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha7/Chapter_23.m4a"
+    },
+    {
+      "name": "Chapter 23: The Outside View",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha7/Chapter_24.m4a"
+    },
+    {
+      "name": "Chapter 24: The Engine of Capitalism",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha7/Chapter_25.m4a"
+    },
+    {
+      "name": "Chapter 25: Bernoulli's Errors",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha7/Chapter_26.m4a"
+    },
+    {
+      "name": "Chapter 26: Prospect Theory",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha7/Chapter_27.m4a"
+    },
+    {
+      "name": "Chapter 27: The Endowment Effect",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha7/Chapter_28.m4a"
+    },
+    {
+      "name": "Chapter 28: Bad Events",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha7/Chapter_29.m4a"
+    },
+    {
+      "name": "Chapter 29: The Fourfold Pattern",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha7/Chapter_30.m4a"
+    },
+    {
+      "name": "Chapter 30: Rare Events",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha7/Chapter_31.m4a"
+    },
+    {
+      "name": "Chapter 31: Risk Policies",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha7/Chapter_32.m4a"
+    },
+    {
+      "name": "Chapter 32: Keeping Score",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha7/Chapter_33.m4a"
+    },
+    {
+      "name": "Chapter 33: Reversals",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha7/Chapter_34.m4a"
+    },
+    {
+      "name": "Chapter 34: Frames and Reality",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha7/Chapter_35.m4a"
+    },
+    {
+      "name": "Chapter 35: Two Selves",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha7/Chapter_36.m4a"
+    },
+    {
+      "name": "Chapter 36: Life as a Story",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha7/Chapter_37.m4a"
+    },
+    {
+      "name": "Chapter 37: Experienced Well-Being",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha7/Chapter_38.m4a"
+    },
+    {
+      "name": "Chapter 38: Thinking About Life",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha7/Chapter_39.m4a"
+    },
+    {
+      "name": "Conclusions",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha7/Chapter_40.m4a"
+    },
+    {
+      "name": "Appendix & Acknowledgments",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha7/Chapter_41.m4a"
+    }
+  ]
+}

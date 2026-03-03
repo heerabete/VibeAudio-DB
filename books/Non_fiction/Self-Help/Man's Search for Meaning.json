@@ -1,0 +1,61 @@
+{
+  "bookId": "book_34",
+  "title": "Man's Search for Meaning",
+  "author": "Viktor Frankl",
+  "moods": [
+    "Non-Fiction",
+    "Self-Help"
+  ],
+  "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+  "cover": "https://m.media-amazon.com/images/I/81uK7UU+0OL._SL1500_.jpg",
+  "chapters_en": [
+    {
+      "name": "Preface by Gordon W. Allport & Preface to 1984 Edition",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha11/01%20Preface%20by%20Gordon%20W.%20Allport%20%26%20Preface%20to%201984%20Edition.mp3"
+    },
+    {
+      "name": "Experiences in a Concentration Camp (Part 1)",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha11/02%20Experiences%20in%20a%20Concentration%20Camp_1.mp3"
+    },
+    {
+      "name": "Experiences in a Concentration Camp (Part 2)",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha11/03%20Experiences%20in%20a%20Concentration%20Camp_2.mp3"
+    },
+    {
+      "name": "Experiences in a Concentration Camp (Part 3)",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha11/04%20Experiences%20in%20a%20Concentration%20Camp_3.mp3"
+    },
+    {
+      "name": "Experiences in a Concentration Camp (Part 4)",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha11/05%20Experiences%20in%20a%20Concentration%20Camp_4.mp3"
+    },
+    {
+      "name": "Experiences in a Concentration Camp (Part 5)",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha11/06%20Experiences%20in%20a%20Concentration%20Camp_5.mp3"
+    },
+    {
+      "name": "Experiences in a Concentration Camp (Part 6)",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha11/07%20Experiences%20in%20a%20Concentration%20Camp_6.mp3"
+    },
+    {
+      "name": "Experiences in a Concentration Camp (Part 7)",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha11/08%20Experiences%20in%20a%20Concentration%20Camp_7.mp3"
+    },
+    {
+      "name": "Logotherapy in a Nutshell (Part 1)",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha11/09%20Logotherapy%20in%20a%20Nutshell_1.mp3"
+    },
+    {
+      "name": "Logotherapy in a Nutshell (Part 2)",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha11/10%20Logotherapy%20in%20a%20Nutshell_2.mp3"
+    },
+    {
+      "name": "Logotherapy in a Nutshell (Part 3)",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha11/11%20Logotherapy%20in%20a%20Nutshell_3.mp3"
+    },
+    {
+      "name": "Post Script to 1984 Edition - The Case for a Tragic Optimism",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha11/12%20Post%20Script%20to%201984%20Edition%20-%20The%20Case%20for%20a%20Tragic%20Optimism.mp3"
+    }
+  ]
+}

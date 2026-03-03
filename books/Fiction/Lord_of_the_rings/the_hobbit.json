@@ -1,0 +1,177 @@
+{
+  "bookId": "book_10",
+  "title": "The Hobbit",
+  "author": "J.R.R. Tolkien",
+   "moods": [
+    "Fiction",
+    "Adventure",
+    "Fantasy"
+  ],
+  "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+  "cover": "https://m.media-amazon.com/images/I/81iLCTUEboL._SL1500_.jpg",
+  "chapters": [
+     {
+      "name": "Introduction: The Hobbit",
+      "url": "https://archive.org/download/hobbithindi/intro.mp3"
+    },
+    {
+      "name": "Chapter 1: An Unexpected Party",
+      "url": "https://archive.org/download/hobbithindi/Chapter_1.mp3"
+    },
+    {
+      "name": "Chapter 2: Roast Mutton",
+      "url": "https://archive.org/download/hobbithindi/Chapter_2.mp3"
+    },
+    {
+      "name": "Chapter 3: A Short Rest",
+      "url": "https://archive.org/download/hobbithindi/Chapter_3.mp3"
+    },
+    {
+      "name": "Chapter 4: Over Hill and Under Hill",
+      "url": "https://archive.org/download/hobbithindi/Chapter_4.mp3"
+    },
+    {
+      "name": "Chapter 5: Riddles in the Dark",
+      "url": "https://archive.org/download/hobbithindi/Chapter_5.mp3"
+    },
+    {
+      "name": "Chapter 6: Out of the Frying-Pan into the Fire",
+      "url": "https://archive.org/download/hobbithindi/Chapter_6.mp3"
+    },
+    {
+      "name": "Chapter 7: Queer Lodgings",
+      "url": "https://archive.org/download/hobbithindi/Chapter_7.mp3"
+    },
+    {
+      "name": "Chapter 8: Flies and Spiders",
+      "url": "https://archive.org/download/hobbithindi/Chapter_8.mp3"
+    },
+    {
+      "name": "Chapter 9: Barrels Out of Bond",
+      "url": "https://archive.org/download/hobbithindi/Chapter_9.mp3"
+    },
+    {
+      "name": "Chapter 10: A Warm Welcome",
+      "url": "https://archive.org/download/hobbithindi/Chapter_10.mp3"
+    },
+    {
+      "name": "Chapter 11: On the Doorstep",
+      "url": "https://archive.org/download/hobbithindi/Chapter_11.mp3"
+    },
+    {
+      "name": "Chapter 12: Inside Information",
+      "url": "https://archive.org/download/hobbithindi/Chapter_12.mp3"
+    },
+    {
+      "name": "Chapter 13: Not at Home",
+      "url": "https://archive.org/download/hobbithindi/Chapter_13.mp3"
+    },
+    {
+      "name": "Chapter 14: Fire and Water",
+      "url": "https://archive.org/download/hobbithindi/Chapter_14.mp3"
+    },
+    {
+      "name": "Chapter 15: The Gathering of the Clouds",
+      "url": "https://archive.org/download/hobbithindi/Chapter_15.mp3"
+    },
+    {
+      "name": "Chapter 16: A Thief in the Night",
+      "url": "https://archive.org/download/hobbithindi/Chapter_16.mp3"
+    },
+    {
+      "name": "Chapter 17: The Clouds Burst",
+      "url": "https://archive.org/download/hobbithindi/Chapter_17.mp3"
+    },
+    {
+      "name": "Chapter 18: The Return Journey",
+      "url": "https://archive.org/download/hobbithindi/Chapter_18.mp3"
+    },
+    {
+      "name": "Chapter 19: The Last Stage",
+      "url": "https://archive.org/download/hobbithindi/Chapter_19.mp3"
+    }
+  ],
+  "chapters_en": [
+     {
+      "name": "Introduction: The Hobbit",
+      "url": "https://archive.org/download/hobbithindi/intro.mp3"
+    },
+    {
+      "name": "Chapter 1: An Unexpected Party",
+      "url": "https://archive.org/download/serkishobbit/SerkisHobbit320/1.%20An%20Unexpected%20Party.mp3"
+    },
+    {
+      "name": "Chapter 2: Roast Mutton",
+      "url": "https://archive.org/download/serkishobbit/SerkisHobbit320/2.%20Roast%20Mutton.mp3"
+    },
+    {
+      "name": "Chapter 3: A Short Rest",
+      "url": "https://archive.org/download/serkishobbit/SerkisHobbit320/3.%20A%20Short%20Rest.mp3"
+    },
+    {
+      "name": "Chapter 4: Over Hill and Under Hill",
+      "url": "https://archive.org/download/serkishobbit/SerkisHobbit320/4.%20Over%20Hill%20And%20Under%20Hill.mp3"
+    },
+    {
+      "name": "Chapter 5: Riddles in the Dark",
+      "url": "https://archive.org/download/serkishobbit/SerkisHobbit320/5.%20Riddles%20In%20The%20Dark.mp3"
+    },
+    {
+      "name": "Chapter 6: Out of the Frying-Pan into the Fire",
+      "url": "https://archive.org/download/serkishobbit/SerkisHobbit320/6.%20Out%20Of%20The%20Frying-Pan%20Into%20The%20Fire.mp3"
+    },
+    {
+      "name": "Chapter 7: Queer Lodgings",
+      "url": "https://archive.org/download/serkishobbit/SerkisHobbit320/7.%20Queer%20Lodgings.mp3"
+    },
+    {
+      "name": "Chapter 8: Flies and Spiders",
+      "url": "https://archive.org/download/serkishobbit/SerkisHobbit320/8.%20Flies%20And%20Spiders.mp3"
+    },
+    {
+      "name": "Chapter 9: Barrels Out of Bond",
+      "url": "https://archive.org/download/serkishobbit/SerkisHobbit320/9.%20Barrels%20Out%20Of%20Bond.mp3"
+    },
+    {
+      "name": "Chapter 10: A Warm Welcome",
+      "url": "https://archive.org/download/serkishobbit/SerkisHobbit320/10.%20A%20Warm%20Welcome.mp3"
+    },
+    {
+      "name": "Chapter 11: On the Doorstep",
+      "url": "https://archive.org/download/serkishobbit/SerkisHobbit320/11.%20On%20The%20Doorstep.mp3"
+    },
+    {
+      "name": "Chapter 12: Inside Information",
+      "url": "https://archive.org/download/serkishobbit/SerkisHobbit320/12.%20Inside%20Information.mp3"
+    },
+    {
+      "name": "Chapter 13: Not at Home",
+      "url": "https://archive.org/download/serkishobbit/SerkisHobbit320/13.%20Not%20At%20Home.mp3"
+    },
+    {
+      "name": "Chapter 14: Fire and Water",
+      "url": "https://archive.org/download/serkishobbit/SerkisHobbit320/14.%20Fire%20And%20Water.mp3"
+    },
+    {
+      "name": "Chapter 15: The Gathering of the Clouds",
+      "url": "https://archive.org/download/serkishobbit/SerkisHobbit320/15.%20The%20Gathering%20Of%20The%20Clouds.mp3"
+    },
+    {
+      "name": "Chapter 16: A Thief in the Night",
+      "url": "https://archive.org/download/serkishobbit/SerkisHobbit320/16.%20A%20Thief%20In%20The%20Night.mp3"
+    },
+    {
+      "name": "Chapter 17: The Clouds Burst",
+      "url": "https://archive.org/download/serkishobbit/SerkisHobbit320/17.%20The%20Clouds%20Burst.mp3"
+    },
+    {
+      "name": "Chapter 18: The Return Journey",
+      "url": "https://archive.org/download/serkishobbit/SerkisHobbit320/18.%20The%20Return%20Journey.mp3"
+    },
+    {
+      "name": "Chapter 19: The Last Stage",
+      "url": "https://archive.org/download/serkishobbit/SerkisHobbit320/19.%20The%20Last%20Stage.mp3"
+    }
+  ]
+
+}

@@ -1,0 +1,158 @@
+{
+  "bookId": "book_23",
+  "title": "Godan",
+  "author": "Premchand",
+  "moods": [
+    "Fiction",
+    "Hindi Classics"
+  ],
+  "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+  "cover": "https://m.media-amazon.com/images/I/71ckxf8QFEL._SL1275_.jpg",
+  "chapters": [
+     {
+      "name": "Part 1",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/hindi/GodanPart1.mp3"
+    },
+    {
+      "name": "Part 2",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/hindi/GodanPart2.mp3"
+    },
+    {
+      "name": "Part 3",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/hindi/GodanPart3.mp3"
+    },
+    {
+      "name": "Part 4",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/hindi/GodanPart4.mp3"
+    },
+    {
+      "name": "Part 5",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/hindi/GodanPart5.mp3"
+    },
+    {
+      "name": "Part 6",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/hindi/GodanPart6.mp3"
+    },
+    {
+      "name": "Part 7",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/hindi/GodanPart7.mp3"
+    },
+    {
+      "name": "Part 8",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/hindi/GodanPart8.mp3"
+    },
+    {
+      "name": "Part 9",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/hindi/GodanPart9.mp3"
+    },
+    {
+      "name": "Part 10",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/hindi/GodanPart10.mp3"
+    },
+    {
+      "name": "Part 11",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/hindi/GodanPart11.mp3"
+    },
+    {
+      "name": "Part 12",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/hindi/GodanPart12.mp3"
+    },
+    {
+      "name": "Part 13",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/hindi/GodanPart13.mp3"
+    },
+    {
+      "name": "Part 14",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/hindi/GodanPart14.mp3"
+    },
+    {
+      "name": "Part 15",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/hindi/GodanPart15.mp3"
+    },
+    {
+      "name": "Part 16",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/hindi/GodanPart16.mp3"
+    },
+    {
+      "name": "Part 17",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/hindi/GodanPart17.mp3"
+    },
+    {
+      "name": "Part 18",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/hindi/GodanPart18.mp3"
+    },
+    {
+      "name": "Part 19",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/hindi/GodanPart19.mp3"
+    },
+    {
+      "name": "Part 20",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/hindi/GodanPart20.mp3"
+    },
+    {
+      "name": "Part 21",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/hindi/GodanPart21.mp3"
+    },
+    {
+      "name": "Part 22",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/hindi/GodanPart22.mp3"
+    },
+    {
+      "name": "Part 23",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/hindi/GodanPart23.mp3"
+    },
+    {
+      "name": "Part 24",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/hindi/GodanPart24.mp3"
+    },
+    {
+      "name": "Part 25",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/hindi/GodanPart25.mp3"
+    },
+    {
+      "name": "Part 26",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/hindi/GodanPart26.mp3"
+    },
+    {
+      "name": "Part 27",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/hindi/GodanPart27.mp3"
+    },
+    {
+      "name": "Part 28",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/hindi/GodanPart28.mp3"
+    },
+    {
+      "name": "Part 29",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/hindi/GodanPart29.mp3"
+    },
+    {
+      "name": "Part 30",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/hindi/GodanPart30.mp3"
+    },
+    {
+      "name": "Part 31",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/hindi/GodanPart31.mp3"
+    },
+    {
+      "name": "Part 32",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/hindi/GodanPart32.mp3"
+    },
+    {
+      "name": "Part 33",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/hindi/GodanPart33.mp3"
+    },
+    {
+      "name": "Part 34",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/hindi/GodanPart34.mp3"
+    },
+    {
+      "name": "Part 35",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/hindi/GodanPart35.mp3"
+    },
+    {
+      "name": "Part 36",
+      "url": "https://raw.githack.com/dsundiri/gdn_hin/main/hindi/GodanPart36.mp3"
+    }
+  ]
+
+}

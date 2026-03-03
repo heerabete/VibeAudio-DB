@@ -1,0 +1,49 @@
+{
+    "bookId": "book_74",
+    "title": "Namak Swadanusar",
+    "author": "Nikhil Sachan",
+    "moods": [
+    "Fiction",
+    "Hindi Classics"
+  ],
+    "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+    "cover": "https://m.media-amazon.com/images/I/611EPy1xRlL._SL1500_.jpg",
+    "chapters": [
+        {
+            "name": "Chapter 1: Chapter One",
+            "url": "https://raw.githack.com/asprathi/new_hin_d_1/main/cha3/Namak%20Swadanusar%20%5BB07VT8N2VL%5D%20-%201%20-%20%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%201.mp3"
+        },
+        {
+            "name": "Chapter 2: Chapter Two",
+            "url": "https://raw.githack.com/asprathi/new_hin_d_1/main/cha3/Namak%20Swadanusar%20%5BB07VT8N2VL%5D%20-%202%20-%20%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%202.mp3"
+        },
+        {
+            "name": "Chapter 3: Chapter Three",
+            "url": "https://raw.githack.com/asprathi/new_hin_d_1/main/cha3/Namak%20Swadanusar%20%5BB07VT8N2VL%5D%20-%203%20-%20%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%203.mp3"
+        },
+        {
+            "name": "Chapter 4: Chapter Four",
+            "url": "https://raw.githack.com/asprathi/new_hin_d_1/main/cha3/Namak%20Swadanusar%20%5BB07VT8N2VL%5D%20-%204%20-%20%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%204.mp3"
+        },
+        {
+            "name": "Chapter 5: Chapter Five",
+            "url": "https://raw.githack.com/asprathi/new_hin_d_1/main/cha3/Namak%20Swadanusar%20%5BB07VT8N2VL%5D%20-%205%20-%20%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%205.mp3"
+        },
+        {
+            "name": "Chapter 6: Chapter Six",
+            "url": "https://raw.githack.com/asprathi/new_hin_d_1/main/cha3/Namak%20Swadanusar%20%5BB07VT8N2VL%5D%20-%206%20-%20%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%206.mp3"
+        },
+        {
+            "name": "Chapter 7: Chapter Seven",
+            "url": "https://raw.githack.com/asprathi/new_hin_d_1/main/cha3/Namak%20Swadanusar%20%5BB07VT8N2VL%5D%20-%207%20-%20%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%207.mp3"
+        },
+        {
+            "name": "Chapter 8: Chapter Eight",
+            "url": "https://raw.githack.com/asprathi/new_hin_d_1/main/cha3/Namak%20Swadanusar%20%5BB07VT8N2VL%5D%20-%208%20-%20%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%208.mp3"
+        },
+        {
+            "name": "Chapter 9: Chapter Nine",
+            "url": "https://raw.githack.com/asprathi/new_hin_d_1/main/cha3/Namak%20Swadanusar%20%5BB07VT8N2VL%5D%20-%209%20-%20%E0%A4%85%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%209.mp3"
+        }
+    ]
+}

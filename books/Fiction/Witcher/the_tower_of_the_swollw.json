@@ -1,0 +1,66 @@
+{
+  "bookId": "book_16",
+  "title": "The Tower of Swollw",
+  "author": "Andrzej Sapkowski",
+   "moods": [
+    "Fiction",
+    "Adventure",
+    "Fantasy"
+  ],
+
+  "//_COMMENT_COVER": "Bahar ka link hai (Amazon), isliye direct https:// use kiya hai",
+  "cover": "https://maniashi.github.io/Witcher/Books/Tower_Swallows/tower_swallows_cover.jpeg",
+
+  "chapters": [
+    {
+      "name": "Chapter 1",
+      "url": "https://archive.org/download/start-1_202601/start-1.mp3"
+    }
+  ],
+  "chapters_en": [
+    {
+      "name": "Chapter 1: Chapter One",
+      "url": "https://maniashi.github.io/Witcher/Books/Tower_Swallows/tower_swallows_01.mp3"
+    },
+    {
+      "name": "Chapter 2: Chapter Two",
+      "url": "https://maniashi.github.io/Witcher/Books/Tower_Swallows/tower_swallows_02.mp3"
+    },
+    {
+      "name": "Chapter 3: Chapter Three",
+      "url": "https://maniashi.github.io/Witcher/Books/Tower_Swallows/tower_swallows_03.mp3"
+    },
+    {
+      "name": "Chapter 4: Chapter Four",
+      "url": "https://maniashi.github.io/Witcher/Books/Tower_Swallows/tower_swallows_04.mp3"
+    },
+    {
+      "name": "Chapter 5: Chapter Five",
+      "url": "https://maniashi.github.io/Witcher/Books/Tower_Swallows/tower_swallows_05.mp3"
+    },
+    {
+      "name": "Chapter 6: Chapter Six",
+      "url": "https://maniashi.github.io/Witcher/Books/Tower_Swallows/tower_swallows_06.mp3"
+    },
+    {
+      "name": "Chapter 7: Chapter Seven",
+      "url": "https://maniashi.github.io/Witcher/Books/Tower_Swallows/tower_swallows_07.mp3"
+    },
+    {
+      "name": "Chapter 8: Chapter Eight",
+      "url": "https://maniashi.github.io/Witcher/Books/Tower_Swallows/tower_swallows_08.mp3"
+    },
+    {
+      "name": "Chapter 9: Chapter Nine",
+      "url": "https://maniashi.github.io/Witcher/Books/Tower_Swallows/tower_swallows_09.mp3"
+    },
+    {
+      "name": "Chapter 10: Chapter Ten",
+      "url": "https://maniashi.github.io/Witcher/Books/Tower_Swallows/tower_swallows_10.mp3"
+    },
+    {
+      "name": "Chapter 11: Chapter Eleven",
+      "url": "https://maniashi.github.io/Witcher/Books/Tower_Swallows/tower_swallows_11.mp3"
+    }
+  ]
+}

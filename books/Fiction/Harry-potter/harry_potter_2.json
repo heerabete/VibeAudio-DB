@@ -1,0 +1,160 @@
+{
+  "bookId": "book_2",
+  "title": "Harry Potter and the Chamber of Secrets",
+  "author": "J.K. Rowling",
+   "moods": [
+    "Fiction",
+    "Adventure",
+    "Fantasy"
+  ],
+  "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+  "cover": "https://m.media-amazon.com/images/I/818umIdoruL._SL1500_.jpg",
+  "chapters": [
+    {
+      "name": "Chapter 1: सबसे खराब जन्मदिन",
+      "url": "Harry Potter and the Chamber of Secrets/01-chapter.m4a.m4a"
+    },
+    {
+      "name": "Chapter 2: डॉबी की चेतावनी",
+      "url": "Harry Potter and the Chamber of Secrets/02-chapter.m4a"
+    },
+    {
+      "name": "Chapter 3: रौन का घर",
+      "url": "Harry Potter and the Chamber of Secrets/03-chapter.m4a.m4a"
+    },
+    {
+      "name": "Chapter 4: किताबो की दुकान",
+      "url": "Harry Potter and the Chamber of Secrets/04-chapter.m4a"
+    },
+    {
+      "name": "Chapter 5: लड़ाकू पेड़",
+      "url": "Harry Potter and the Chamber of Secrets/05-chapter.m4a.m4a"
+    },
+    {
+      "name": "Chapter 6: गिल्डरॉय लॉकहार्ट",
+      "url": "Harry Potter and the Chamber of Secrets/06-chapter.m4a"
+    },
+    {
+      "name": "Chapter 7: बद्ज़ाद और अदृश्य आवाज़",
+      "url": "Harry Potter and the Chamber of Secrets/07-chapter.m4a.m4a"
+    },
+    {
+      "name": "Chapter 8: मृत्युदिवस की पार्टी",
+      "url": "Harry Potter and the Chamber of Secrets/08-chapter.m4a"
+    },
+    {
+      "name": "Chapter 9: दिवार और लिखी चेतावनी",
+      "url": "Harry Potter and the Chamber of Secrets/09-chapter.m4a"
+    },
+    {
+      "name": "Chapter 10: दुष्ट पहलवान",
+      "url": "Harry Potter and the Chamber of Secrets/10-chapter.m4a"
+    },
+    {
+      "name": "Chapter 11: युद्ध कला का प्रशिक्षण",
+      "url": "Harry Potter and the Chamber of Secrets/11-chapter.m4a"
+    },
+    {
+      "name": "Chapter 12: भेसबदल काढ़ा",
+      "url": "Harry Potter and the Chamber of Secrets/12-chapter.m4a"
+    },
+    {
+      "name": "Chapter 13: बहुत ही गुप्त डायरी",
+      "url": "Harry Potter and the Chamber of Secrets/13-chapter.m4a"
+    },
+    {
+      "name": "Chapter 14: कॉरनेलियस फज",
+      "url": "Harry Potter and the Chamber of Secrets/14-chapter.m4a"
+    },
+    {
+      "name": "Chapter 15: एरागॉग",
+      "url": "Harry Potter and the Chamber of Secrets/15-chapter.m4a"
+    },
+    {
+      "name": "Chapter 16: रहस्यमयी तहखाना",
+      "url": "Harry Potter and the Chamber of Secrets/16-chapter.m4a"
+    },
+    {
+      "name": "Chapter 17: नागशक्ति का वारिस",
+      "url": "Harry Potter and the Chamber of Secrets/17-chapter.m4a"
+    },
+    {
+      "name": "Chapter 18: डॉबी का इनाम",
+      "url": "Harry Potter and the Chamber of Secrets/18-chapter.m4a"
+    }
+  ],
+  "chapters_en": [
+    {
+      "name": "Chapter 1: The Worst Birthday",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull2/Chapter_01.m4a"
+    },
+    {
+      "name": "Chapter 2: Dobby's Warning",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull2/Chapter_02.m4a"
+    },
+    {
+      "name": "Chapter 3: The Burrow",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull2/Chapter_03.m4a"
+    },
+    {
+      "name": "Chapter 4: At Flourish and Blotts",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull2/Chapter_04.m4a"
+    },
+    {
+      "name": "Chapter 5: The Whomping Willow",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull2/Chapter_05.m4a"
+    },
+    {
+      "name": "Chapter 6: Gilderoy Lockhart",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull2/Chapter_06.m4a"
+    },
+    {
+      "name": "Chapter 7: Mudbloods and Murmurs",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull2/Chapter_07.m4a"
+    },
+    {
+      "name": "Chapter 8: The Deathday Party",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull2/Chapter_08.m4a"
+    },
+    {
+      "name": "Chapter 9: The Writing on the Wall",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull2/Chapter_09.m4a"
+    },
+    {
+      "name": "Chapter 10: The Rogue Bludger",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull2/Chapter_10.m4a"
+    },
+    {
+      "name": "Chapter 11: The Dueling Club",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull2/Chapter_11.m4a"
+    },
+    {
+      "name": "Chapter 12: The Polyjuice Potion",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull2/Chapter_12.m4a"
+    },
+    {
+      "name": "Chapter 13: The Very Secret Diary",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull2/Chapter_13.m4a"
+    },
+    {
+      "name": "Chapter 14: Cornelius Fudge",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull2/Chapter_14.m4a"
+    },
+    {
+      "name": "Chapter 15: Aragog",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull2/Chapter_15.m4a"
+    },
+    {
+      "name": "Chapter 16: The Chamber of Secrets",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull2/Chapter_16.m4a"
+    },
+    {
+      "name": "Chapter 17: The Heir of Slytherin",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull2/Chapter_17.m4a"
+    },
+    {
+      "name": "Chapter 18: Dobby's Reward",
+      "url": "https://rawcdn.githack.com/hanubhaiji/adbhin/main/hpfull2/Chapter_18.m4a"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+    "bookId": "book_40",
+    "title": "Homo Deus A Brief History of Tomorrow",
+    "author": "Yuval Noah Harari",
+    "moods": [
+    "Non-Fiction",
+    "Science"
+  ],
+    "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+    "cover": "https://m.media-amazon.com/images/I/51lEhiuTKPL._SL1200_.jpg",
+    "chapters_en": [
+        {
+            "name": "Chapter 1: The New Human Agenda",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha16/Chapter_01.m4a"
+        },
+        {
+            "name": "Chapter 2: The Anthropocene",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha16/Chapter_02.m4a"
+        },
+        {
+            "name": "Chapter 3: The Human Spark",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha16/Chapter_03.m4a"
+        },
+        {
+            "name": "Chapter 4: The Storytellers",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha16/Chapter_04.m4a"
+        },
+        {
+            "name": "Chapter 5: The Odd Couple",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha16/Chapter_05.m4a"
+        },
+        {
+            "name": "Chapter 6: The Modern Covenant",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha16/Chapter_06.m4a"
+        },
+        {
+            "name": "Chapter 7: The Humanist Revolution",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha16/Chapter_07.m4a"
+        },
+        {
+            "name": "Chapter 8: The Time Bomb in the Laboratory",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha16/Chapter_08.m4a"
+        },
+        {
+            "name": "Chapter 9: The Great Decoupling",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha16/Chapter_09.m4a"
+        },
+        {
+            "name": "Chapter 10: The Ocean of Consciousness",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha16/Chapter_10.m4a"
+        },
+        {
+            "name": "Chapter 11: The Data Religion",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha16/Chapter_11.m4a"
+        },
+        {
+            "name": "Epilogue / Notes",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha16/Chapter_12.m4a"
+        },
+        {
+            "name": "Acknowledgments",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha16/Chapter_13.m4a"
+        },
+        {
+            "name": "Closing Credits",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha16/Chapter_14.m4a"
+        }
+    ]
+}

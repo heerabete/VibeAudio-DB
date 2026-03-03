@@ -1,0 +1,49 @@
+{
+  "bookId": "book_30",
+  "title": "Deep Work",
+  "author": "Cal Newport",
+  "moods": [
+    "Non-Fiction",
+    "Self-Help"
+  ],
+  "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+  "cover": "https://m.media-amazon.com/images/I/61-mJf7WOiL._SL1500_.jpg",
+  "chapters_en": [
+    {
+      "name": "Introduction",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha5/Chapter_01_Introduction.m4a"
+    },
+    {
+      "name": "Part I: The Idea - Chapter 1: Deep Work is Valuable",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha5/Chapter_02_Part%20I%20The%20Idea%20Chapter%201%20Deep%20Work%20is%20valuable.m4a"
+    },
+    {
+      "name": "Chapter 2: Deep Work is Rare",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha5/Chapter_03_Chapter%202%20Deep%20Work%20is%20rare.m4a"
+    },
+    {
+      "name": "Chapter 3: Deep Work is Meaningful",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha5/Chapter_04_Chapter%203%20Deep%20Work%20is%20meaningful.m4a"
+    },
+    {
+      "name": "Part II: The Rules - Rule #1: Work Deeply",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha5/Chapter_05_Part%20II%20The%20Rules%20Rule%20%231%20Work%20deeply.m4a"
+    },
+    {
+      "name": "Rule #2: Embrace the Boredom",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha5/Chapter_06_Rule%20%232%20Embrace%20the%20boredom.m4a"
+    },
+    {
+      "name": "Rule #3: Quit Social Media",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha5/Chapter_07_Rule%20%233%20Quit%20social%20media.m4a"
+    },
+    {
+      "name": "Rule #4: Drain the Shallows",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha5/Chapter_08_Rule%20%234%20Drain%20the%20shallows.m4a"
+    },
+    {
+      "name": "Conclusion",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha5/Chapter_09_Conclusion.m4a"
+    }
+  ]
+}

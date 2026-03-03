@@ -1,0 +1,69 @@
+{
+    "bookId": "book_41",
+    "title": "The Selfish Gene",
+    "author": "Richard Dawkins",
+    "moods": [
+    "Non-Fiction",
+    "Self-Help"
+  ],
+    "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+    "cover": "https://m.media-amazon.com/images/I/41uS2GLorBL.jpg",
+    "chapters_en": [
+        {
+            "name": "Chapter 1: Why Are People?",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha17/Chapter_01_Chapter%201.m4a"
+        },
+        {
+            "name": "Chapter 2: The Replicators",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha17/Chapter_02_Chapter%202.m4a"
+        },
+        {
+            "name": "Chapter 3: Immortal Coils",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha17/Chapter_03_Chapter%203.m4a"
+        },
+        {
+            "name": "Chapter 4: The Gene Machine",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha17/Chapter_04_Chapter%204.m4a"
+        },
+        {
+            "name": "Chapter 5: Aggression: Stability and the Selfish Machine",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha17/Chapter_05_Chapter%205.m4a"
+        },
+        {
+            "name": "Chapter 6: Genesmanship",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha17/Chapter_06_Chapter%206.m4a"
+        },
+        {
+            "name": "Chapter 7: Family Planning",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha17/Chapter_07_Chapter%207.m4a"
+        },
+        {
+            "name": "Chapter 8: Battle of the Generations",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha17/Chapter_08_Chapter%208.m4a"
+        },
+        {
+            "name": "Chapter 9: Battle of the Sexes",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha17/Chapter_09_Chapter%209.m4a"
+        },
+        {
+            "name": "Chapter 10: You Scratch My Back, I'll Ride on Yours",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha17/Chapter_10_Chapter%2010.m4a"
+        },
+        {
+            "name": "Chapter 11: Memes: The New Replicators",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha17/Chapter_11_Chapter%2011.m4a"
+        },
+        {
+            "name": "Chapter 12: Nice Guys Finish First",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha17/Chapter_12_Chapter%2012.m4a"
+        },
+        {
+            "name": "Chapter 13: The Long Reach of the Gene",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha17/Chapter_13_Chapter%2013.m4a"
+        },
+        {
+            "name": "Chapter 14: Epilogue & Endnotes",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha17/Chapter_14_Chapter%2014.m4a"
+        }
+    ]
+}

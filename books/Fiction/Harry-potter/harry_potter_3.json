@@ -1,0 +1,192 @@
+{
+  "bookId": "book_3",
+  "title": "Harry Potter and the Prisoner of Azkaban",
+  "author": "J.K. Rowling",
+   "moods": [
+    "Fiction",
+    "Adventure",
+    "Fantasy"
+  ],
+  "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+  "cover": "https://m.media-amazon.com/images/I/81NQA1BDlnL._SL1500_.jpg",
+  "chapters": [
+    {
+      "name": "Chapter 1: उल्लू खत लेकर आये",
+      "url": "Harry Potter and the Prisoner of Azkaban/01-chapter.m4a"
+    },
+    {
+      "name": "Chapter 2: मार्ज आंटी की गलती",
+      "url": "Harry Potter and the Prisoner of Azkaban/02-chapter.m4a"
+    },
+    {
+      "name": "Chapter 3: नाइट बस",
+      "url": "Harry Potter and the Prisoner of Azkaban/03-chapter.m4a"
+    },
+    {
+      "name": "Chapter 4: रिस्ति कढ़ाई",
+      "url": "Harry Potter and the Prisoner of Azkaban/04-chapter.m4a"
+    },
+    {
+      "name": "Chapter 5: दमपिशाच",
+      "url": "Harry Potter and the Prisoner of Azkaban/05-chapter.m4a"
+    },
+    {
+      "name": "Chapter 6: गरुड़अश्व और चाय की पत्तिया",
+      "url": "Harry Potter and the Prisoner of Azkaban/06-chapter.m4a"
+    },
+    {
+      "name": "Chapter 7: अलमारी में छिपा बहरूपिया",
+      "url": "Harry Potter and the Prisoner of Azkaban/07-chapter.m4a"
+    },
+    {
+      "name": "Chapter 8: मोटी औरत का भागना",
+      "url": "Harry Potter and the Prisoner of Azkaban/08-chapter.m4a"
+    },
+    {
+      "name": "Chapter 9: बुरी पराजय",
+      "url": "Harry Potter and the Prisoner of Azkaban/09-chapter.m4a"
+    },
+    {
+      "name": "Chapter 10: मानचित्र मंथन",
+      "url": "Harry Potter and the Prisoner of Azkaban/10-chapter.m4a"
+    },
+    {
+      "name": "Chapter 11: फायरबोल्ट",
+      "url": "Harry Potter and the Prisoner of Azkaban/11-chapter.m4a"
+    },
+    {
+      "name": "Chapter 12: पितृदेव",
+      "url": "Harry Potter and the Prisoner of Azkaban/12-chapter.m4a"
+    },
+    {
+      "name": "Chapter 13: गरुड़द्वार और चीलघात का मैच",
+      "url": "Harry Potter and the Prisoner of Azkaban/13-chapter.m4a"
+    },
+    {
+      "name": "Chapter 14: स्नेप की दुर्भावना",
+      "url": "Harry Potter and the Prisoner of Azkaban/14-chapter.m4a"
+    },
+    {
+      "name": "Chapter 15: क्विडिच फाइनल",
+      "url": "Harry Potter and the Prisoner of Azkaban/15-chapter.m4a"
+    },
+    {
+      "name": "Chapter 16: प्रोफेसर ट्रिलोनी की भविष्यवाणी",
+      "url": "Harry Potter and the Prisoner of Azkaban/16-chapter.m4a"
+    },
+    {
+      "name": "Chapter 17: बिल्ली, चूहा और कुत्ता",
+      "url": "Harry Potter and the Prisoner of Azkaban/17-chapter.m4a"
+    },
+    {
+      "name": "Chapter 18: मूनी, वर्मटेल, पैडफुट और प्रॉन्ग्स",
+      "url": "Harry Potter and the Prisoner of Azkaban/18-chapter.m4a"
+    },
+    {
+      "name": "Chapter 19: लॉर्ड वोल्डेमोर्ट का सेवक",
+      "url": "Harry Potter and the Prisoner of Azkaban/19-chapter.m4a"
+    },
+    {
+      "name": "Chapter 20: दमपिशाच का चुंबन",
+      "url": "Harry Potter and the Prisoner of Azkaban/20-chapter.m4a"
+    },
+    {
+      "name": "Chapter 21: हर्माइनी का रहस्य",
+      "url": "Harry Potter and the Prisoner of Azkaban/21-chapter.m4a"
+    },
+    {
+      "name": "Chapter 22: एक बार फिर उल्लू खत लेकर आए",
+      "url": "Harry Potter and the Prisoner of Azkaban/22-chapter.m4a"
+    }
+  ],
+  "chapters_en": [
+    {
+      "name": "Chapter 1: Owl Post",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng/main/hen_3/CH01.mp3"
+    },
+    {
+      "name": "Chapter 2: Aunt Marge's Big Mistake",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng/main/hen_3/CH02.mp3"
+    },
+    {
+      "name": "Chapter 3: The Knight Bus",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng/main/hen_3/CH03.mp3"
+    },
+    {
+      "name": "Chapter 4: The Leaky Cauldron",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng/main/hen_3/CH04.mp3"
+    },
+    {
+      "name": "Chapter 5: The Dementor",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng/main/hen_3/CH05.mp3"
+    },
+    {
+      "name": "Chapter 6: Talons and Tea Leaves",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng/main/hen_3/CH06.mp3"
+    },
+    {
+      "name": "Chapter 7: The Boggart in the Wardrobe",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng/main/hen_3/CH07.mp3"
+    },
+    {
+      "name": "Chapter 8: Flight of the Fat Lady",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng/main/hen_3/CH08.mp3"
+    },
+    {
+      "name": "Chapter 9: Grim Defeat",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng/main/hen_3/CH09.mp3"
+    },
+    {
+      "name": "Chapter 10: The Marauder's Map",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng/main/hen_3/CH10.mp3"
+    },
+    {
+      "name": "Chapter 11: The Firebolt",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng/main/hen_3/CH11.mp3"
+    },
+    {
+      "name": "Chapter 12: The Patronus",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng/main/hen_3/CH12.mp3"
+    },
+    {
+      "name": "Chapter 13: Gryffindor versus Ravenclaw",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng/main/hen_3/CH13.mp3"
+    },
+    {
+      "name": "Chapter 14: Snape's Grudge",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng/main/hen_3/CH14.mp3"
+    },
+    {
+      "name": "Chapter 15: The Quidditch Final",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng/main/hen_3/CH15.mp3"
+    },
+    {
+      "name": "Chapter 16: Professor Trelawney's Prediction",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng/main/hen_3/CH16.mp3"
+    },
+    {
+      "name": "Chapter 17: Cat, Rat, and Dog",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng/main/hen_3/CH17.mp3"
+    },
+    {
+      "name": "Chapter 18: Moony, Wormtail, Padfoot, and Prongs",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng/main/hen_3/CH18.mp3"
+    },
+    {
+      "name": "Chapter 19: The Servant of Lord Voldemort",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng/main/hen_3/CH19.mp3"
+    },
+    {
+      "name": "Chapter 20: The Dementor's Kiss",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng/main/hen_3/CH20.mp3"
+    },
+    {
+      "name": "Chapter 21: Hermione's Secret",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng/main/hen_3/CH21.mp3"
+    },
+    {
+      "name": "Chapter 22: Owl Post Again",
+      "url": "https://rawcdn.githack.com/dsundiri/hpeng/main/hen_3/CH22.mp3"
+    }
+  ]
+}

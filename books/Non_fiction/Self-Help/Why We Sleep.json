@@ -1,0 +1,85 @@
+{
+  "bookId": "book_35",
+  "title": "Why We Sleep",
+  "author": "Matthew Walker",
+  "moods": [
+    "Non-Fiction",
+    "Self-Help"
+  ],
+  "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+  "cover": "https://m.media-amazon.com/images/I/51nPVoTFxRL._SL1000_.jpg",
+  "chapters_en": [
+    {
+      "name": "Part 1",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha12/Why%20We%20Sleep%20%2801%29.mp3"
+    },
+    {
+      "name": "Part 2",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha12/Why%20We%20Sleep%20%2802%29.mp3"
+    },
+    {
+      "name": "Part 3",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha12/Why%20We%20Sleep%20%2803%29.mp3"
+    },
+    {
+      "name": "Part 4",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha12/Why%20We%20Sleep%20%2804%29.mp3"
+    },
+    {
+      "name": "Part 5",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha12/Why%20We%20Sleep%20%2805%29.mp3"
+    },
+    {
+      "name": "Part 6",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha12/Why%20We%20Sleep%20%2806%29.mp3"
+    },
+    {
+      "name": "Part 7",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha12/Why%20We%20Sleep%20%2807%29.mp3"
+    },
+    {
+      "name": "Part 8",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha12/Why%20We%20Sleep%20%2808%29.mp3"
+    },
+    {
+      "name": "Part 9",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha12/Why%20We%20Sleep%20%2809%29.mp3"
+    },
+    {
+      "name": "Part 10",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha12/Why%20We%20Sleep%20%2810%29.mp3"
+    },
+    {
+      "name": "Part 11",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha12/Why%20We%20Sleep%20%2811%29.mp3"
+    },
+    {
+      "name": "Part 12",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha12/Why%20We%20Sleep%20%2812%29.mp3"
+    },
+    {
+      "name": "Part 13",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha12/Why%20We%20Sleep%20%2813%29.mp3"
+    },
+    {
+      "name": "Part 14",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha12/Why%20We%20Sleep%20%2814%29.mp3"
+    },
+    {
+      "name": "Part 15",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha12/Why%20We%20Sleep%20%2815%29.mp3"
+    },
+    {
+      "name": "Part 16",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha12/Why%20We%20Sleep%20%2816%29.mp3"
+    },
+    {
+      "name": "Part 17",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha12/Why%20We%20Sleep%20%2817%29.mp3"
+    },
+    {
+      "name": "Part 18",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha12/Why%20We%20Sleep%20%2818%29.mp3"
+    }
+  ]
+}

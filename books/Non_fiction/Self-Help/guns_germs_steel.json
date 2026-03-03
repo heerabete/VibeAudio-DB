@@ -1,0 +1,97 @@
+{
+  "bookId": "book_28",
+  "title": "Guns, Germs And Steel",
+  "author": "Jared Diamond",
+  "moods": [
+    "Non-Fiction",
+    "Self-Help"
+  ],
+  "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+  "cover": "https://m.media-amazon.com/images/I/81RdveuYXWL._SL1500_.jpg",
+  "chapters_en": [
+    {
+      "name": "Prologue: Yali's Question",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha3/Chapter_01.m4a"
+    },
+    {
+      "name": "Chapter 1: Up to the Starting Line",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha3/Chapter_02.m4a"
+    },
+    {
+      "name": "Chapter 2: A Natural Experiment of History",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha3/Chapter_03.m4a"
+    },
+    {
+      "name": "Chapter 3: Collision at Cajamarca",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha3/Chapter_04.m4a"
+    },
+    {
+      "name": "Chapter 4: Farmer Power",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha3/Chapter_05.m4a"
+    },
+    {
+      "name": "Chapter 5: History's Haves and Have-nots",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha3/Chapter_06.m4a"
+    },
+    {
+      "name": "Chapter 6: To Farm or Not to Farm",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha3/Chapter_07.m4a"
+    },
+    {
+      "name": "Chapter 7: How to Make an Almond",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha3/Chapter_08.m4a"
+    },
+    {
+      "name": "Chapter 8: Apples or Indians",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha3/Chapter_09.m4a"
+    },
+    {
+      "name": "Chapter 9: Zebras, Unhappy Marriages, and the Anna Karenina Principle",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha3/Chapter_10.m4a"
+    },
+    {
+      "name": "Chapter 10: Spacious Skies and Tilted Axes",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha3/Chapter_11.m4a"
+    },
+    {
+      "name": "Chapter 11: Lethal Gift of Livestock",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha3/Chapter_12.m4a"
+    },
+    {
+      "name": "Chapter 12: Blueprints and Borrowed Letters",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha3/Chapter_13.m4a"
+    },
+    {
+      "name": "Chapter 13: Necessity's Mother",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha3/Chapter_14.m4a"
+    },
+    {
+      "name": "Chapter 14: From Egalitarianism to Kleptocracy",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha3/Chapter_15.m4a"
+    },
+    {
+      "name": "Chapter 15: Yali's People",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha3/Chapter_16.m4a"
+    },
+    {
+      "name": "Chapter 16: How China Became Chinese",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha3/Chapter_17.m4a"
+    },
+    {
+      "name": "Chapter 17: Speedboat to Polynesia",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha3/Chapter_18.m4a"
+    },
+    {
+      "name": "Chapter 18: Hemispheres Colliding",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha3/Chapter_19.m4a"
+    },
+    {
+      "name": "Chapter 19: How Africa Became Black",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha3/Chapter_20.m4a"
+    },
+    {
+      "name": "Epilogue: The Future of Human History as a Science",
+      "url": "https://raw.githack.com/spiderdoges/new_ss/main/cha3/Chapter_21.m4a"
+    }
+  ]
+}

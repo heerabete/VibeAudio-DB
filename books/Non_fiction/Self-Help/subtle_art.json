@@ -1,0 +1,49 @@
+{
+    "bookId": "book_39",
+    "title": "The Subtle Art of Not Giving a Fuck",
+    "author": "Mark Manson",
+    "moods": [
+    "Non-Fiction",
+    "Self-Help"
+  ],
+    "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+    "cover": "https://m.media-amazon.com/images/I/71t4GuxLCuL._SL1500_.jpg",
+    "chapters_en": [
+        {
+            "name": "Chapter 1: Don't Try",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha15/01%20-%20Don't%20try.mp3"
+        },
+        {
+            "name": "Chapter 2: Happiness is a Problem",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha15/02%20-%20Happiness%20is%20a%20problem.mp3"
+        },
+        {
+            "name": "Chapter 3: You Are Not Special",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha15/03%20-%20You%20are%20not%20special.mp3"
+        },
+        {
+            "name": "Chapter 4: The Value of Suffering",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha15/04%20-%20The%20value%20of%20suffering.mp3"
+        },
+        {
+            "name": "Chapter 5: You Are Always Choosing",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha15/05%20-%20You%20are%20always%20choosing.mp3"
+        },
+        {
+            "name": "Chapter 6: You're Wrong About Everything",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha15/06%20-%20You're%20wrong%20about%20everything.mp3"
+        },
+        {
+            "name": "Chapter 7: Failure is the Way Forward",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha15/07%20-%20Failure%20is%20the%20way%20forward.mp3"
+        },
+        {
+            "name": "Chapter 8: The Importance of Saying No",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha15/08%20-%20The%20importance%20of%20saying%20no.mp3"
+        },
+        {
+            "name": "Chapter 9: ...And Then You Die",
+            "url": "https://raw.githack.com/spiderdoges/new_ss_2/main/cha15/09%20-%20...and%20then%20you%20die.mp3"
+        }
+    ]
+}

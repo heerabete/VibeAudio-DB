@@ -1,0 +1,70 @@
+{
+  "bookId": "book_17",
+  "title": "Lady of the Lake",
+  "author": "Andrzej Sapkowski",
+   "moods": [
+    "Fiction",
+    "Adventure",
+    "Fantasy"
+  ],
+
+  "//_COMMENT_COVER": "Bahar ka link hai (Amazon), isliye direct https:// use kiya hai",
+  "cover": "https://maniashi.github.io/Witcher/Books/Lady_Lake/lady_lake_cover.jpg",
+
+  "chapters": [
+    {
+      "name": "Chapter 1",
+      "url": "https://archive.org/download/start-1_202601/start-1.mp3"
+    }
+  ],
+  "chapters_en": [
+    {
+      "name": "Chapter 1: Chapter One",
+      "url": "https://maniashi.github.io/Witcher/Books/Lady_Lake/lady_lake_01.mp3"
+    },
+    {
+      "name": "Chapter 2: Chapter Two",
+      "url": "https://maniashi.github.io/Witcher/Books/Lady_Lake/lady_lake_02.mp3"
+    },
+    {
+      "name": "Chapter 3: Chapter Three",
+      "url": "https://maniashi.github.io/Witcher/Books/Lady_Lake/lady_lake_03.mp3"
+    },
+    {
+      "name": "Chapter 4: Chapter Four",
+      "url": "https://maniashi.github.io/Witcher/Books/Lady_Lake/lady_lake_04.mp3"
+    },
+    {
+      "name": "Chapter 5: Chapter Five",
+      "url": "https://maniashi.github.io/Witcher/Books/Lady_Lake/lady_lake_05.mp3"
+    },
+    {
+      "name": "Chapter 6: Chapter Six",
+      "url": "https://maniashi.github.io/Witcher/Books/Lady_Lake/lady_lake_06.mp3"
+    },
+    {
+      "name": "Chapter 7: Chapter Seven",
+      "url": "https://maniashi.github.io/Witcher/Books/Lady_Lake/lady_lake_07.mp3"
+    },
+    {
+      "name": "Chapter 8: Chapter Eight",
+      "url": "https://maniashi.github.io/Witcher/Books/Lady_Lake/lady_lake_08.mp3"
+    },
+    {
+      "name": "Chapter 9: Chapter Nine",
+      "url": "https://maniashi.github.io/Witcher/Books/Lady_Lake/lady_lake_09.mp3"
+    },
+    {
+      "name": "Chapter 10: Chapter Ten",
+      "url": "https://maniashi.github.io/Witcher/Books/Lady_Lake/lady_lake_10.mp3"
+    },
+    {
+      "name": "Chapter 11: Chapter Eleven",
+      "url": "https://maniashi.github.io/Witcher/Books/Lady_Lake/lady_lake_11.mp3"
+    },
+    {
+      "name": "Chapter 12: Chapter Twelve",
+      "url": "https://maniashi.github.io/Witcher/Books/Lady_Lake/lady_lake_12.mp3"
+    }
+  ]
+}
