@@ -1,0 +1,29 @@
+{
+  "bookId": "book_77",
+  "title": "Yaar Papa",
+  "author": " Divya Prakash Dubey",
+  "moods": [
+    "Fiction",
+    "Hindi Classics"
+  ],
+  "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+  "cover": "https://m.media-amazon.com/images/I/71UchDE8PQL._SL1500_.jpg",
+  "chapters": [
+    {
+      "name": "Chapter 1: भाग 1",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha11/Yaar_Papa_audio_Part_01.mp3"
+    },
+    {
+      "name": "Chapter 2: भाग 2",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha11/Yaar_Papa_audio_Part_02.mp3"
+    },
+    {
+      "name": "Chapter 3: भाग 3",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha11/Yaar_Papa_audio_Part_03.mp3"
+    },
+    {
+      "name": "Chapter 4: भाग 4",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha11/Yaar_Papa_audio_Part_04.mp3"
+    }
+  ]
+}
