@@ -1,0 +1,29 @@
+{
+    "bookId": "book_85",
+    "title": "Nationalism",
+    "author": "Rabindranath Tagore",
+    "moods": [
+        "Non-Fiction",
+        "History"
+    ],
+    "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+    "cover": "https://m.media-amazon.com/images/I/71O9Tlc8SpL._SL1500_.jpg",
+    "chapters_en": [
+        {
+            "name": "Chapter 1: Chapter 1",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha8/Chapter_01_Chapter%201.m4a"
+        },
+        {
+            "name": "Chapter 2: Chapter 2",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha8/Chapter_02_Chapter%202.m4a"
+        },
+        {
+            "name": "Chapter 3: Chapter 3",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha8/Chapter_03_Chapter%203.m4a"
+        },
+        {
+            "name": "Chapter 4: Chapter 4",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin/main/cha8/Chapter_04_Chapter%204.m4a"
+        }
+    ]
+}
