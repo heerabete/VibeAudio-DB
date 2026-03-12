@@ -1,0 +1,25 @@
+{
+    "bookId": "book_121",
+    "title": "The Chirkuts",
+    "author": "Alok Kumar",
+    "moods": [
+        "Fiction",
+        "Hindi Classics"
+    ],
+    "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+    "cover": "https://m.media-amazon.com/images/I/61ieEjJcZTS._SL1360_.jpg",
+    "chapters": [
+        {
+            "name": "Chapter 1: Chapter One",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha52/The_Chirkuts_audio_Part_01.mp3"
+        },
+        {
+            "name": "Chapter 2: Chapter Two",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha52/The_Chirkuts_audio_Part_02.mp3"
+        },
+        {
+            "name": "Chapter 3: Chapter Three",
+            "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/cha52/The_Chirkuts_audio_Part_03.mp3"
+        }
+    ]
+}
