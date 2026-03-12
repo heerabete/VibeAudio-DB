@@ -1,4 +1,14 @@
-[
+{
+    "bookId": "book_133",
+    "title": "Ret Ki Machli",
+    "author": "Kanta Bharti",
+    "moods": [
+        "Fiction",
+        "Hindi Classics"
+    ],
+    "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+    "cover": "https://m.media-amazon.com/images/I/61a6xyHJhRL._SL1500_.jpg",
+    "chapters": [
   {
     "name": "Chapter 1: Chapter One",
     "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha65/Ret%20Ki%20Machhali%20_%20Chapter%201%20_%20Hindi%20Audiobook%20_%20Kanta%20Bharti%20_%20Suniye%20Zara%20by%20Rohit%20Dubey.m4a"
@@ -60,3 +70,4 @@
     "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha65/Ret%20Ki%20Machhli%20%E2%80%93%20Chapter%2014%20%28Final%20Chapter%29%20_%20Hindi%20Audiobook%20_%20Kanta%20Bharti%20_%20Suniye%20Zara.m4a"
   }
 ]
+}
