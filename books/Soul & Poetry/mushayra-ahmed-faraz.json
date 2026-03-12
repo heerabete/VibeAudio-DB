@@ -1,0 +1,201 @@
+{
+  "bookId": "book_143",
+  "title": "Ye Meri Gazlen Ye Meri Nazme",
+  "author": "Ahmad Faraz",
+  "moods": [
+    "Religion",
+    "Soul"
+  ],
+  "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+  "cover": "https://m.media-amazon.com/images/I/A121OZwE4gL._SL1500_.jpg",
+  "chapters": [
+    {
+      "name": "Chapter 1: Chapter One",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/mushayra-ahmed-faraz/%20Suna%20Hai%20Log%20Usay%20Aankh%20Bhar%20Ke%20Dekhte%20Hain%202.mp3"
+    },
+    {
+      "name": "Chapter 2: Chapter Two",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/mushayra-ahmed-faraz/%20Phirte%20Hain%20Ab%20Bhi%20Dil%20Ko%20Gareban%20Kiye%20Hue.mp3"
+    },
+    {
+      "name": "Chapter 3: Chapter Three",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/mushayra-ahmed-faraz/%20Jaan%20Se%20Ishq%20Aur%20Jahan%20Se%20Guraiz.mp3"
+    },
+    {
+      "name": "Chapter 4: Chapter Four",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/mushayra-ahmed-faraz/Ye%20meri%20ghazlen%20ye%20meri%20nazmen.mp3"
+    },
+    {
+      "name": "Chapter 5: Chapter Five",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/mushayra-ahmed-faraz/%20Remembering%20Parveen%20Shakir%20-%20Archives%20of%20Abdul%20Hafeez%20Memon.mp3"
+    },
+    {
+      "name": "Chapter 6: Chapter Six",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/mushayra-ahmed-faraz/%20Paich%20Rakhtay%20Ho%20Bohat%20Sahibo.mp3"
+    },
+    {
+      "name": "Chapter 7: Chapter Seven",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/mushayra-ahmed-faraz/%20Silsilay%20Tod%20Gaya%20Woh%20Sabhi%20Jatay%20Jatay%20-%20Archives%20of%20Abdul%20Hafeez%20Memon.mp3"
+    },
+    {
+      "name": "Chapter 8: Chapter Eight",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/mushayra-ahmed-faraz/%20Ahmad%20Faraz%20Ghazal.mp3"
+    },
+    {
+      "name": "Chapter 9: Chapter Nine",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/mushayra-ahmed-faraz/%20Ab%20Ke%20Tajdeed%20e%20Wafa%20Ka%20Nahi%20Imkan%20Janan.mp3"
+    },
+    {
+      "name": "Chapter 10: Chapter Ten",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/mushayra-ahmed-faraz/%20Tu%20Na%20Chahay%20To%20Nahi%20Hoon%20To%20Jo%20Chahay%20To%20Mein%20Hoon.mp3"
+    },
+    {
+      "name": "Chapter 11: Chapter Eleven",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/mushayra-ahmed-faraz/Gila%20fizuul%20tha%20ahd-e-wafaa%20ke%20hote%20hue.mp3"
+    },
+    {
+      "name": "Chapter 12: Chapter Twelve",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/mushayra-ahmed-faraz/Yeh%20meri%20ghazlen%20ye%20meri%20nazmen.mp3"
+    },
+    {
+      "name": "Chapter 13: Chapter Thirteen",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/mushayra-ahmed-faraz/%20Ae%20Mere%20Watan%20Ke%20Khush%20Nawaon.mp3"
+    },
+    {
+      "name": "Chapter 14: Chapter Fourteen",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/mushayra-ahmed-faraz/%20Dekhna%20Ab%20Ke%20Mera%20Dost%20Kamaan%20Khinchta%20Hai.mp3"
+    },
+    {
+      "name": "Chapter 15: Chapter Fifteen",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/mushayra-ahmed-faraz/%20Jisay%20Dekho%20Wohi%20Chup%20Ka%20Kafan%20Pehnay%20Hue%20Hai.mp3"
+    },
+    {
+      "name": "Chapter 16: Chapter Sixteen",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/mushayra-ahmed-faraz/%20Yeh%20Meri%20Ghazlein%20Yeh%20Meri%20Nazmein.mp3"
+    },
+    {
+      "name": "Chapter 17: Chapter Seventeen",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/mushayra-ahmed-faraz/Kab%20hamne%20kaha%20tha%20hamen%20dastaar.mp3"
+    },
+    {
+      "name": "Chapter 18: Chapter Eighteen",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/mushayra-ahmed-faraz/Gile%20fizuul%20the.mp3"
+    },
+    {
+      "name": "Chapter 19: Chapter Nineteen",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/mushayra-ahmed-faraz/%20Aisa%20Sannata%20Ke%20Jaise%20Ho%20Sukoot%20e%20Sahra%20Aisi%20Tareeki%20Ke%20Aankhon%20Ne%20Duhai%20Di%20Hai.mp3"
+    },
+    {
+      "name": "Chapter 20: Chapter Twenty",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/mushayra-ahmed-faraz/%20Maaf%20Kar%20Meri%20Masti%20Khuda%20e%20Izz%20o%20Jal%20Ke%20Mere%20Hath%20Mein%20Saghar%20Hai%20Mere%20Lab%20Pe%20Ghazal.mp3"
+    },
+    {
+      "name": "Chapter 21: Chapter 21",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/mushayra-ahmed-faraz/%20Mein%20To%20Maqtal%20Mein%20Bhi%20Qismat%20Ka%20Sikandar%20Nikla.mp3"
+    },
+    {
+      "name": "Chapter 22: Chapter 22",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/mushayra-ahmed-faraz/%20Jo%20Sach%20Kahun%20To%20Tere%20Qatilon%20Ke%20Sath%20Hain%20Hum.mp3"
+    },
+    {
+      "name": "Chapter 23: Chapter 23",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/mushayra-ahmed-faraz/%20Tu%20Na%20Chahay%20To%20Nahi%20Hoon%20To%20Jo%20Chahay%20To%20Mein%20Hoon%20-%20Archives%20of%20Abdul%20Hafeez%20Memon.mp3"
+    },
+    {
+      "name": "Chapter 24: Chapter 24",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/mushayra-ahmed-faraz/%20Us%20Ne%20Sukoot%20e%20Shab%20Mein%20Bhi%20Apna%20Payam%20Rakh%20Diya%20-%20Archives%20of%20Abdul%20Hafeez%20Memon.mp3"
+    },
+    {
+      "name": "Chapter 25: Chapter 25",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/mushayra-ahmed-faraz/%20Qurbat%20Bhi%20Nahi%20Dil%20Se%20Utar%20Bhi%20Nahi%20Jata.mp3"
+    },
+    {
+      "name": "Chapter 26: Chapter 26",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/mushayra-ahmed-faraz/%20Wahshaten%20Barhti%20Gayi%20Hijr%20Ke%20Azar%20Ke%20Sath.mp3"
+    },
+    {
+      "name": "Chapter 27: Chapter 27",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/mushayra-ahmed-faraz/%20Tum%20Mohabbat%20Mein%20Kahan%20Sood%20o%20Ziyan%20Le%20Aaye%20Ishq%20Ka%20Naam%20Khirad%20Hai%20Na%20Junoon%20Hai%20Yun%20Hai.mp3"
+    },
+    {
+      "name": "Chapter 28: Chapter 28",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/mushayra-ahmed-faraz/Ham%20bhi%20shaayar%20the%20kabhi%20jaan-e-sukhan%20yaad%20nahin.mp3"
+    },
+    {
+      "name": "Chapter 29: Chapter 29",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/mushayra-ahmed-faraz/%20Silsila%20Toota%20Nahi%20Hai%20Dard%20Ki%20Zanjeer%20Ka.mp3"
+    },
+    {
+      "name": "Chapter 30: Chapter 30",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/mushayra-ahmed-faraz/Yusuf%20na%20the%20magar%20sar-e-baazaar%20aa%20gaye.mp3"
+    },
+    {
+      "name": "Chapter 31: Chapter 31",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/mushayra-ahmed-faraz/Yahan%20Roze%20Hashr%20Bapa%20Hue%20Pa%20Koi%20Bhi%20Roze%20Jaza%20Nahi.mp3"
+    },
+    {
+      "name": "Chapter 32: Chapter 32",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/mushayra-ahmed-faraz/Charagh%20sabke%20bujhenge%20hawa%20kisi%20ki%20nahin.mp3"
+    },
+    {
+      "name": "Chapter 33: Chapter 33",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/mushayra-ahmed-faraz/%20Sail%20e%20Khoon%20Shehar%20Ki%20Galiyon%20Mein%20Dar%20Aya%20Hai%20Faraz.mp3"
+    },
+    {
+      "name": "Chapter 34: Chapter 34",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/mushayra-ahmed-faraz/%20Woh%20Tafawaten%20Hain%20Mere%20Khuda%20Ke%20Yeh%20To%20Nahi%20Koi%20Aur%20Hai.mp3"
+    },
+    {
+      "name": "Chapter 35: Chapter 35",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/mushayra-ahmed-faraz/Har%20koi%20dil%20ki%20hatheli%20pe%20hai%20sehra%20rakkhe.mp3"
+    },
+    {
+      "name": "Chapter 36: Chapter 36",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/mushayra-ahmed-faraz/Chalo%20wo%20ishq%20nahin%20chahne%20ki%20aadat%20hai.mp3"
+    },
+    {
+      "name": "Chapter 37: Chapter 37",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/mushayra-ahmed-faraz/Kis%20taraf%20ko%20chalti%20hai%20ab%20hawa%20nahin%20maaluum.mp3"
+    },
+    {
+      "name": "Chapter 38: Chapter 38",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/mushayra-ahmed-faraz/%20Mere%20Tan%20Ke%20Zakhm%20Na%20Gin%20Abhi%20Meri%20Aankh%20Mein%20Abhi%20Noor%20Hai.mp3"
+    },
+    {
+      "name": "Chapter 39: Chapter 39",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/mushayra-ahmed-faraz/%20Tujhe%20Hai%20Mashq%20e%20Sitam%20Ka%20Malal%20Waisay%20Hi.mp3"
+    },
+    {
+      "name": "Chapter 40: Chapter 40",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/mushayra-ahmed-faraz/%20Khud%20Ko%20Taqseem%20Na%20Karna%20Mere%20Saare%20Logo.mp3"
+    },
+    {
+      "name": "Chapter 41: Chapter 41",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/mushayra-ahmed-faraz/%20Abhi%20Kuch%20Aur%20Karishme%20Ghazal%20Ke%20Dekhte%20Hain%20-%20Archives%20of%20Abdul%20Hafeez%20Memon.mp3"
+    },
+    {
+      "name": "Chapter 42: Chapter 42",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/mushayra-ahmed-faraz/%20Jo%20Sar%20Bhi%20Kasheeda%20Ho%20Usay%20Daar%20Kare%20Hai.mp3"
+    },
+    {
+      "name": "Chapter 43: Chapter 43",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/mushayra-ahmed-faraz/%20Dil%20Ne%20Har%20Bar%20Kaha%20Aag%20Parayi%20Le%20Le.mp3"
+    },
+    {
+      "name": "Chapter 44: Chapter 44",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/mushayra-ahmed-faraz/%20Manzile%20Shoq%20Ka%20Ab%20Koi%20Bhi%20Dildada%20Nahi.mp3"
+    },
+    {
+      "name": "Chapter 45: Chapter 45",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/mushayra-ahmed-faraz/%20Suna%20Hai%20Log%20Usay%20Aankh%20Bhar%20Ke%20Dekhte%20Hain.mp3"
+    },
+    {
+      "name": "Chapter 46: Chapter 46",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/mushayra-ahmed-faraz/%20Mere%20Ghaneem%20Ne%20Mujh%20Ko%20Payam%20Bheja%20Hai.mp3"
+    },
+    {
+      "name": "Chapter 47: Chapter 47",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/mushayra-ahmed-faraz/%20Suna%20Hai%20Log%20Usay%20Aankh%20Bhar%20Ke%20Dekhte%20Hain%20-%20Archives%20of%20Abdul%20Hafeez%20Memon.mp3"
+    }
+  ]
+}

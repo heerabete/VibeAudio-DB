@@ -1,0 +1,65 @@
+{
+  "bookId": "book_142",
+  "title": "Kamayani",
+  "author": "Jaishankar Prasad",
+  "moods": [
+    "Religion",
+    "Soul"
+  ],
+  "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+  "cover": "https://cdn.exoticindia.com/images/products/original/books-2019-017/nzz920.webp",
+  "chapters": [
+    {
+      "name": "Chapter 1: Chapter One",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/kam-ni ani/Kamayani%20%28%E0%A4%95%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A5%80%29%20by%20Jaishankar%20Prasad%20II%20Episode%20%2301.mp3"
+    },
+    {
+      "name": "Chapter 2: Chapter Two",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/kam-ni ani/Kamayani%20%28%E0%A4%95%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A5%80%29%20by%20Jaishankar%20Prasad%20II%20Episode%20%2302.mp3"
+    },
+    {
+      "name": "Chapter 3: Chapter Three",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/kam-ni ani/Kamayani%20%28%E0%A4%95%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A5%80%29%20by%20Jaishankar%20Prasad%20II%20Episode%20%2303.mp3"
+    },
+    {
+      "name": "Chapter 4: Chapter Four",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/kam-ni ani/Kamayani%20%28%E0%A4%95%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A5%80%29%20by%20Jaishankar%20Prasad%20II%20Episode%20%2304.mp3"
+    },
+    {
+      "name": "Chapter 5: Chapter Five",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/kam-ni ani/Kamayani%20%28%E0%A4%95%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A5%80%29%20by%20Jaishankar%20Prasad%20II%20Episode%20%2305.mp3"
+    },
+    {
+      "name": "Chapter 6: Chapter Six",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/kam-ni ani/Kamayani%20%28%E0%A4%95%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A5%80%29%20by%20Jaishankar%20Prasad%20II%20Episode%20%2306.mp3"
+    },
+    {
+      "name": "Chapter 7: Chapter Seven",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/kam-ni ani/Kamayani%20%28%E0%A4%95%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A5%80%29%20by%20Jaishankar%20Prasad%20II%20Episode%20%2307.mp3"
+    },
+    {
+      "name": "Chapter 8: Chapter Eight",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/kam-ni ani/Kamayani%20%28%E0%A4%95%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A5%80%29%20by%20Jaishankar%20Prasad%20II%20Episode%20%2308.mp3"
+    },
+    {
+      "name": "Chapter 9: Chapter Nine",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/kam-ni ani/Kamayani%20%28%E0%A4%95%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A5%80%29%20by%20Jaishankar%20Prasad%20II%20Episode%20%2309.mp3"
+    },
+    {
+      "name": "Chapter 10: Chapter Ten",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/kam-ni ani/Kamayani%20%28%E0%A4%95%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A5%80%29%20by%20Jaishankar%20Prasad%20II%20Episode%20%2310.mp3"
+    },
+    {
+      "name": "Chapter 11: Chapter Eleven",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/kam-ni ani/Kamayani%20%28%E0%A4%95%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A5%80%29%20by%20Jaishankar%20Prasad%20II%20Episode%20%2311.mp3"
+    },
+    {
+      "name": "Chapter 12: Chapter Twelve",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/kam-ni ani/Kamayani%20%28%E0%A4%95%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A5%80%29%20by%20Jaishankar%20Prasad%20II%20Episode%20%2312.mp3"
+    },
+    {
+      "name": "Chapter 13: Chapter Thirteen",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/kam-ni ani/Kamayani%20%28%E0%A4%95%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%AF%E0%A4%A8%E0%A5%80%29%20by%20Jaishankar%20Prasad%20II%20Episode%20%2313.mp3"
+    }
+  ]
+}

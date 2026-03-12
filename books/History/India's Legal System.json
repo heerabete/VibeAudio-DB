@@ -1,0 +1,37 @@
+{
+    "bookId": "book_137",
+    "title": "India's Legal System",
+    "author": "Fali S. Nariman",
+    "moods": [
+        "Non-Fiction",
+        "History"
+    ],
+    "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+    "cover": "https://m.media-amazon.com/images/I/61ljwtOHuML._SL1400_.jpg",
+    "chapters_en": [
+        {
+            "name": "Opening Credits",
+            "url": "https://raw.githack.com/junabkr/hin_hi_2/main/cha5/Chapter_01_Opening%20Credits.m4a"
+        },
+        {
+            "name": "Chapter 1: Chapter One",
+            "url": "https://raw.githack.com/junabkr/hin_hi_2/main/cha5/part_000.m4a"
+        },
+        {
+            "name": "Chapter 2: Chapter Two",
+            "url": "https://raw.githack.com/junabkr/hin_hi_2/main/cha5/part_001.m4a"
+        },
+        {
+            "name": "Chapter 3: Chapter Three",
+            "url": "https://raw.githack.com/junabkr/hin_hi_2/main/cha5/part_002.m4a"
+        },
+        {
+            "name": "Chapter 4: Chapter Four",
+            "url": "https://raw.githack.com/junabkr/hin_hi_2/main/cha5/part_003.m4a"
+        },
+        {
+            "name": "End Credits",
+            "url": "https://raw.githack.com/junabkr/hin_hi_2/main/cha5/Chapter_03_End%20Credits.m4a"
+        }
+    ]
+}

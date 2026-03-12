@@ -1,0 +1,145 @@
+{
+  "bookId": "book_141",
+  "title": "Deevan-e-ghalib",
+  "author": "Mirza Ghalib",
+  "moods": [
+    "Religion",
+    "Soul"
+  ],
+  "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+  "cover": "https://rekhtabooks.com/cdn/shop/products/16IuH9VL-9VRZbm5aoo2tQz_FssWhj0wh_78d4304d-a122-4fc9-97f8-91f8a6eca5b7.jpg?v=1680017375",
+  "chapters": [
+    {
+      "name": "Chapter 1: Chapter One",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/diiwan-e-ghalib/Dil%20Se%20Teri%20Nigah%20Jigar%20Tak%20Utar%20Gayi%202.mp3"
+    },
+    {
+      "name": "Chapter 2: Chapter Two",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/diiwan-e-ghalib/Hui%20Takheer%20To%20Kuch%20Baais-e-Takheer%20Bhi%20Tha.mp3"
+    },
+    {
+      "name": "Chapter 3: Chapter Three",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/diiwan-e-ghalib/Ye%20Na%20Thi%20Hamari%20Qismat.mp3"
+    },
+    {
+      "name": "Chapter 4: Chapter Four",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/diiwan-e-ghalib/Zikr%20Us%20Parivash%20Ka.mp3"
+    },
+    {
+      "name": "Chapter 5: Chapter Five",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/diiwan-e-ghalib/Hazaron%20Khwahishen%20Aisi%20Ke%20Har%20Khwahish%20Pe%20Dam%20Niklay.mp3"
+    },
+    {
+      "name": "Chapter 6: Chapter Six",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/diiwan-e-ghalib/Dil%20Se%20Teri%20Nigah%20Jigar%20Tak%20Utar%20Gayi.mp3"
+    },
+    {
+      "name": "Chapter 7: Chapter Seven",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/diiwan-e-ghalib/Kisi%20Ko%20Deke%20Dil%20Koi%20Nawasanj%20e%20Fughan.mp3"
+    },
+    {
+      "name": "Chapter 8: Chapter Eight",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/diiwan-e-ghalib/Mirza%20Ghalib%20Poetry.mp3"
+    },
+    {
+      "name": "Chapter 9: Chapter Nine",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/diiwan-e-ghalib/Sab%20Kahan%20Kuch%20Lala%20o%20Gul%20Mein.mp3"
+    },
+    {
+      "name": "Chapter 10: Chapter Ten",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/diiwan-e-ghalib/Hazaron%20Khwahishen%20Aisi.mp3"
+    },
+    {
+      "name": "Chapter 11: Chapter Eleven",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/diiwan-e-ghalib/Hairan%20Hun%20Dil%20Ko%20Roun.mp3"
+    },
+    {
+      "name": "Chapter 12: Chapter Twelve",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/diiwan-e-ghalib/Nukta%20Cheen%20Hai%20Gham%20E%20Dil.mp3"
+    },
+    {
+      "name": "Chapter 13: Chapter Thirteen",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/diiwan-e-ghalib/Ghuncha-e-Na-Shigufta%20Ko.mp3"
+    },
+    {
+      "name": "Chapter 14: Chapter Fourteen",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/diiwan-e-ghalib/Main%20Ne%20Ye%20Jana%20Ke%20Goya.mp3"
+    },
+    {
+      "name": "Chapter 15: Chapter Fifteen",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/diiwan-e-ghalib/Koi%20Umeed%20Bar%20Nahin%20Aati.mp3"
+    },
+    {
+      "name": "Chapter 16: Chapter Sixteen",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/diiwan-e-ghalib/Yeh%20Na%20Thi%20Hamari%20Qismat.mp3"
+    },
+    {
+      "name": "Chapter 17: Chapter Seventeen",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/diiwan-e-ghalib/Dil-e-Nadan%20Tujhe%20Hua%20Kya%20Hai.mp3"
+    },
+    {
+      "name": "Chapter 18: Chapter Eighteen",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/diiwan-e-ghalib/Ghar%20Jab%20Bana%20Liya.mp3"
+    },
+    {
+      "name": "Chapter 19: Chapter Nineteen",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/diiwan-e-ghalib/Dar%20Khur-e-Qahr-o-Ghazab.mp3"
+    },
+    {
+      "name": "Chapter 20: Chapter Twenty",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/diiwan-e-ghalib/Ik%20Brahman%20Ne%20Kaha%20Hai.mp3"
+    },
+    {
+      "name": "Chapter 21: Chapter 21",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/diiwan-e-ghalib/Aisa%20Kahan%20Se%20Laun.mp3"
+    },
+    {
+      "name": "Chapter 22: Chapter 22",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/diiwan-e-ghalib/Masjid%20Ke%20Zer-e-Saya%20Kharabaat%20Chahiye.mp3"
+    },
+    {
+      "name": "Chapter 23: Chapter 23",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/diiwan-e-ghalib/Kabhi%20Hum%20Unko%20Kabhi%20Apne%20Ghar%20Ko%20Dekhte%20Hain.mp3"
+    },
+    {
+      "name": "Chapter 24: Chapter 24",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/diiwan-e-ghalib/Chahiye%20Achhon%20Ko%20Jitna%20Chahiye.mp3"
+    },
+    {
+      "name": "Chapter 25: Chapter 25",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/diiwan-e-ghalib/Dard%20Se%20Mere%20Hai%20Tujhko%20BeQarari%20Haye%20Haye.mp3"
+    },
+    {
+      "name": "Chapter 26: Chapter 26",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/diiwan-e-ghalib/Dayam%20Para%20Hua%20Tere%20Dar%20Par.mp3"
+    },
+    {
+      "name": "Chapter 27: Chapter 27",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/diiwan-e-ghalib/Ishq%20Se%20Tabiyat%20Ne%20Zeest%20Ka%20Maza%20Paya.mp3"
+    },
+    {
+      "name": "Chapter 28: Chapter 28",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/diiwan-e-ghalib/Haq%20To%20Yeh%20Hai%20Ke%20Haq%20Ada%20Na%20Hua.mp3"
+    },
+    {
+      "name": "Chapter 29: Chapter 29",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/diiwan-e-ghalib/Tu%20Dost%20Kisi%20Ka%20Bhi%20Sitamgar%20Na%20Hua%20Tha.mp3"
+    },
+    {
+      "name": "Chapter 30: Chapter 30",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/diiwan-e-ghalib/Andaz%20E%20Bayan%20Aur.mp3"
+    },
+    {
+      "name": "Chapter 31: Chapter 31",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/diiwan-e-ghalib/Bazeecha-e-Atfal%20Hai%20Dunya%20Mere%20Aage.mp3"
+    },
+    {
+      "name": "Chapter 32: Chapter 32",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/diiwan-e-ghalib/Arz-e-Niyaz-e-Ishq%20Ke%20Qabil.mp3"
+    },
+    {
+      "name": "Chapter 33: Chapter 33",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/diiwan-e-ghalib/Hai%20Baske%20Har%20Ik%20Un%20Ke%20Ishare%20Men%20Nishan%20Aur.mp3"
+    }
+  ]
+}

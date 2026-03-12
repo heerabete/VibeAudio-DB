@@ -1,0 +1,441 @@
+{
+  "bookId": "book_147",
+  "title": "Hawamahal",
+  "author": "Vividh Bharati",
+  "moods": [
+    "Fiction",
+    "Hindi-Classics"
+  ],
+  "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+  "cover": "https://i.scdn.co/image/ab6765630000ba8ae881525b9063d2f8073ba127",
+  "chapters": [
+    {
+      "name": "Chapter 1: Chapter One",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Sevak%20Ram%20by%20Laxmiram%20Salim%20%281%29.mp3"
+    },
+    {
+      "name": "Chapter 2: Chapter Two",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Mez%20ka%20Darshan%20written%20by%20Om%20Gupta.mp3"
+    },
+    {
+      "name": "Chapter 3: Chapter Three",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Prahsan%20-%20Bhai%20Humne%20to%20Suna%20hai.mp3"
+    },
+    {
+      "name": "Chapter 4: Chapter Four",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Natika%20-%20Bin%20Banh%20Ka%20Sweater.mp3"
+    },
+    {
+      "name": "Chapter 5: Chapter Five",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Natika%20-%20Prem%20Diwana%20by%20Brij%20Bhushan.mp3"
+    },
+    {
+      "name": "Chapter 6: Chapter Six",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Selfie%20by%20H.%20S.%20Vyas.mp3"
+    },
+    {
+      "name": "Chapter 7: Chapter Seven",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Natika%20-%20Parda%20Faash%20by%20Kumbhesh%20Shrivastava.mp3"
+    },
+    {
+      "name": "Chapter 8: Chapter Eight",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Suno%20Kahani%20%28Lok%20Kathayen%29%20-%20Sinhaldweep%20ki%20Padmini%20Read%20by%20Amarkant%20Dubey.mp3"
+    },
+    {
+      "name": "Chapter 9: Chapter Nine",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Prahasan%20II%20Gubraila.mp3"
+    },
+    {
+      "name": "Chapter 10: Chapter Ten",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Mubarak%20Baad%20by%20Gurmeet%20Ramal%20Meet.mp3"
+    },
+    {
+      "name": "Chapter 11: Chapter Eleven",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Natika%20-%20Mangnu%20na%20Mari%20written%20by%20Arvind%20Parikh.mp3"
+    },
+    {
+      "name": "Chapter 12: Chapter Twelve",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Prahsan%20-%20Reduction%20Sale%20by%20Anita%20Nigam.mp3"
+    },
+    {
+      "name": "Chapter 13: Chapter Thirteen",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Shahi%20Dawat%20by%20P%20V%20Rao.mp3"
+    },
+    {
+      "name": "Chapter 14: Chapter Fourteen",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Jhalki%20Susreshian.mp3"
+    },
+    {
+      "name": "Chapter 15: Chapter Fifteen",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Munshiji%20ne%20Photo%20Khinchwai%20by%20Shaukat%20Thanvi.mp3"
+    },
+    {
+      "name": "Chapter 16: Chapter Sixteen",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Hasya%20Natika%20II%20Udaipur%20Ki%20Train%20Written%20by%20Tapan%20Bhatt.mp3"
+    },
+    {
+      "name": "Chapter 17: Chapter Seventeen",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Natika%20-%20Mohabbat%20ke%20Imported%20Tareeke%20by%20Dilip%20Singh.mp3"
+    },
+    {
+      "name": "Chapter 18: Chapter Eighteen",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Prashn%20to%20Yahi%20Hai%20by%20Vrunda%20Manjeet.mp3"
+    },
+    {
+      "name": "Chapter 19: Chapter Nineteen",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Money%20Order%20Ki%20Museebat%20Written%20by%20Radha%20Krushna.mp3"
+    },
+    {
+      "name": "Chapter 20: Chapter Twenty",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Love%20kum%20Arranged%20_Written%20by%20Naved%20Shikoh.mp3"
+    },
+    {
+      "name": "Chapter 21: Chapter 21",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Shikaar%20by%20K%20L%20Yadav.mp3"
+    },
+    {
+      "name": "Chapter 22: Chapter 22",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Muft%20ka%20Chandan%20Ghis%20Mere%20Nandan%20by%20Barsaane%20Lal%20Chaturvedi.mp3"
+    },
+    {
+      "name": "Chapter 23: Chapter 23",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Natika%20-%20Maan%20Na%20Maan%20Main%20Tera%20Mehman%20by%20Naresh%20Chandra%20Mishra.mp3"
+    },
+    {
+      "name": "Chapter 24: Chapter 24",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Paanchwan%20Sawaal%20by%20Rajendra%20Nigam.mp3"
+    },
+    {
+      "name": "Chapter 25: Chapter 25",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Zinda%20Dil%20written%20by%20Athar%20Ali.mp3"
+    },
+    {
+      "name": "Chapter 26: Chapter 26",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Natika%20-%20Mere%20Sapno%20ki%20Rani%20by%20Das%20Virendra%20Chaitanya.mp3"
+    },
+    {
+      "name": "Chapter 27: Chapter 27",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Meri%20Beti%20ki%20shadi%20by%20Tapan%20Bhatta%20Produced%20Mukul%20Goswami.mp3"
+    },
+    {
+      "name": "Chapter 28: Chapter 28",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Marriage%20Anniversary%20written%20by%20Hari%20Narayan%20Sharma.mp3"
+    },
+    {
+      "name": "Chapter 29: Chapter 29",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Naya%20Andaaz%20written%20by%20Anup%20Kumar%20Shukla.mp3"
+    },
+    {
+      "name": "Chapter 30: Chapter 30",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Natak%20Ka%20Natak%20by%20Virendra%20Kashyap.mp3"
+    },
+    {
+      "name": "Chapter 31: Chapter 31",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Natika%20-%20Shararat%20by%20Salam%20Bin%20Razzak.mp3"
+    },
+    {
+      "name": "Chapter 32: Chapter 32",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Peehar%20Puraan%20by%20Shyam%20Sunder%20Bharati.mp3"
+    },
+    {
+      "name": "Chapter 33: Chapter 33",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Phir%20Milunga%20by%20Mewa%20Ram%20Gupt.mp3"
+    },
+    {
+      "name": "Chapter 34: Chapter 34",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Apni%20Lage%20Begani.mp3"
+    },
+    {
+      "name": "Chapter 35: Chapter 35",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Shauk%20Hi%20To%20Hai%20by%20Sooraj%20Kapoor.mp3"
+    },
+    {
+      "name": "Chapter 36: Chapter 36",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Natika%20-%20Seedha%20Aadmi%20by%20Shahid%20Badayuni.mp3"
+    },
+    {
+      "name": "Chapter 37: Chapter 37",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Self%20Service%20Funeral%20by%20Dilip%20Singh.mp3"
+    },
+    {
+      "name": "Chapter 38: Chapter 38",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Main%20Machhli%20to%20Nahi%20Written%20by%20K.%20P.%20Saxena.mp3"
+    },
+    {
+      "name": "Chapter 39: Chapter 39",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Natika%20-%20Kagaz%20Ke%20Zevar%20written%20by%20Abhilash.mp3"
+    },
+    {
+      "name": "Chapter 40: Chapter 40",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Prahsan%20-%20Parda%20Dal%20Do%20by%20Digvijay%20Shrivastav.mp3"
+    },
+    {
+      "name": "Chapter 41: Chapter 41",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Muft%20Huye%20Badnaam%20written%20by%20Mohammed%20Ali%20Zaidi.mp3"
+    },
+    {
+      "name": "Chapter 42: Chapter 42",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Paagal%20Pataakhewala%20by%20Rajan.mp3"
+    },
+    {
+      "name": "Chapter 43: Chapter 43",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Chatur%20Raj%20Written%20by%20Sudarshan%20Panipati.mp3"
+    },
+    {
+      "name": "Chapter 44: Chapter 44",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Prahsan%20II%20Tandurasti%20ka%20Tonic%20by%20Raghvendra%20N%20Dixit.mp3"
+    },
+    {
+      "name": "Chapter 45: Chapter 45",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Natika%20-%20Kissa%20Anarfali%20Ka.mp3"
+    },
+    {
+      "name": "Chapter 46: Chapter 46",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Suno%20Kahani%20-%20Prem%20Ka%20Mulya%20by%20Gurudev%20Ravindranath%20Tagore.mp3"
+    },
+    {
+      "name": "Chapter 47: Chapter 47",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Natika%20-%20Naya%20Mulazim%20by%20Govind%20Ram.mp3"
+    },
+    {
+      "name": "Chapter 48: Chapter 48",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Prahsan%20-%20Super%20Danda%20by%20Parvez%20Y%20Mehndi.mp3"
+    },
+    {
+      "name": "Chapter 49: Chapter 49",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Shuddha%20Bhandaar%20by%20Pushpa.mp3"
+    },
+    {
+      "name": "Chapter 50: Chapter 50",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Natika%20II%20Andhi%20Daud.mp3"
+    },
+    {
+      "name": "Chapter 51: Chapter 51",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Natika%20-%20Kyun%20Ji%20So%20Gaye%20Kya%20Written%20by%20Madhu%20Sharma.mp3"
+    },
+    {
+      "name": "Chapter 52: Chapter 52",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Natika%20-%20Yatra%20Pyarelal%20Ki%20by%20Kalpanath%20Singh.mp3"
+    },
+    {
+      "name": "Chapter 53: Chapter 53",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Natika%20-%20Kavi%20Antachit%20by%20Iqram%20Rajasthani.mp3"
+    },
+    {
+      "name": "Chapter 54: Chapter 54",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Natika%20-%20Seva%20Ka%20Dard%20by%20Vedanti%20Maharshi.mp3"
+    },
+    {
+      "name": "Chapter 55: Chapter 55",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Mumbai%20Wala%20Plane%20by%20Vinod%20Krishna%20Bhatta.mp3"
+    },
+    {
+      "name": "Chapter 56: Chapter 56",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Prahsan%20-%20Maidam%20Manthra%20Written%20by%20Manjula%20Nagar%20presented%20by%20Jaidev%20Sharma%20Kamal.mp3"
+    },
+    {
+      "name": "Chapter 57: Chapter 57",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Jhalki%20II%20Buddhiman%20Kaun.mp3"
+    },
+    {
+      "name": "Chapter 58: Chapter 58",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Naya%20Ali%20Baba%20Chaalis%20Chonchle%20written%20by%20K.%20P.%20Saxena.mp3"
+    },
+    {
+      "name": "Chapter 59: Chapter 59",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Prahsan%20-%20Hai%20Hai%20written%20by%20K%20L%20Yadav.mp3"
+    },
+    {
+      "name": "Chapter 60: Chapter 60",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Jooton%20Bhari%20Kahani.mp3"
+    },
+    {
+      "name": "Chapter 61: Chapter 61",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Hasya%20Natika%20-%20Marne%20ke%20Baad%20Written%20by%20V.%20N.%20Anand.mp3"
+    },
+    {
+      "name": "Chapter 62: Chapter 62",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Jhalki%20Tehqiqaat.mp3"
+    },
+    {
+      "name": "Chapter 63: Chapter 63",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Hasya%20Natika%20-%20Machine%20ka%20Chakkar.mp3"
+    },
+    {
+      "name": "Chapter 64: Chapter 64",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Pyaas%20II%20Written%20and%20Directed%20by%20Gokul%20Goswami.mp3"
+    },
+    {
+      "name": "Chapter 65: Chapter 65",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Natika%20II%20Lo%20Kachra%20Kar%20Diya%20Na.mp3"
+    },
+    {
+      "name": "Chapter 66: Chapter 66",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Munshi%20Itwaarilal%20by%20Naresh%20Mishra.mp3"
+    },
+    {
+      "name": "Chapter 67: Chapter 67",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Sevak%20Ram%20by%20Laxmiram%20Salim.mp3"
+    },
+    {
+      "name": "Chapter 68: Chapter 68",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Prahsan%20II%20Naya%20Makaan_.mp3"
+    },
+    {
+      "name": "Chapter 69: Chapter 69",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Swarg%20ka%20passport%20Hawamahal%20Hasya%20Natika.mp3"
+    },
+    {
+      "name": "Chapter 70: Chapter 70",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Natika%20-%20Mere%20Dattak%20Pitaaji%20written%20by%20Prabha%20Bhave.mp3"
+    },
+    {
+      "name": "Chapter 71: Chapter 71",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Jhalki%20II%20Bali%20Ka%20Bakra%20%28%E0%A4%AC%E0%A4%B2%E0%A4%BF%20%E0%A4%95%E0%A4%BE%20%E0%A4%AC%E0%A4%95%E0%A4%B0%E0%A4%BE%29.mp3"
+    },
+    {
+      "name": "Chapter 72: Chapter 72",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Shubhchintak%20by%20Badravasvi.mp3"
+    },
+    {
+      "name": "Chapter 73: Chapter 73",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Mil%20Gaya%20Naukar%20by%20V.%20M.%20Ananad.mp3"
+    },
+    {
+      "name": "Chapter 74: Chapter 74",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Prahsan%20-%20Kiraaye%20ki%20Moonchh%20Written%20by%20Mukhtar%20Ahmed.mp3"
+    },
+    {
+      "name": "Chapter 75: Chapter 75",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Natika%20-%20Rishtey%20Pyaar%20Ke%20by%20Vishnu%20Bhatia.mp3"
+    },
+    {
+      "name": "Chapter 76: Chapter 76",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Natika%20-%20Mehfil%20Mohabbat%20ke%20Maron%20ki%20written%20by%20Vijay%20Amresh.mp3"
+    },
+    {
+      "name": "Chapter 77: Chapter 77",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Kya%20Museebat%20Hai%20Written%20by%20Shabnam%20Quayyum.mp3"
+    },
+    {
+      "name": "Chapter 78: Chapter 78",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Prahsan%20-%20Doob%20Ki%20Chori%20Written%20by%20Satish%20Garg.mp3"
+    },
+    {
+      "name": "Chapter 79: Chapter 79",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Jhalki%20Tamasha.mp3"
+    },
+    {
+      "name": "Chapter 80: Chapter 80",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Prahsan%20II%20Hai%20Hai%20written%20by%20K.%20L.%20Yadav.mp3"
+    },
+    {
+      "name": "Chapter 81: Chapter 81",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Shaadi%20kar%20li%20abb%20kya%20Hawamahal%20Prahasan.mp3"
+    },
+    {
+      "name": "Chapter 82: Chapter 82",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Nawab%20Ki%20Sherwani%20by%20Pushpa%20Shrivastava.mp3"
+    },
+    {
+      "name": "Chapter 83: Chapter 83",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Rishton%20ki%20Dukaan%20by%20Rakesh%20Nigam.mp3"
+    },
+    {
+      "name": "Chapter 84: Chapter 84",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Hasya%20Natika%20II%20Chhutkara.mp3"
+    },
+    {
+      "name": "Chapter 85: Chapter 85",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Jhalki%20-%20Pyar%20Ki%20Ladai%20Written%20by%20Mewa%20Ram%20Gupta%20Directed%20by%20Anuradha%20Sharma.mp3"
+    },
+    {
+      "name": "Chapter 86: Chapter 86",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Jhalki%20II%20Lottery%20II%20Written%20by%20Rajkumar%20Dag.mp3"
+    },
+    {
+      "name": "Chapter 87: Chapter 87",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Natika%20Peeley%20phoolon%20Waali%20Frock%20Written%20by%20Suryabala%20Directed%20by%20Alok%20Shette.mp3"
+    },
+    {
+      "name": "Chapter 88: Chapter 88",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Suno%20Kahani%28Lok%20Kathayen%29%20-Shaikh%20Chilli%20Aur%20Kuyen%20Ki%20Pariyaan%20Read%20by%20Amarkant%20Dubey.mp3"
+    },
+    {
+      "name": "Chapter 89: Chapter 89",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Asli%20Naqli%20Chehare%20%28%E0%A4%85%E0%A4%B8%E0%A4%B2%E0%A5%80%20%E0%A4%A8%E0%A4%95%E0%A4%B2%E0%A5%80%20%E0%A4%9A%E0%A5%87%E0%A4%B9%E0%A4%B0%E0%A5%87%29.mp3"
+    },
+    {
+      "name": "Chapter 90: Chapter 90",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Hasya%20Natika%20Torch%20ka%20jinn.mp3"
+    },
+    {
+      "name": "Chapter 91: Chapter 91",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Prahsan%20-%20Subah%20Ka%20Bhoola%20by%20Raj%20Narayan%20Rai.mp3"
+    },
+    {
+      "name": "Chapter 92: Chapter 92",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Prahsan%20-%20Bus%20Stop%20by%20Sriniwas%20Joshi.mp3"
+    },
+    {
+      "name": "Chapter 93: Chapter 93",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Prahasan%20-%20Ek%20Bechara%20Lalua%20by%20K.%20P.%20Saxena.mp3"
+    },
+    {
+      "name": "Chapter 94: Chapter 94",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Gajar%20Ka%20Halwa%20written%20by%20M%20H%20Chaudhary.mp3"
+    },
+    {
+      "name": "Chapter 95: Chapter 95",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Natika%20-%20Moonchh%20wa%20Moonchh%20ki%20Tauba%20written%20by%20K.%20P.%20Saxena.mp3"
+    },
+    {
+      "name": "Chapter 96: Chapter 96",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Jhalki%20Shree%20Ka%20Kha%20Ga%20Written%20by%20Manorama%20Bhatnagar%20Directed%20by%20V%20P%20Dixit%20Batuk.mp3"
+    },
+    {
+      "name": "Chapter 97: Chapter 97",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Hasya%20Natika%20-%20Padosi%20Ka%20Naata%20by%20Dilip%20Sen%20Direction%20Kumud%20Naagar.mp3"
+    },
+    {
+      "name": "Chapter 98: Chapter 98",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Prahsan%20-%20Ek%20Bimar%20Sau%20Anar.mp3"
+    },
+    {
+      "name": "Chapter 99: Chapter 99",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Padosi%20Dharm%20by%20Chandrika%20Sharma.mp3"
+    },
+    {
+      "name": "Chapter 100: Chapter 100",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Prahasan%20-%20Munh%20Dikhai%20by%20Giriraj%20Kumar%20Rastogi.mp3"
+    },
+    {
+      "name": "Chapter 101: Chapter 101",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Prahsan%20-%20Premalaya%20by%20Vijay%20Amresh.mp3"
+    },
+    {
+      "name": "Chapter 102: Chapter 102",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Suno%20Kahani%20-%20Pisanhari%20ka%20Kuan%20by%20Munshi%20Prem%20Chand.mp3"
+    },
+    {
+      "name": "Chapter 103: Chapter 103",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Lalten%20ki%20wapsi%20Hawamahal%20Prahasan.mp3"
+    },
+    {
+      "name": "Chapter 104: Chapter 104",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Natika%20-%20Sharafat%20by%20Lokendra%20Sharma.mp3"
+    },
+    {
+      "name": "Chapter 105: Chapter 105",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Prem%20Visheshagya%20by%20Harishankar%20Parsaai.mp3"
+    },
+    {
+      "name": "Chapter 106: Chapter 106",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Prahasan%20-%20Nok%20Jhonk%20by%20Vinod%20Rastogi.mp3"
+    },
+    {
+      "name": "Chapter 107: Chapter 107",
+      "url": "https://raw.githack.com/hanubhaiji/newda_hin_3/main/hawa-mahal/Natika%20-%20Latest%20Bimaari%20Written%20by%20Swadesh%20Kumar.mp3"
+    }
+  ]
+}
