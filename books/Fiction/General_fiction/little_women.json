@@ -1,0 +1,204 @@
+{
+    "bookId": "book_125",
+    "title": "Little Women",
+    "author": "Louisa May Alcott",
+    "moods": [
+        "Fiction"
+    ],
+    "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+    "cover": "https://m.media-amazon.com/images/I/81XxP9qyfzL._SL1500_.jpg",
+    "chapters_en": [
+        {
+            "name": "Chapter 1: Opening Credits",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_01_Opening%20Credits.m4a"
+        },
+        {
+            "name": "Chapter 2: Playing Pilgrims",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_02_Chapter%20One%20Playing%20Pilgrims.m4a"
+        },
+        {
+            "name": "Chapter 3: A Merry Christmas",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_03_Chapter%20Two%20A%20Merry%20Christmas.m4a"
+        },
+        {
+            "name": "Chapter 4: The Laurence Boy",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_04_Chapter%20Three%20The%20Laurence%20Boy.m4a"
+        },
+        {
+            "name": "Chapter 5: Burdens",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_05_Chapter%20Four%20Burdens.m4a"
+        },
+        {
+            "name": "Chapter 6: Being Neighborly",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_06_Chapter%20Five%20Being%20Neighborly.m4a"
+        },
+        {
+            "name": "Chapter 7: Beth Finds the Palace Beautiful",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_07_Chapter%20Six%20Beth%20Finds%20the%20Palace%20Beautiful.m4a"
+        },
+        {
+            "name": "Chapter 8: Amy’s Valley of Humiliation",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_08_Chapter%20Seven%20Amy%E2%80%99s%20Valley%20of%20Humiliation.m4a"
+        },
+        {
+            "name": "Chapter 9: Jo Meets Apollyon",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_09_Chapter%20Eight%20Jo%20Meets%20Apollyon.m4a"
+        },
+        {
+            "name": "Chapter 10: Meg Goes to Vanity Fair",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_10_Chapter%20Nine%20Meg%20Goes%20to%20Vanity%20Fair.m4a"
+        },
+        {
+            "name": "Chapter 11: The P.C. and P.O.",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_11_Chapter%20Ten%20The%20P.C.%20and%20P.O..m4a"
+        },
+        {
+            "name": "Chapter 12: Experiments",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_12_Chapter%20Eleven%20Experiments.m4a"
+        },
+        {
+            "name": "Chapter 13: Camp Laurence",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_13_Chapter%20Twelve%20Camp%20Laurence.m4a"
+        },
+        {
+            "name": "Chapter 14: Castles in the Air",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_14_Chapter%20Thirteen%20Castles%20in%20the%20Air.m4a"
+        },
+        {
+            "name": "Chapter 15: Secrets",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_15_Chapter%20Fourteen%20Secrets.m4a"
+        },
+        {
+            "name": "Chapter 16: A Telegram",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_16_Chapter%20Fifteen%20A%20Telegram.m4a"
+        },
+        {
+            "name": "Chapter 17: Left Without Marmee",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_17_Chapter%20Sixteen%20Left%20Without%20Marmee.m4a"
+        },
+        {
+            "name": "Chapter 18: Little Faithful",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_18_Chapter%20Seventeen%20Little%20Faithful.m4a"
+        },
+        {
+            "name": "Chapter 19: Dark Days",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_19_Chapter%20Eighteen%20Dark%20Days.m4a"
+        },
+        {
+            "name": "Chapter 20: Amy’s Will",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_20_Chapter%20Nineteen%20Amy%E2%80%99s%20Will.m4a"
+        },
+        {
+            "name": "Chapter 21: Confidential",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_21_Chapter%20Twenty%20Confidential.m4a"
+        },
+        {
+            "name": "Chapter 22: Laurie Makes Mischief, and Jo Makes Peace",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_22_Chapter%20Twenty-One%20Laurie%20Makes%20Mischief%2C%20and%20Jo%20Makes%20Peace.m4a"
+        },
+        {
+            "name": "Chapter 23: Pleasant Meadows",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_23_Chapter%20Twenty-Two%20Pleasant%20Meadows.m4a"
+        },
+        {
+            "name": "Chapter 24: Aunt March Settles the Question",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_24_Chapter%20Twenty-Three%20Aunt%20March%20Settles%20the%20Question.m4a"
+        },
+        {
+            "name": "Chapter 25: Gossip",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_25_Chapter%20Twenty-Four%20Gossip.m4a"
+        },
+        {
+            "name": "Chapter 26: The First Wedding",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_26_Chapter%20Twenty-Five%20The%20First%20Wedding.m4a"
+        },
+        {
+            "name": "Chapter 27: Artistic Attempts",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_27_Chapter%20Twenty-Six%20Artistic%20Attempts.m4a"
+        },
+        {
+            "name": "Chapter 28: Literary Lessons",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_28_Chapter%20Twenty-Seven%20Literary%20Lessons.m4a"
+        },
+        {
+            "name": "Chapter 29: Domestic Experiences",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_29_Chapter%20Twenty-Eight%20Domestic%20Experiences.m4a"
+        },
+        {
+            "name": "Chapter 30: Calls",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_30_Chapter%20Twenty-Nine%20Calls.m4a"
+        },
+        {
+            "name": "Chapter 31: Consequences",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_31_Chapter%20Thirty%20Consequences.m4a"
+        },
+        {
+            "name": "Chapter 32: Our Foreign Correspondent",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_32_Chapter%20Thirty-One%20Our%20Foreign%20Correspondent.m4a"
+        },
+        {
+            "name": "Chapter 33: Tender Troubles",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_33_Chapter%20Thirty-Two%20Tender%20Troubles.m4a"
+        },
+        {
+            "name": "Chapter 34: Jo’s Journal",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_34_Chapter%20Thirty-Three%20Jo%E2%80%99s%20Journal.m4a"
+        },
+        {
+            "name": "Chapter 35: A Friend",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_35_Chapter%20Thirty-Four%20A%20Friend.m4a"
+        },
+        {
+            "name": "Chapter 36: Heartache",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_36_Chapter%20Thirty-Five%20Heartache.m4a"
+        },
+        {
+            "name": "Chapter 37: Beth’s Secret",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_37_Chapter%20Thirty-Six%20Beth%E2%80%99s%20Secret.m4a"
+        },
+        {
+            "name": "Chapter 38: New Impressions",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_38_Chapter%20Thirty-Seven%20New%20Impressions.m4a"
+        },
+        {
+            "name": "Chapter 39: On the Shelf",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_39_Chapter%20Thirty-Eight%20On%20the%20Shelf.m4a"
+        },
+        {
+            "name": "Chapter 40: Lazy Laurence",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_40_Chapter%20Thirty-Nine%20Lazy%20Laurence.m4a"
+        },
+        {
+            "name": "Chapter 41: The Valley of the Shadow",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_41_Chapter%20Forty%20The%20Valley%20of%20the%20Shadow.m4a"
+        },
+        {
+            "name": "Chapter 42: Learning to Forget",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_42_Chapter%20Forty-One%20Learning%20to%20Forget.m4a"
+        },
+        {
+            "name": "Chapter 43: All Alone",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_43_Chapter%20Forty-Two%20All%20Alone.m4a"
+        },
+        {
+            "name": "Chapter 44: Surprises",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_44_Chapter%20Forty-Three%20Surprises.m4a"
+        },
+        {
+            "name": "Chapter 45: My Lord and Lady",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_45_Chapter%20Forty-Four%20My%20Lord%20and%20Lady.m4a"
+        },
+        {
+            "name": "Chapter 46: Daisy and Demi",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_46_Chapter%20Forty-Five%20Daisy%20and%20Demi.m4a"
+        },
+        {
+            "name": "Chapter 47: Under the Umbrella",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_47_Chapter%20Forty-Six%20Under%20the%20Umbrella.m4a"
+        },
+        {
+            "name": "Chapter 48: Harvest Time",
+            "url": "https://raw.githack.com/Yandfgdddd/hihiniai1/main/cha57/Chapter_48_Chapter%20Forty-Seven%20Harvest%20Time.m4a"
+        }
+    ]
+}
