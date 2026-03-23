@@ -1,0 +1,37 @@
+{
+    "bookId": "book_157",
+    "title": "Maila Aanchal",
+    "author": "Phanishwar Nath Renu",
+    "moods": [
+        "Fiction",
+        "Hindi Classics"
+    ],
+    "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+    "cover": "https://m.media-amazon.com/images/I/51iKoZkAhML.jpg",
+    "chapters": [
+        {
+            "name": "Chapter 1: Chapter One",
+            "url": "https://raw.githack.com/Colinbhai/hin-1/main/mela anchal/mela%20anchal_Part_01.mp3"
+        },
+        {
+            "name": "Chapter 2: Chapter Two",
+            "url": "https://raw.githack.com/Colinbhai/hin-1/main/mela anchal/mela%20anchal_Part_02.mp3"
+        },
+        {
+            "name": "Chapter 3: Chapter Three",
+            "url": "https://raw.githack.com/Colinbhai/hin-1/main/mela anchal/mela%20anchal_Part_03.mp3"
+        },
+        {
+            "name": "Chapter 4: Chapter Four",
+            "url": "https://raw.githack.com/Colinbhai/hin-1/main/mela anchal/mela%20anchal_Part_04.mp3"
+        },
+        {
+            "name": "Chapter 5: Chapter Five",
+            "url": "https://raw.githack.com/Colinbhai/hin-1/main/mela anchal/mela%20anchal_Part_05.mp3"
+        },
+        {
+            "name": "Chapter 6: Chapter Six",
+            "url": "https://raw.githack.com/Colinbhai/hin-1/main/mela anchal/mela%20anchal_Part_06.mp3"
+        }
+    ]
+}
