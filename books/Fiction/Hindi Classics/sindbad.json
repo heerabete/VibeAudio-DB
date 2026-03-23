@@ -1,0 +1,21 @@
+{
+    "bookId": "book_164",
+    "title": "Sindbad Ki 7 Sahsik Yatraye",
+    "author": "Unknown",
+    "moods": [
+        "Fiction",
+        "Hindi Classics"
+    ],
+    "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+    "cover": "https://m.media-amazon.com/images/I/71UchDE8PQL._SL1500_.jpg",
+    "chapters": [
+        {
+            "name": "Chapter 1: Chapter One",
+            "url": "https://raw.githack.com/Colinbhai/hin-2/main/Sindbad ki 7 yatraye/Sindbad%20ki%207%20yatraye_Part_02.mp3"
+        },
+        {
+            "name": "Chapter 2: Chapter Two",
+            "url": "https://raw.githack.com/Colinbhai/hin-2/main/Sindbad ki 7 yatraye/Sindbad%20ki%207%20yatraye_Part_01.mp3"
+        }
+    ]
+}

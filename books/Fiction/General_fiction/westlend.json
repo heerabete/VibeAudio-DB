@@ -1,0 +1,52 @@
+{
+    "bookId": "book_171",
+    "title": "Marvel's Wastelanders",
+    "author": "Marvel & Mark Waid",
+    "moods": [
+        "Fiction"
+    ],
+    "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+    "cover": "https://m.media-amazon.com/images/I/5108m4kLt2L.jpg",
+    "chapters": [
+        {
+            "name": "Chapter 1: Chapter One",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/westlan/Audio%201.m4a"
+        },
+        {
+            "name": "Chapter 2: Chapter Two",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/westlan/Audio%202.m4a"
+        },
+        {
+            "name": "Chapter 3: Chapter Three",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/westlan/Audio%203.m4a"
+        },
+        {
+            "name": "Chapter 4: Chapter Four",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/westlan/Audio%204.m4a"
+        },
+        {
+            "name": "Chapter 5: Chapter Five",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/westlan/Audio%205.m4a"
+        },
+        {
+            "name": "Chapter 6: Chapter Six",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/westlan/Audio%206.m4a"
+        },
+        {
+            "name": "Chapter 7: Chapter Seven",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/westlan/Audio%207.m4a"
+        },
+        {
+            "name": "Chapter 8: Chapter Eight",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/westlan/Audio%208.m4a"
+        },
+        {
+            "name": "Chapter 9: Chapter Nine",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/westlan/Audio%209.m4a"
+        },
+        {
+            "name": "Chapter 10: Chapter Ten",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/westlan/Audio%2010.m4a"
+        }
+    ]
+}

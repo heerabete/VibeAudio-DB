@@ -1,0 +1,348 @@
+{
+    "bookId": "book_167",
+    "title": "Ashoka the Great",
+    "author": "Wytze Keuning",
+    "moods": [
+        "Biography"
+    ],
+    "//_COMMENT_COVER": "Niche dekho: Agar R2 hai to Folder/File.jpg, agar bahar ka hai to https://...",
+    "cover": "https://m.media-amazon.com/images/I/81v+45vWnPL._SL1500_.jpg",
+    "chapters": [
+        {
+            "name": "Chapter 1: Chapter One",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_01.m4a"
+        },
+        {
+            "name": "Chapter 2: Chapter Two",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_02.m4a"
+        },
+        {
+            "name": "Chapter 3: Chapter Three",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_03.m4a"
+        },
+        {
+            "name": "Chapter 4: Chapter Four",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_04.m4a"
+        },
+        {
+            "name": "Chapter 5: Chapter Five",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_05.m4a"
+        },
+        {
+            "name": "Chapter 6: Chapter Six",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_06.m4a"
+        },
+        {
+            "name": "Chapter 7: Chapter Seven",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_07.m4a"
+        },
+        {
+            "name": "Chapter 8: Chapter Eight",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_08.m4a"
+        },
+        {
+            "name": "Chapter 9: Chapter Nine",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_09.m4a"
+        },
+        {
+            "name": "Chapter 10: Chapter Ten",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_10.m4a"
+        },
+        {
+            "name": "Chapter 11: Chapter Eleven",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_11.m4a"
+        },
+        {
+            "name": "Chapter 12: Chapter Twelve",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_12.m4a"
+        },
+        {
+            "name": "Chapter 13: Chapter Thirteen",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_13.m4a"
+        },
+        {
+            "name": "Chapter 14: Chapter Fourteen",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_14.m4a"
+        },
+        {
+            "name": "Chapter 15: Chapter Fifteen",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_15.m4a"
+        },
+        {
+            "name": "Chapter 16: Chapter Sixteen",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_16.m4a"
+        },
+        {
+            "name": "Chapter 17: Chapter Seventeen",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_17.m4a"
+        },
+        {
+            "name": "Chapter 18: Chapter Eighteen",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_18.m4a"
+        },
+        {
+            "name": "Chapter 19: Chapter Nineteen",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_19.m4a"
+        },
+        {
+            "name": "Chapter 20: Chapter Twenty",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_20.m4a"
+        },
+        {
+            "name": "Chapter 21: Chapter 21",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_21.m4a"
+        },
+        {
+            "name": "Chapter 22: Chapter 22",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_22.m4a"
+        },
+        {
+            "name": "Chapter 23: Chapter 23",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_23.m4a"
+        },
+        {
+            "name": "Chapter 24: Chapter 24",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_24.m4a"
+        },
+        {
+            "name": "Chapter 25: Chapter 25",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_25.m4a"
+        },
+        {
+            "name": "Chapter 26: Chapter 26",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_26.m4a"
+        },
+        {
+            "name": "Chapter 27: Chapter 27",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_27.m4a"
+        },
+        {
+            "name": "Chapter 28: Chapter 28",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_28.m4a"
+        },
+        {
+            "name": "Chapter 29: Chapter 29",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_29.m4a"
+        },
+        {
+            "name": "Chapter 30: Chapter 30",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_30.m4a"
+        },
+        {
+            "name": "Chapter 31: Chapter 31",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_31.m4a"
+        },
+        {
+            "name": "Chapter 32: Chapter 32",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_32.m4a"
+        },
+        {
+            "name": "Chapter 33: Chapter 33",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_33.m4a"
+        },
+        {
+            "name": "Chapter 34: Chapter 34",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_34.m4a"
+        },
+        {
+            "name": "Chapter 35: Chapter 35",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_35.m4a"
+        },
+        {
+            "name": "Chapter 36: Chapter 36",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_36.m4a"
+        },
+        {
+            "name": "Chapter 37: Chapter 37",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_37.m4a"
+        },
+        {
+            "name": "Chapter 38: Chapter 38",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_38.m4a"
+        },
+        {
+            "name": "Chapter 39: Chapter 39",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_39.m4a"
+        },
+        {
+            "name": "Chapter 40: Chapter 40",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_40.m4a"
+        },
+        {
+            "name": "Chapter 41: Chapter 41",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_41.m4a"
+        },
+        {
+            "name": "Chapter 42: Chapter 42",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_42.m4a"
+        },
+        {
+            "name": "Chapter 43: Chapter 43",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_43.m4a"
+        },
+        {
+            "name": "Chapter 44: Chapter 44",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_44.m4a"
+        },
+        {
+            "name": "Chapter 45: Chapter 45",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_45.m4a"
+        },
+        {
+            "name": "Chapter 46: Chapter 46",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_46.m4a"
+        },
+        {
+            "name": "Chapter 47: Chapter 47",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_47.m4a"
+        },
+        {
+            "name": "Chapter 48: Chapter 48",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_48.m4a"
+        },
+        {
+            "name": "Chapter 49: Chapter 49",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_49.m4a"
+        },
+        {
+            "name": "Chapter 50: Chapter 50",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_50.m4a"
+        },
+        {
+            "name": "Chapter 51: Chapter 51",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_51.m4a"
+        },
+        {
+            "name": "Chapter 52: Chapter 52",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_52.m4a"
+        },
+        {
+            "name": "Chapter 53: Chapter 53",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_53.m4a"
+        },
+        {
+            "name": "Chapter 54: Chapter 54",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_54.m4a"
+        },
+        {
+            "name": "Chapter 55: Chapter 55",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_55.m4a"
+        },
+        {
+            "name": "Chapter 56: Chapter 56",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_56.m4a"
+        },
+        {
+            "name": "Chapter 57: Chapter 57",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_57.m4a"
+        },
+        {
+            "name": "Chapter 58: Chapter 58",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_58.m4a"
+        },
+        {
+            "name": "Chapter 59: Chapter 59",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_59.m4a"
+        },
+        {
+            "name": "Chapter 60: Chapter 60",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_60.m4a"
+        },
+        {
+            "name": "Chapter 61: Chapter 61",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_61.m4a"
+        },
+        {
+            "name": "Chapter 62: Chapter 62",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_62.m4a"
+        },
+        {
+            "name": "Chapter 63: Chapter 63",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_63.m4a"
+        },
+        {
+            "name": "Chapter 64: Chapter 64",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_64.m4a"
+        },
+        {
+            "name": "Chapter 65: Chapter 65",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_65.m4a"
+        },
+        {
+            "name": "Chapter 66: Chapter 66",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_66.m4a"
+        },
+        {
+            "name": "Chapter 67: Chapter 67",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_67.m4a"
+        },
+        {
+            "name": "Chapter 68: Chapter 68",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_68.m4a"
+        },
+        {
+            "name": "Chapter 69: Chapter 69",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_69.m4a"
+        },
+        {
+            "name": "Chapter 70: Chapter 70",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_70.m4a"
+        },
+        {
+            "name": "Chapter 71: Chapter 71",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_71.m4a"
+        },
+        {
+            "name": "Chapter 72: Chapter 72",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_72.m4a"
+        },
+        {
+            "name": "Chapter 73: Chapter 73",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_73.m4a"
+        },
+        {
+            "name": "Chapter 74: Chapter 74",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_74.m4a"
+        },
+        {
+            "name": "Chapter 75: Chapter 75",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_75.m4a"
+        },
+        {
+            "name": "Chapter 76: Chapter 76",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_76.m4a"
+        },
+        {
+            "name": "Chapter 77: Chapter 77",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_77.m4a"
+        },
+        {
+            "name": "Chapter 78: Chapter 78",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_78.m4a"
+        },
+        {
+            "name": "Chapter 79: Chapter 79",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_79.m4a"
+        },
+        {
+            "name": "Chapter 80: Chapter 80",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_80.m4a"
+        },
+        {
+            "name": "Chapter 81: Chapter 81",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_81.m4a"
+        },
+        {
+            "name": "Chapter 82: Chapter 82",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_82.m4a"
+        },
+        {
+            "name": "Chapter 83: Chapter 83",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_83.m4a"
+        },
+        {
+            "name": "Chapter 84: Chapter 84",
+            "url": "https://raw.githack.com/Colinbhai/hin-3/main/Ashoka /Chapter_84.m4a"
+        }
+    ]
+}
