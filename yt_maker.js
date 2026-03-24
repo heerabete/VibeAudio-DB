@@ -2,7 +2,7 @@ const { exec } = require('child_process');
 const fs = require('fs');
 
 // Teri YouTube playlist ki link
-const playlistUrl = "https://youtube.com/playlist?list=PLAsrDfJrVPE62H-Knq2o5B9c7mKR4wfm7&si=Br8wjbCBIrn7IsLX";
+const playlistUrl = "https://youtube.com/playlist?list=PLtTZGbHKnQXTHydmKhGkgdk7m3FyVH_LO&si=-RCEmtfnV2o_pnXN";
 
 // yt-dlp command jo har video ka saara metadata JSON format me nikalti hai
 const command = `yt-dlp --dump-json --flat-playlist "${playlistUrl}"`;
@@ -29,6 +29,6 @@ exec(command, { maxBuffer: 1024 * 1024 * 50 }, (error, stdout, stderr) => {
     });
 
     // File me save kar do (4 spaces ki formatting ke sath)
-    fs.writeFileSync('Mansarovar1.json', JSON.stringify(finalData, null, 4));
-    console.log("Boom! 💥 mansarovar1.json file database ke liye ready hai!");
+    fs.writeFileSync('lord or rings.json', JSON.stringify(finalData, null, 4));
+    console.log("Boom! 💥 lord or rings.json file database ke liye ready hai!");
 });
